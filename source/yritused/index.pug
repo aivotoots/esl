@@ -1,0 +1,72 @@
+html(lang='en')
+    include ../head.pug
+        title= 'Eesti Segakooride Liit - Üritused'
+    body
+        include ../navigation.pug
+
+        h4 #[strong= self.title]
+        p &nbsp;
+
+        div(class="divcalendar")
+
+            div(id="calendaroverallcontrols")
+
+                div(id="calendarmonthcontrols")
+                    a(id="btnPrevYr", href="#", title="Previous Year") &lt;&lt;
+                    a(id="btnPrev", href="#", title="Previous Month") &nbsp;&lt;   
+                    span(id="monthandyear")
+                    a(id="btnNext", href="#", title="Next Month") &nbsp;&gt;   
+                    a(id="btnNextYr", href="#", title="Next Year") &gt;&gt;
+
+                div(id="divcalendartable")
+
+        include ../footer.pug
+        script(src='/script.js')
+        script.
+            // On Load of the window
+            window.onload = function () {
+
+              var data = JSON.parse('!{ JSON.stringify(self.data) }');
+
+              // Start calendar
+              var c = new Calendar({
+                ParentID: "divcalendartable",
+
+                DaysOfWeek: [
+                  'E',
+                  'T',
+                  'K',
+                  'N',
+                  'R',
+                  'L',
+                  'P'
+                ],
+
+                Months: ['JAANUAR', 'VEEBRUAR', 'MÄRTS', 'APRILL', 'MAI', 'JUUNI', 'JUULI', 'AUGUST', 'SEPTEMBER', 'OKTOOBER', 'NOVEMBER', 'DETSEMBER'],
+
+                Format: 'dd/mm/yyyy',
+
+                Data: data
+              });
+
+              c.showCurrent();
+
+              // Bind next and previous button clicks
+              getId('btnPrev').onclick = function () {
+                c.previousMonth();
+              };
+
+              getId('btnPrevYr').onclick = function () {
+                c.previousYear();
+              };
+
+              getId('btnNext').onclick = function () {
+                c.nextMonth();
+              };
+
+              getId('btnNextYr').onclick = function () {
+                c.nextYear();
+              };
+
+              
+            }

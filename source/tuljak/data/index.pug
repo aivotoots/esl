@@ -1,0 +1,14 @@
+doctype html
+html(lang='en')
+    include ../../head.pug
+        title= 'Eesti Segakooride Liit - Tuljaku võistulaulmine'
+    body
+        include ../../navigation.pug
+
+        h4 #[strong= self.pealkiri]
+
+        p #[u= self.aeg_ja_asukoht]
+
+        p !{ self.md(self.sisu) }
+
+        include ../../footer.pug

@@ -1,0 +1,27 @@
+mixin liikmeskoor(liige)
+    tr
+        td
+            span #[strong= liige.nimi]
+        td
+            if liige.email
+                each e, id in liige.email
+                    a(href= 'mailto:' + e)= e
+                        br
+            else
+                span &nbsp;
+        td
+            span= liige.esindajad
+
+doctype html
+html(lang='en')
+    include ../head.pug
+        title= 'Eesti Segakooride Liit - Liikmed'
+    body
+        include ../navigation.pug
+
+        h4 #[strong= self.title + " (" + self.liikmed.length + ")"] 
+        table(width="100%")
+            each liige, id in self.liikmed
+                +liikmeskoor(liige)
+
+        include ../footer.pug

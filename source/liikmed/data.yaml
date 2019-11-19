@@ -1,0 +1,549 @@
+path: /liikmed
+title: Eesti Segakooride Liidu liikmeskoorid
+
+liikmed:
+    -
+        nimi: Anija valla SK Hannijöggi
+        email:
+            1: hannijoggi@aniija.ee
+        esindajad: dirigent Mariell Aren, koorivanem Joosep Loidap
+    -
+        nimi: Aruküla SK Spunk
+        email:
+            1: huvikool@hotmail.com
+        esindajad: dirigent Maia-Reta Trampärk, kontaktisik Tiina Tinn
+    -
+        nimi: Atsalama SK
+        email:
+            1: atsalamakoor@hot.ee
+            2: tiinatonurist@gmail.com
+        esindajad: Tiina Dammann
+    -
+        nimi: Audru Valla SK
+        email:
+            1: segakoor.audru@gmail.com
+        esindajad: dirigendid Tiia Tamm, Annely Kuningas, koori president Sulev Saarna
+    -
+        nimi: Biomeedikumi SK
+        email:
+            1: vesiliiv@gmail.com
+        esindajad: Liisa Rahusoo
+    -
+        nimi: Catena SK
+        email:
+            1: heliken@hot.ee
+        esindajad: Heli Kendra
+    -
+        nimi: Causa Amoris
+        email:
+            1: tinnuke@gmail.com
+        esindajad: kontaktisik Villu Kasari
+    -
+        nimi: Chorus Menticum
+        email:
+            1: paap.eve@gmail.com
+            2: ulvi.jukk@politsei.ee
+        esindajad: dirigent Eve Paap, koorivanem Ulvi Jukk
+    -
+        nimi: Eesti Noorte SK
+        email:
+            1: rebanekristiinaa@gmail.com
+        esindajad: Silja Uhs
+    -
+        nimi: Eesti Panga kammerkoor
+        email:
+            1: gertrud.koiduste@eestipank.ee
+        esindajad: dirigent Peeter Perens, koorivanem Gertrud Koiduste
+    -
+        nimi: Eesti Rahvusringhäälingu SK
+        email:
+            1: tiina.leedu@err.ee
+        esindajad: Hirvo Surva
+    -
+        nimi: Elva SK AVE
+        email:
+            1: monikapallon@gmail.com
+        esindajad: dirigent Lilyan Kaiv, koorivanem Monika Pallon
+    -
+        nimi: ESTuudio noortekoor
+        email:
+            1: uku.pytsepp@hotmail.com
+        esindajad: dirigendid Külli Lokko, Eliisa Sakarias, koorivanem Uku Pütsepp
+    -
+        nimi: Euroopa Kultuuripealinna SK
+        email:
+            1: veronika.portsmuth@gmail.com
+        esindajad: Veronika Portsmuth
+    -
+        nimi: Haaslava SK Priius
+        email:
+            1: kaily98@hotmail.com
+            2: marlene.leopard@gmail.com
+        esindajad: dirigendid Kai-Ly Remmelkoor, Marlene Leopard, koorivanem Kersti Ernits
+    -
+        nimi: Hopneri Kammerkoor
+        email:
+            1: roop.karin@gmail.com
+        esindajad: dirigent Karin Rööp, koorivanem Liina Vöörmann
+    -
+        nimi: I.N.T.A. SK
+        email:
+            1: signe@itwconstruction.ee
+            2: signevoolaine@gmail.com
+        esindajad: dirigent Inta Roost, kontaktisik Signe Voolaine
+    -
+        nimi: Jõelähtme Laulusõbrad
+        email:
+            1: katrinaydin@gmail.com
+            2: leili.varte@lookool.ee
+        esindajad: Leili Värte
+    -
+        nimi: Jõgeva KK
+        email:
+            1: kaskmargus@hotmail.com
+        esindajad: Margus Kask
+    -
+        nimi: Jüri perekoor
+        email:
+            1: ruttridbeck@hot.ee
+            2: kultuur@rae.ee
+        esindajad: dirigent Rutt Ridbeck, koorivanem Raina Sinisalu
+    -
+        nimi: Järvakandi SK
+        email:
+            1: helditagel@hot.ee
+        esindajad: Heldi Tagel
+    -
+        nimi: Kabala SK
+        email:
+            1: marike.uusjarv@rvg.edu.ee
+        esindajad: Marike Uusjärv, Anu Siniroht
+    -
+        nimi: Kaitseliidu Majakoor
+        email:
+            1: vesiliiv@gmail.com
+        esindajad: Liisa Rahusoo
+    -
+        nimi: Kanepi SK
+        email:
+            1: kalev.lindal@varbuse.ee
+            2: vaike.kottisse@gmail.com
+        esindajad: dirigent Kalev Lindal, kontaktisik Vaike Kottisse
+    -
+        nimi: Keila SK LA JA DO
+        email:
+            1: ilona.laido@gmail.com
+        esindajad: Ilona Laido, Meelis Kesperi
+    -
+        nimi: Kihelkonna SK
+        email:
+            1: imbi.kolk@gmail.com
+            2: kihelkonnarahvamaja@gmail.com
+        esindajad: Imbi Kolk
+    -
+        nimi: Koeru SK
+        email:
+            1: kultuurimaja@koeruvv.ee
+            2: reeli.tamkivi@gmail.com
+        esindajad: dirigent Aino Linnas, koorivanem Reeli Tamkivi
+    -
+        nimi: Kolepi SK
+        email:
+            1: sad.lonely@mail.ee
+        esindajad: Ara Bander
+    -
+        nimi: Kolga-Kuusalu KK
+        email:
+            1: kuusalu50@hotmail.com
+        esindajad: dirigent Taavi Esko, koorivanem Ulvi Rand
+    -
+        nimi: Konguta SK
+        email:
+            1: merilin.sinikalda@konguta.ee
+        esindajad: dirigent Merilin Sinikalda ja Ragne Lind, koorivanem Moonika Männiste
+    -
+        nimi: Kose kammerkoor
+        email:
+            1: heli.sepp@mail.ee
+        esindajad: Heli Sepp
+    -
+        nimi: Kose noortekoor
+        email:
+            1: heli.sepp@mail.ee
+        esindajad: Heli Sepp
+    -
+        nimi: Kuressaare KK Eysysla
+        email:
+            1: anu@tuulegrupp.ee
+        esindajad: dirigent Veikko Lehto, kontaktisik Anu Hiiuväin
+    -
+        nimi: Kuressaare SK HELIN
+        email:
+            1: mai@oesel.edu.ee
+        esindajad: Mai Rand
+    -
+        nimi: Lagedi SK HELIAND
+        email:
+            1: kairema@gmail.com
+        esindajad: Silja Tammeleht
+    -
+        nimi: Lehtse KK
+        email:
+            1: kadritoomingas@gmail.com
+        esindajad: Jaanus Väljaots, Tiiu Tikkerber
+    -
+        nimi: Luuska Lauluühing
+        email:
+            1: tiiu.kreegipuu@ut.ee
+        esindajad: dirigent Kärolin orav, kontaktisik Tiiu Kreegipuu
+    -
+        nimi: Lüganuse SK
+        email:
+            1: elga.saluvee@lyganuselv.ee
+            2: elga10@hot.ee
+        esindajad: Keio Soomelt
+    -
+        nimi: Läsna-Loobu külakoor
+        email:
+            1: lea.pallon@gmail.com
+        esindajad: Anneli Mäeots
+    -
+        nimi: Maarja koor
+        email:
+            1: rita.kikajon@neti.ee
+        esindajad: dirigent Rita Kikajon, koorivanem Jaak Müürsepp
+    -
+        nimi: Maarja-Magdaleena SK
+        email:
+            1: liia.koorts@gmail.com
+            2: tiia.partelpoeg@gmail.com
+        esindajad: dirigent Liia Koorts, koorivanem Tiia Pärtelpoeg
+    -
+        nimi: Miina Härma Gümnaasiumi SK
+        email:
+            1: kadri.leppoja@tartunoortekoor.ee
+            2: kool@mhg.tartu.ee
+        esindajad: Kadri Leppoja
+    -
+        nimi: Miina Härma Lauluseltsi SK
+        email:
+            1: kadri.leppoja@tartunoortekoor.ee
+            2: heipuu@yahoo.com
+        esindajad: dirigent Kadri Leppoja, koorivanem Heiki Puusepp
+    -
+        nimi: Mõisaküla KK Kungla
+        email:
+            1: kadi.kask.006@gmail.com
+        esindajad: dirigendid Kadi Kask, Kertu Kukka, koorivanem Triin Ojamaa
+    -
+        nimi: Mäluasutuste segakoor MaSk
+        email:
+            1: mask@segakoormask.ee
+        esindajad: dirigent Henri Käärik, koorivanem Ülo Treikelder
+    -
+        nimi: Märjamaa SK RELLO
+        email:
+            1: onne.pajur@taitur.just.ee
+        esindajad: Thea Paluoja
+    -
+        nimi: OiReTa SK
+        email:
+            1: edaliblik@hot.ee
+        esindajad: Eda Liblik
+    -
+        nimi: Oonurme SK
+        email:
+            1: anublum@gmail.com
+        esindajad: Ants Üleoja, Keio Soomelt
+    -
+        nimi: Otepää SK EVEKO
+        email:
+            1: tiina.orm@gmail.com
+        esindajad: Eve Eljand
+    -
+        nimi: Paikuse Lauluselts SIRELI
+        email:
+            1: riina.saks@gmail.com
+        esindajad: Maire Krinal
+    -
+        nimi: Palamuse SK Kuus Õuna
+        email:
+            1: viiskoori@gmail.com
+        esindajad: dirigent Maret Oja, koorivanem Valdi Reinas
+    -
+        nimi: Patika külakoor
+        email:
+            1: margus.vain@gmail.com
+        esindajad: dirigent Mareks Lobe, kontaktisik Margus Vain
+    -
+        nimi: Piirsalu segakoor Piiritu
+        email:
+            1: aivipaju@gmail.com
+        esindajad: dirigent Viivika Riiel, koorivanem Aivi Paju
+    -
+        nimi: Politsei SK Akord
+        email:
+            1: segakoor.juhatus@list.politsei.ee
+            2: kairi.talv@politsei.ee
+        esindajad: dirigent Ingrit Malleus, koorivanem Kairi Talv
+    -
+        nimi: Puka SK U-TUUR
+        email:
+            1: kerstisalujoe@gmail.com
+        esindajad: dirigent Evald Raidma, kontaktisik Kersti Salujõe
+    -
+        nimi: Pärnu SK Endla
+        email:
+            1: endlakoor@endlakoor.ee
+        esindajad: dirigent Kadri Põder, koorivanem Katrin Alliku
+    -
+        nimi: Pärnu SK Kungla
+        email:
+            1: toomas.sutt@gmail.com
+            2: kuldnekungla@hot.ee
+        esindajad: dirigent Timo Dreimann, koorivanem Toomas Sutt
+    -
+        nimi: Rakvere KK SOLARE
+        email:
+            1: info@solare.ee
+        esindajad: Elo Üleoja
+    -
+        nimi: Rapla August '07
+        email:
+            1: pille.kuldkepp@gmail.com
+            2: urve.uusberg@gmail.com
+        esindajad: dirigent Urve Uusberg, koorivanem Pille Kuldkepp
+    -
+        nimi: Rapla KK CANTUS
+        email:
+            1: enno.piisang@agri.ee
+        esindajad: Vahur Soonberg
+    -
+        nimi: Riisipere KK
+        email:
+            1: parts.anu@hotmail.com
+        esindajad: dirigent Cätly Talvik, koorivanem Anu Parts
+    -
+        nimi: Roela SK
+        email:
+            1: tandresson@gmail.com
+        esindajad: Terje Andresson
+    -
+        nimi: Saue SK
+        email:
+            1: valdo.ruul@glamox.com
+        esindajad: dirigent Elviira Alamaa, koorivanem Valdo Ruul
+    -
+        nimi: Sindi Laulukoor
+        email:
+            1: aino.edo@gmail.com
+        esindajad: dirigendid Kristel Reinsalu, Ester Murrand, koorivanem Aino Edo
+    -
+        nimi: Sink Sale Proo
+        email:
+            1: kaja@albu.ee
+            2: aunesuve@gmail.com
+        esindajad: dirigent Kaja Kraav, koorivanem Aune Suve
+    -
+        nimi: Suur Terts
+        email:
+            1: esimene.lumi@gmail.com
+        esindajad: Külli Kaats
+    -
+        nimi: Tabasalu KK
+        email:
+            1: ainsalu@gmail.com
+        esindajad: dirigent Mai Ainsalu, koorivanem Meelis Viisileht
+    -
+        nimi: Tallinna Põllumajandusministeeriumi SK
+        email:
+            1: vahur.mottus@agri.ee
+        esindajad: Aarne Saluveer, Linda Kardna
+    -
+        nimi: Tallinna Rotary Klubi segakoor
+        email:
+            1: jaanikakuusik@gmail.com
+        esindajad: dirigent Jaanika Kuusik, koorivanem Erki Berends
+    -
+        nimi: Tallinna Saarlaste SK
+        email:
+            1: murakas.johanna@gmail.com
+            2: veeve.kalme@mail.ee
+        esindajad: dirigent Johanna Murakas, koorivanem Veeve Kalme
+    -
+        nimi: Tallinna Sadama SK Laulude Lemmik
+        email:
+            1: h.metsal@ts.ee
+        esindajad: Eero Raun, Katrin Järvlepp
+    -
+        nimi: Tallinna SK KALEVA
+        email:
+            1: info@segakoorkaleva.ee
+        esindajad: Tiina Savisaar
+    -
+        nimi: Tallinna SK LAULIK
+        email:
+            1: aime7@hot.ee
+        esindajad: Aime Pärisalu
+    -
+        nimi: Tallinna SK MERIKO
+        email:
+            1: tiia.penjam@opleht.ee
+        esindajad: Merike Toro
+    -
+        nimi: Tallinna SK RAUDAM
+        email:
+            1: gerditilts@gmail.com
+        esindajad: dirigent Kristi Karro, kontaktisik Gerdi Tilts
+    -
+        nimi: Tallinna SK RIOLA
+        email:
+            1: anu.liho@nommekultuur.ee
+        esindajad: Anu Liho, Ene Uibo
+    -
+        nimi: Tallinna SK Videvik
+        email:
+            1: vaike.sarn@kesotskeskus.ee
+        esindajad: Vaike Sarn
+    -
+        nimi: Tallinna SK VOX POPULI
+        email:
+            1: kris695@gmail.com
+        esindajad: Janne Fridolin
+    -
+        nimi: Tallinna Tehnikakõrgkooli KK
+        email:
+            1: elenilvesster@gmail.com
+            2: kammerkoor@tktk.ee
+        esindajad: dirigent Elen Ilves, koorivanem Marianne Kask
+    -
+        nimi: Tallinna Tuletõrjeühingu SK Sõprus
+        email:
+            1: ilmeevald@hotmail.com
+        esindajad: dirigent Marelle Siitas, koorivanem Ilme Ott
+    -
+        nimi: Tapa SK LEETAR
+        email:
+            1: kairi.kroon@mail.ee
+            2: kristina.asukyla@gmail.com
+        esindajad: Kristina Asuküla
+    -
+        nimi: Tarbatu SK
+        email:
+            1: tarbatu@gmail.com
+            2: juhatus@tarbatu.eu
+        esindajad: dirigent Lauri Breede, koorivanem Heino Hommik
+    -
+        nimi: Tartu Noortekoor
+        email:
+            1: riho.leppoja@tartunoortekoor.ee
+        esindajad: Riho, Kadri ja Markus Leppoja
+    -
+        nimi: Tartu Rahvaülikooli SK
+        email:
+            1: lauri.breede@gmail.com
+        esindajad: Lauri Breede
+    -
+        nimi: Tartu Üliõp. Looduskaitseringi SK
+        email:
+            1: sirlelorvi@gmail.com
+        esindajad: Sirle Lorvi
+    -
+        nimi: Tartu Üliõpilassegakoor
+        email:
+            1: info@uliopilassegakoor.ee
+        esindajad: Küllike Joosing
+    -
+        nimi: Tõlliste-Puka-Sangaste SK
+        email:
+            1: margitsiibak@gmail.com
+        esindajad: Margit Aigro
+    -
+        nimi: Torma KK
+        email:
+            1: merlenisu@hotmail.com
+        esindajad: Merle Nisu
+    -
+        nimi: Torma SK Sõbrahing
+        email:
+            1: maretalve@gmail.com
+        esindajad: Mare Talve
+    -
+        nimi: TTÜ Tallinna kolledži SK Aktiva
+        email:
+            1: milla@opti.ee
+        esindajad: Kaja Viira
+    -
+        nimi: TÜ Viljandi Kultuuriakadeemia segakoor
+        email:
+            1: pille.kahrik@vilgym.edu.ee
+            2: annemaikahu@gmail.com
+        esindajad: dirigent Pille Kährik, koorivanem Annemai Kahu
+    -
+        nimi: Uulu SK
+        email:
+            1: ivoorasmae@hotmail.com
+        esindajad: dirigent Annely Kuningas, koorivanem Ivo Orasmäe
+    -
+        nimi: Valga KK
+        email:
+            1: eglitija@hot.ee
+        esindajad: Maarika Reinhold
+    -
+        nimi: Valga SK RÕÕM
+        email:
+            1: sirje.pass@valgamuusikakool.ee
+        esindajad: Sirje Päss
+    -
+        nimi: Vastse-Kuuste SK
+        email:
+            1: akasesalu@gmail.com
+        esindajad: Anne Kasesalu
+    -
+        nimi: Vega
+        email:
+            1: marjemetsis@gmail.com
+        esindajad: Marje Metsis
+    -
+        nimi: Vene Koorikapell
+        email:
+            1: olga@ema.edu.ee
+        esindajad: Olga Tungal
+    -
+        nimi: VHK õpetajate ja lastevanemate SK
+        email:
+            1: janaperens@gmail.com
+            2: ayaka.choir@gmail.com
+        esindajad: dirigendid Jana Perens ja Ayaka Ueda
+    -
+        nimi: Viimsi SK
+        email:
+            1: sven.simson@scoopest.com
+        esindajad: Vaike Sarn
+    -
+        nimi: Viroonia
+        email:
+            1: merts.kallip@mail.ee
+        esindajad: dirigendid Merje Kallip, Kadri Rannu, koorivanem Tarmo Neito
+    -
+        nimi: Võru SK TERVIS
+        email:
+            1: ullesok@hot.ee
+            2: traud18@hot.ee
+        esindajad: Tiit Raud, Lilia Vildo
+    -
+        nimi: Wanemuine SK
+        email:
+            1: eku126@gmail.com
+        esindajad: Valli Ilvik
+    -
+        nimi: Ülenurme SK
+        email:
+            1: Kerttu.liisa.sepp@gmail.com
+        esindajad: Kerttu-Liisa Sepp
+    -
+        nimi: Äksi SK
+        email:
+            1: aksirk@tartuvv.ee
+            2: eliisa.sakarias@gmail.com
+        esindajad: Eliisa Sakarias

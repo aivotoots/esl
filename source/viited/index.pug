@@ -1,0 +1,23 @@
+doctype html
+html(lang='en')
+    include ../head.pug
+        title= 'Eesti Segakooride Liit - Viited'
+    body
+        include ../navigation.pug
+
+        h4 #[strong= self.title]
+        table(width="100%")
+            each viide, id in self.viited
+                tr
+                    td
+                        a(href=viide.url, target='_blank') #[strong= viide.nimi]
+
+        h4 #[strong= self.title2]
+        table(width="100%")
+            each viide, id in self.muud_viited
+                tr
+                    td
+                        a(href=viide.url, target='_blank') #[strong= viide.nimi]
+
+
+        include ../footer.pug

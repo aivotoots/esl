@@ -1,0 +1,4 @@
+path: /tuljak
+title: Tuljaku võistulaulmine läbi aegade
+data:
+    tuljakud: ./data/data.yaml

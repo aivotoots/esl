@@ -1,0 +1,10 @@
+html(lang='en')
+    include ../head.pug
+        title= 'Eesti Segakooride Liit - Tutvustus'
+    body
+        include ../navigation.pug
+
+        h4 #[strong= self.title]
+        p !{ self.md(self.tutvustus) }
+
+        include ../footer.pug

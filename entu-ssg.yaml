@@ -1,0 +1,14 @@
+source: ./source
+build: ./build
+styl: ./source/_styles
+js: ./source/_scripts
+assets: ./assets
+protectedFromCleanup:
+  - assets
+  - index.html
+server:
+    port: 4000
+    assets: /assets/
+dev:
+  aliases: true
+  paths:

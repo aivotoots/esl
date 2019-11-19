@@ -1,0 +1,16 @@
+doctype html
+html(lang='en')
+    include ../head.pug
+        title= 'Eesti Segakooride Liit - Tuljaku võistulaulmine'
+    body
+        include ../navigation.pug
+
+        h4 #[strong= self.title]
+
+        p #{self.sisu}
+
+        each tuljak, id in self.data.tuljakud
+            p
+                a(href= tuljak.path) #[strong= tuljak.id]
+
+        include ../footer.pug

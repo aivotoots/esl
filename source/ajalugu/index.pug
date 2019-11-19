@@ -1,0 +1,17 @@
+doctype html
+html(lang='en')
+    include ../head.pug
+        title= 'Eesti Segakooride Liit - Ajalugu'
+    body
+        include ../navigation.pug
+
+        h4 #[strong= self.title]
+        p
+            span !{ self.md(self.ajalugu.tekst) }
+        br
+        each link, id in self.ajalugu.lingid
+            p
+                a(href=link.url) #[strong= link.pealkiri]
+
+
+        include ../footer.pug

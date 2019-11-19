@@ -1,0 +1,11 @@
+html(lang='en')
+    include ../../head.pug
+        title= 'Eesti Segakooride Liit - Üritused'
+    body
+        include ../../navigation.pug
+
+        h4 #[strong= self.pealkiri]
+        p #[u #{self.asukoht + "."}]
+        p !{ self.md(self.sisu) }
+
+    include ../../footer.pug

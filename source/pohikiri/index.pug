@@ -1,0 +1,14 @@
+doctype html
+html(lang='en')
+    include ../head.pug
+        title= 'Eesti Segakooride Liit - Põhikiri'
+    body
+        include ../navigation.pug
+
+        h4 #[strong= self.title]
+        p
+            each peatykk, id in self.pohikiri
+                p #[strong= peatykk.pealkiri]
+                span !{ self.md(peatykk.sisu) }
+
+        include ../footer.pug
