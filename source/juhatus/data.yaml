@@ -55,15 +55,19 @@ juhatus:
             1: paap.eve@gmail.com
     -
         nimi: Jana Perens
+        pilt:
+            url: /assets/img/juhatus/juhatus_jana_perens.jpg
         email:
             1: janaperens@gmail.com
     -
         nimi: Mihkel Putrinš
         pilt:
-            url: /assets/img/juhatus/juhatus_mihkel_putrinš.png
+            url: /assets/img/juhatus/juhatus_mihkel_putrins.png
         email:
             1: mihkel.putrinsh@gmail.com
     -
         nimi: Urve Uusberg
+        pilt:
+            url: /assets/img/juhatus/juhatus_urve_uusberg.jpg
         email:
             1: urve.uusberg@gmail.com
