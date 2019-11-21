@@ -40,7 +40,7 @@ juhatus:
             url: /assets/img/juhatus/juhatus_kyllike_joosing.jpg
             landscape: true
         telefon: 53 463 437
-        email: 
+        email:
             1: kyllikejoosing@gmail.com
     -
         nimi: Mai Simson
@@ -59,7 +59,7 @@ juhatus:
             1: janaperens@gmail.com
     -
         nimi: Mihkel Putrinš
-	pilt:
+        pilt:
             url: /assets/img/juhatus/juhatus_mihkel_putrinš.png
         email:
             1: mihkel.putrinsh@gmail.com
@@ -67,4 +67,3 @@ juhatus:
         nimi: Urve Uusberg
         email:
             1: urve.uusberg@gmail.com
-
