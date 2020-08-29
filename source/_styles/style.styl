@@ -18,15 +18,18 @@ html
     scroll-behavior smooth
 
 a
-    background-color goldenrod
+    background-color Kuldne
+    opacity .7
     text-decoration none
     color white
-    border-radius .25rem
+    border-radius .05rem
+    border Kuldne solid 1pt
     text-align center
     display inline-block
-    transition all .3s
+    transition all 0.3s
     &:hover
-        opacity .6
+        opacity 1
+        color Tumeinine
 
 .hero
     background url('assets/img/ESL_hero.jpg') center
@@ -34,17 +37,20 @@ a
     padding 2rem 2rem
     display grid
     grid-template-columns 1fr
+    grid-template-rows auto auto auto
     border 1px solid black
     align-items center
     text-align center
     & > *
-        color kuldne
+        color Kuldne
     & > h1
         font-size 4rem
         padding-bottom 1rem
         color white
+        margin: 0
     & > article
         & > p
+            color Kuldne
             font-size 1.5rem
             font-weight 200
         & > a
@@ -69,7 +75,7 @@ a
     stroke-opacity 1
     stroke-miterlimit 10
 
-.breweries
+.kalender
     padding 2rem
     & > ul
         display grid
