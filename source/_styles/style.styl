@@ -33,14 +33,16 @@ a
     background-size cover
     padding 2rem 2rem
     display grid
-    grid-template-columns repeat(auto-fit, minmax(240px, 1fr))
-    border: 1px solid black
+    grid-template-columns 1fr
+    border 1px solid black
     align-items center
+    text-align center
     & > *
         color kuldne
     & > h1
         font-size 4rem
         padding-bottom 1rem
+        color white
     & > article
         & > p
             font-size 1.5rem
@@ -49,9 +51,10 @@ a
             padding 1rem
             margin-top .75rem
 
-.top
-    display: grid
-    grid-template-columns: 240px
+    & > .top
+        display: grid
+        align-items left 
+        grid-template-columns: 1fr 1fr
 
 .kuldne-fill
     fill Kuldne
