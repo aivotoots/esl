@@ -1,10 +1,17 @@
-html(lang='en')
-    include ../_templates/head.pug
-        title= 'Eesti Segakooride Liit - Tutvustus'
-    body
-        include ../_templates/navigation.pug
+//- html(lang='en')
+//-     include ../_templates/head.pug
+//-         title= 'Eesti Segakooride Liit - Tutvustus'
+//-     body
+//-         include ../_templates/navigation.pug
 
-        h4 #[strong= self.title]
-        p !{ self.md(self.tutvustus) }
+//-         h4 #[strong= self.title]
+//-         p !{ self.md(self.tutvustus) }
 
-        include ../_templates/footer.pug
+//-         include ../_templates/footer.pug
+
+
+extends ../_templates/layout.pug
+
+block peasisu
+
+    p !{ self.md(self.tutvustus) }

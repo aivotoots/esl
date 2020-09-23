@@ -1,16 +1,37 @@
-doctype html
-html(lang='en')
-    include ../_templates/head.pug
-        title= 'Eesti Segakooride Liit - Viited'
-    body
-        include ../_templates/navigation.pug
+//- doctype html
+//- html(lang='en')
+//-     include ../_templates/head.pug
+//-         title= 'Eesti Segakooride Liit - Viited'
+//-     body
+//-         include ../_templates/navigation.pug
 
-        h4 #[strong= self.title]
-        table(width="100%")
-            each viide, id in self.viited
-                tr
-                    td
-                        a(href=viide.url, target='_blank') #[strong= viide.nimi]
+//-         h4 #[strong= self.title]
+//-         table(width="100%")
+//-             each viide, id in self.viited
+//-                 tr
+//-                     td
+//-                         a(href=viide.url, target='_blank') #[strong= viide.nimi]
+
+//-         h4 #[strong= self.title2]
+//-         table(width="100%")
+//-             each viide, id in self.muud_viited
+//-                 tr
+//-                     td
+//-                         a(href=viide.url, target='_blank') #[strong= viide.nimi]
+
+
+//-         include ../_templates/footer.pug
+
+
+extends ../_templates/layout.pug
+
+block peasisu
+
+    table(width="100%")
+        each viide, id in self.viited
+            tr
+                td
+                    a(href=viide.url, target='_blank') #[strong= viide.nimi]
 
         h4 #[strong= self.title2]
         table(width="100%")
@@ -18,6 +39,3 @@ html(lang='en')
                 tr
                     td
                         a(href=viide.url, target='_blank') #[strong= viide.nimi]
-
-
-        include ../_templates/footer.pug

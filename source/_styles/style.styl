@@ -32,13 +32,14 @@ a
         color Tumeinine
 
 .hero
-    background url('assets/img/ESL_hero.jpg') center
+    background-image url('assets/img/ESL_hero.jpg') center
+    background-image linear-gradient(to bottom,black,rgba(0, 0, 0, 0)), url('assets/img/ESL_hero.jpg');
     background-size cover
-    padding 2rem 2rem
+    padding 2rem 0
     display grid
     grid-template-columns 1fr
     grid-template-rows auto auto auto
-    border 1px solid black
+    // border 1px solid black
     align-items center
     text-align center
     & > *
@@ -76,8 +77,8 @@ a
     stroke-miterlimit 10
 
 .kalender
-    padding 2rem
     & > ul
+        padding 0
         display grid
         grid-template-columns repeat(auto-fit, minmax(320px, 1fr))
         grid-gap 1rem
@@ -111,8 +112,71 @@ a
                 margin .5rem
 
 footer
-    background-color #333
+    background-color white
     padding .75rem
     color white
     text-align center
     font-size .75rem
+
+/* */
+
+.peasisu
+    background-color #f8f7f2
+    padding 3rem 10rem 2rem 10rem
+    min-height 20rem
+    margin-top -1rem
+
+.keel
+    position absolute
+    right 10rem
+    & > a
+        background-color transparent!important
+        color white
+        border none!important
+
+.kalender_link
+    & > a
+        opacity 1!important
+        background rgba(190, 177, 128, 0.7);
+        padding .5rem 2rem
+        font-size: 1.25rem
+        margin 1rem 0
+    & :hover
+        background rgba(190, 177, 128, 1);
+.logo
+    margin-left 10rem
+
+.menyy-taust
+    background-color #f8f7f2
+
+.menyy
+    display block
+    background-color #3E4C97!important
+    text-align center
+    margin -1rem 10rem 0 10rem
+
+    & > ul
+
+        margin-left 0
+        margin-right 0
+
+        & > li
+            display inline
+            background-color #3E4C97!important
+            opacity 1
+            // padding .5rem 0
+            text-align center
+            min-width 25rem
+
+            & > a
+                background-color #3E4C97
+                opacity 1
+                padding .75rem 2rem
+                border none
+
+            & > :hover
+                background rgba(190, 177, 128, 1);
+            & > :focus
+                background rgba(190, 177, 128, 1);
+
+   

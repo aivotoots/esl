@@ -1,3 +1,5 @@
+extends ../_templates/layout.pug
+
 mixin liikmeskoor(liige)
     tr
         td
@@ -12,16 +14,22 @@ mixin liikmeskoor(liige)
         td
             span= liige.esindajad
 
-doctype html
-html(lang='en')
-    include ../_templates/head.pug
-        title= 'Eesti Segakooride Liit - Liikmed'
-    body
-        include ../_templates/navigation.pug
+//- doctype html
+//- html(lang='en')
+//-     include ../_templates/head.pug
+//-         title= 'Eesti Segakooride Liit - Liikmed'
+//-     body
+//-         include ../_templates/navigation.pug
 
-        h4 #[strong= self.title + " (" + self.liikmed.length + ")"] 
-        table(width="100%")
-            each liige, id in self.liikmed
-                +liikmeskoor(liige)
+//-         h4 #[strong= self.title + " (" + self.liikmed.length + ")"] 
+//-         table(width="100%")
+//-             each liige, id in self.liikmed
+//-                 +liikmeskoor(liige)
 
-        include ../_templates/footer.pug
+//-         include ../_templates/footer.pug
+
+block peasisu
+
+    table(width="100%")
+        each liige, id in self.liikmed
+            +liikmeskoor(liige)

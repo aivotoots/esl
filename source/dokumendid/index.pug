@@ -1,16 +1,27 @@
-doctype html
-html(lang='en')
-    include ../_templates/head.pug
-        title= 'Eesti Segakooride Liit - Dokumendid'
-    body
-        include ../_templates/navigation.pug
+//- doctype html
+//- html(lang='en')
+//-     include ../_templates/head.pug
+//-         title= 'Eesti Segakooride Liit - Dokumendid'
+//-     body
+//-         include ../_templates/navigation.pug
 
-        h4 #[strong= self.title]
-        table(width="100%")
-            each dokument, id in self.dokumendid
-                tr
-                    td
-                        a(href=dokument.url) #[strong= dokument.nimi]
+//-         h4 #[strong= self.title]
+//-         table(width="100%")
+//-             each dokument, id in self.dokumendid
+//-                 tr
+//-                     td
+//-                         a(href=dokument.url) #[strong= dokument.nimi]
 
 
-        include ../_templates/footer.pug
+//-         include ../_templates/footer.pug
+
+
+extends ../_templates/layout.pug
+
+block peasisu
+
+    table(width="100%")
+        each dokument, id in self.dokumendid
+            tr
+                td
+                    a(href=dokument.url) #[strong= dokument.nimi]
