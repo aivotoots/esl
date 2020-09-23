@@ -9,27 +9,31 @@ PRUUN = #3E2D1D
 
 @import url('https://fonts.googleapis.com/css?family=Unna:wght@700&display=swap');
 h1, h2, h3, h4, h5, h6
-    font-family 'Playfair Display', serif
+    // font-family 'Playfair Display', serif
+    font-family 'Unna', serif;
+    line-height: 1.2;
 
 p, a
-    font-family 'Source Sans Pro', sans-serif
+    // font-family 'Source Sans Pro', sans-serif
+    font-family: 'Nunito', sans-serif;
 
 html
     scroll-behavior smooth
 
 a
-    background-color Kuldne
-    opacity .7
+    // background-color Kuldne
+    opacity .5
     text-decoration none
-    color white
-    border-radius .05rem
-    border Kuldne solid 1pt
+    // color white
+    color black
+    // border-radius .05rem
+    // border Kuldne solid 1pt
     text-align center
     display inline-block
     transition all 0.3s
     &:hover
         opacity 1
-        color Tumeinine
+        color Tumesinine
 
 .hero
     background-image url('assets/img/ESL_hero.jpg') center
@@ -48,7 +52,7 @@ a
         font-size 4rem
         padding-bottom 1rem
         color white
-        margin: 0
+        margin 0
     & > article
         & > p
             color Kuldne
@@ -59,13 +63,13 @@ a
             margin-top .75rem
 
     & > .top
-        display: grid
+        display grid
         align-items left 
-        grid-template-columns: 1fr 1fr
+        grid-template-columns 1fr 1fr
 
 .kuldne-fill
     fill Kuldne
-    fill-opacity: 1
+    fill-opacity 1
     stroke none
 .kuldne-joon
     fill none
@@ -83,6 +87,7 @@ a
         grid-template-columns repeat(auto-fit, minmax(320px, 1fr))
         grid-gap 1rem
         & > li
+            display inline
             border 1px solid #E2E2E2
             border-radius .5rem
             & > figure
@@ -126,6 +131,19 @@ footer
     min-height 20rem
     margin-top -1rem
 
+    & > p, & > a, 
+    & > span > p, 
+    & > span > a,
+    & > p > a,
+    & > ul > li,
+    & > table > tbody > tr > td > span, 
+    & > table > tbody > tr > td > a,
+    & ul > li > table > tbody > tr > td,
+    & ul > li > table > tbody > tr > td > a
+        font-family: 'Nunito', sans-serif;
+        letter-spacing 1px
+        line-height: 1.2;
+
 .keel
     position absolute
     right 10rem
@@ -139,8 +157,9 @@ footer
         opacity 1!important
         background rgba(190, 177, 128, 0.7);
         padding .5rem 2rem
-        font-size: 1.25rem
+        font-size 1.25rem
         margin 1rem 0
+        color white
     & :hover
         background rgba(190, 177, 128, 1);
 .logo
@@ -169,14 +188,26 @@ footer
             min-width 25rem
 
             & > a
+                color white
                 background-color #3E4C97
                 opacity 1
                 padding .75rem 2rem
                 border none
 
-            & > :hover
-                background rgba(190, 177, 128, 1);
-            & > :focus
-                background rgba(190, 177, 128, 1);
+            & :hover, & :focus
+                background-color rgba(190, 177, 128, 1)
 
-   
+.menyy-link
+    background-color transparent
+    & :hover, & :focus
+        background-color transparent!important
+
+.juhatus
+    & > ul
+        padding 0
+        display grid
+        grid-template-columns repeat(auto-fit, minmax(320px, 1fr))
+        grid-gap 1rem
+
+        & > li
+            display inline

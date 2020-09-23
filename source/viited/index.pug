@@ -33,9 +33,10 @@ block peasisu
                 td
                     a(href=viide.url, target='_blank') #[strong= viide.nimi]
 
-        h4 #[strong= self.title2]
-        table(width="100%")
-            each viide, id in self.muud_viited
-                tr
-                    td
-                        a(href=viide.url, target='_blank') #[strong= viide.nimi]
+
+    h3 #[strong= self.title2]
+    table(width="100%")
+        each viide2, id2 in self.muud_viited
+            tr
+                td
+                    a(href=viide2.url, target='_blank') #[strong= viide2.nimi]

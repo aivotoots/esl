@@ -1,40 +1,76 @@
-doctype html
-html(lang='en')
-    include ../_templates/head.pug
-        title= 'Eesti Segakooride Liit - Juhatus'
-    body
-        include ../_templates/navigation.pug
+//- doctype html
+//- html(lang='en')
+//-     include ../_templates/head.pug
+//-         title= 'Eesti Segakooride Liit - Juhatus'
+//-     body
+//-         include ../_templates/navigation.pug
 
-        h4 #[strong= self.title]
-        each liige, id in self.juhatus
-            table
-                tr
-                    td
-                        span #[strong= liige.nimi]
-                if liige.pilt
-                    tr
-                        td
-                            if liige.pilt.landscape
-                                img(src= liige.pilt.url, height="200px")
-                            else
-                                img(src= liige.pilt.url, width="200px")
-                if liige.amet
-                    tr
-                        td
-                            span= liige.amet
-                if liige.telefon
-                    tr
-                        td
-                            span= liige.telefon
-                tr
-                    td
-                        if liige.email
-                            each e, id in liige.email
-                                a(href= 'mailto:' + e)= e
-                                br
-            br
+//-         h4 #[strong= self.title]
+//-         each liige, id in self.juhatus
+//-             table
+//-                 tr
+//-                     td
+//-                         span #[strong= liige.nimi]
+//-                 if liige.pilt
+//-                     tr
+//-                         td
+//-                             if liige.pilt.landscape
+//-                                 img(src= liige.pilt.url, height="200px")
+//-                             else
+//-                                 img(src= liige.pilt.url, width="200px")
+//-                 if liige.amet
+//-                     tr
+//-                         td
+//-                             span= liige.amet
+//-                 if liige.telefon
+//-                     tr
+//-                         td
+//-                             span= liige.telefon
+//-                 tr
+//-                     td
+//-                         if liige.email
+//-                             each e, id in liige.email
+//-                                 a(href= 'mailto:' + e)= e
+//-                                 br
+//-             br
 
         
 
 
-        include ../_templates/footer.pug
+//-         include ../_templates/footer.pug
+
+
+extends ../_templates/layout.pug
+
+block peasisu
+
+    section.juhatus
+        ul
+            each liige, id in self.juhatus
+                li
+                    table
+                        tr
+                            td
+                                span #[strong= liige.nimi]
+                        if liige.pilt
+                            tr
+                                td
+                                    if liige.pilt.landscape
+                                        img(src= liige.pilt.url, height="200px")
+                                    else
+                                        img(src= liige.pilt.url, width="200px")
+                        if liige.amet
+                            tr
+                                td
+                                    span= liige.amet
+                        if liige.telefon
+                            tr
+                                td
+                                    span= liige.telefon
+                        tr
+                            td
+                                if liige.email
+                                    each e, id in liige.email
+                                        a(href= 'mailto:' + e)= e
+                                        br
+                    br
