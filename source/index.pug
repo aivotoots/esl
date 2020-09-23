@@ -3,31 +3,81 @@ extends _templates/layout.pug
 block peasisu
 
     section#kalender.kalender
+                //- ul
+                //-     li
+                //-         figure
+                //-             // Photo by Quentin Dr on Unsplash
+                //-             img(src='https://images.unsplash.com/photo-1471421298428-1513ab720a8e', alt='Several hands holding beer glasses')
+                //-             figcaption
+                //-                 h3 Billions upon billions
+                //-         p
+                //-             | Made in the interiors of collapsing stars star stuff harvesting star light venture billions upon billions Drake Equation brain is the seed of intelligence?
+                //-         a(href='#') Visit Website
+                //-     li
+                //-         figure
+                //-             // Photo by Drew Farwell on Unsplash
+                //-             img(src='https://images.unsplash.com/photo-1513309914637-65c20a5962e1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3450&q=80', alt='Several friends doing a toast')
+                //-             figcaption
+                //-                 h3 Drake Equation
+                //-         p
+                //-             | Another world citizens of distant epochs from which we spring descended from astronomers Orion's sword shores of the cosmic ocean.
+                //-         a(href='#') Visit Website
+                //-     li
+                //-         figure
+                //-             // Photo by Rawpixel on Unsplash
+                //-             img(src='https://images.unsplash.com/photo-1535359056830-d4badde79747?ixlib=rb-1.2.1&auto=format&fit=crop&w=3402&q=80', alt='Three different glasses of beer')
+                //-             figcaption
+                //-                 h3 Vast cosmic arena
+                //-         p
+                //-             | Galaxies the ash of stellar alchemy prime number science inconspicuous motes of rock and gas brain is the seed of intelligence.
+                //-         a(href='#') Visit Website
+
+                ul
+                    li.uudis-vasak
+                    li.uudis-parem-pruun
+                        h3 ESLi laulupäev
+                        h2 juuni 2021
+                        h2.pruun-tekst Pärnu vallikäärus
+                        span.veel-infot Täpsem info >
+
                 ul
                     li
-                        figure
-                            // Photo by Quentin Dr on Unsplash
-                            img(src='https://images.unsplash.com/photo-1471421298428-1513ab720a8e', alt='Several hands holding beer glasses')
-                            figcaption
-                                h3 Billions upon billions
-                        p
-                            | Made in the interiors of collapsing stars star stuff harvesting star light venture billions upon billions Drake Equation brain is the seed of intelligence?
-                        a(href='#') Visit Website
+                        table
+                            tr
+                                td.uudis-ikoon
+                                    img(src="/assets/img/kalender_ikoon.png", height="50px")
+                                td.uudis-sisu
+                                    h2 Segakooride Liidu hooaja sündmused
+                                    p
+                                       Olo berspide miliscipsam, opti resAbore comniasi que aut vere precus ipsa cone velest, sin reperib usciet liqui voluptur alis vendusae. Nequi optat reperum aditasi nverunturio blaut quodipsa sequo etur? Quiae as ea quoditatum verspicia nem res
+                    li.uudis-parem
+                        h3 ESLi laulupäev
+                        h2 Lorem ipsum dolor
+
+                ul
                     li
-                        figure
-                            // Photo by Drew Farwell on Unsplash
-                            img(src='https://images.unsplash.com/photo-1513309914637-65c20a5962e1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3450&q=80', alt='Several friends doing a toast')
-                            figcaption
-                                h3 Drake Equation
-                        p
-                            | Another world citizens of distant epochs from which we spring descended from astronomers Orion's sword shores of the cosmic ocean.
-                        a(href='#') Visit Website
+                        table
+                            tr
+                                td.uudis-ikoon
+                                    img(src="/assets/img/toeta_ikoon.png", height="50px")
+                                td.uudis-sisu
+                                    h2 Toeta Miina Härma fondi!
+                                    p
+                                        | Eesti Rahvuskultuuri Fondi arveldusarve span #[strong= "EE672200221001101347"], märgusõna „Miina Härma fond“.
+                                        br
+                                        br
+                                        | 20. oktoobril 2014 asutati Eesti Segakooride Liidu eestvedamisel Eesti Rahvuskultuuri fondi Miina Härma nimeline allfond. Fondi eesmärk on tunnustada isikuid ja kollektiive, kelle tegevus või looming on pälvinud laiemat üldsuse tähelepanu ning on suunatud eesti segakooriliikumise hüvanguks, edendamiseks ja arenguks. Asutamislepingule kirjutasid alla Rahvuskultuuri Fondi esimees Eri Klas ja ESLi juhatuse esimees Veronika Portsmuth.
+
                     li
-                        figure
-                            // Photo by Rawpixel on Unsplash
-                            img(src='https://images.unsplash.com/photo-1535359056830-d4badde79747?ixlib=rb-1.2.1&auto=format&fit=crop&w=3402&q=80', alt='Three different glasses of beer')
-                            figcaption
-                                h3 Vast cosmic arena
-                        p
-                            | Galaxies the ash of stellar alchemy prime number science inconspicuous motes of rock and gas brain is the seed of intelligence.
-                        a(href='#') Visit Website
+                        table
+                            tr
+                                td.uudis-ikoon
+                                    img(src="/assets/img/liitu_ikoon.png", height="50px")
+                                td.uudis-sisu
+                                    h2 Astu Eesti Segakooride Liidu liikmeks!
+                                    p
+                                        | 1. ESL-i liikmena aitad kaasa Eesti koorikultuuri säilitamisele ja edendamisele.
+                                        br
+                                        | 2. ESLi liikmena saate jooksvalt infot koorimuusikamaastikul toimuvast; leiate toreda sõpruskoori või konkursi-festivali; olete nende seas, keda kutsutakse esindama oma maakonda.
+                                        br
+                                        | 3. ESL-i liikmed saavad soodsamalt osaleda kõikidel liidu korraldatavatel üritustel.
