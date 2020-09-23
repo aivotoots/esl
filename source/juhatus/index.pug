@@ -49,12 +49,12 @@ block peasisu
             each liige, id in self.juhatus
                 li
                     table
-                        tr
-                            td
+                        tr.juhatus-liige
+                            td.juhatus-liige-nimi
                                 span #[strong= liige.nimi]
                         if liige.pilt
                             tr
-                                td
+                                td.juhatus-pilt
                                     if liige.pilt.landscape
                                         img(src= liige.pilt.url, height="200px")
                                     else
