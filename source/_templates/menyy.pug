@@ -3,7 +3,7 @@ block menyy
         section.menyy
             ul
                 each link in self.menyy.lingid
-                    if self.path.replace('//', '/') + '/' === link.url
+                    if self.path.replace('//', '/') + '/' === self.valitud_keel + link.url
                         li
                             a(href=self.valitud_keel + link.url).menyy-link.aktiivne-link= link.tekst
                     else

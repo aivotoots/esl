@@ -9,10 +9,10 @@ menyy:
             url: /about/
         -
             tekst: Members
-            url: /members
+            url: /members/
         -
             tekst: Board
             url: /board/
         -
             tekst: Contact
-            url: /contact
+            url: /contact/
