@@ -2,36 +2,10 @@ block menyy
     section.menyy-taust
         section.menyy
             ul
-                li
-                    a(href='/').menyy-link
-                        span Esileht
-                li
-                    a(href='/tutvustus/').menyy-link
-                        span Tutvustus
-                li
-                    a(href='/pohikiri/').menyy-link
-                        span Põhikiri
-                li
-                    a(href='/juhatus/').menyy-link
-                        span Juhatus
-                li
-                    a(href='/dokumendid/').menyy-link
-                        span Dokumendid
-                li
-                    a(href='/liikmed/').menyy-link
-                        span Liikmed
-                li
-                    a(href='/ajalugu/').menyy-link
-                        span Ajalugu
-                li
-                    a(href='/tuljak/').menyy-link
-                        span Tuljaku võistulaulmine
-                li
-                    a(href='/fotod').menyy-link
-                        span Fotod
-                li
-                    a(href='/viited/').menyy-link
-                        span Viited
-                li
-                    a(href='/kontakt/').menyy-link
-                        span Kontakt
+                each link in self.menyy.lingid
+                    if self.path.replace('//', '/') + '/' === link.url
+                        li
+                            a(href=self.valitud_keel + link.url).menyy-link.aktiivne-link= link.tekst
+                    else
+                        li
+                            a(href=self.valitud_keel + link.url).menyy-link= link.tekst

@@ -1,0 +1,23 @@
+---
+path: /history
+
+title: History
+
+ajalugu:
+    tekst: |
+        Eesti Segakooride Liit asutati 1994. aastal. Esimene esimees oli Toomas Kams.
+
+        Alates 1995.aastast on ESL osalenud Tuljaku võistulaulmiste korraldamisel. Võistulaulmist peeti tänavu juba 22. korda. ürituse ajaloo leiate [SIIT](/tuljak).
+    lingid:
+        -
+            pealkiri: 20 AASTAT EESTI SEGAKOORIDE LIITU - Valli Ilvik meenutab
+            url: "/assets/doc/ESLi_ajalugu_I_Valli_Ilvik.doc"
+        -
+            pealkiri: AJALOOLINE ÜLEVAADE EESTI SEGAKOORIDE LIIDU TEGEVUSEST SÜNDMUSTE KAUPA - Katrin Puur
+            url: "/assets/doc/ESLi_ajalugu_II_Katrin_Puur.doc"
+        -
+            pealkiri: EESTI SEGAKOORIDE LIIDU JUHATUSED JA TÖÖTAJAD
+            url: "/assets/doc/ESLi_juhatused_ja_tootajad.doc"
+        -
+            pealkiri: EESTI SEGAKOORIDE LIIDU SEGAKOOR - Valli Ilvik
+            url: "/assets/doc/ESLi_segakoor_Valli_Ilvik.doc"

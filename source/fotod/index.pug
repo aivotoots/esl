@@ -19,8 +19,8 @@ extends ../_templates/layout.pug
 block peasisu
 
     p
-        each aasta, id in self.fotod
-            h3 #[strong= [id]]
-            each album, id2 in aasta
+        each info, id in self.fotod
+            h3 #[strong= [info.aasta]]
+            each album, id2 in info.yritused
                 p
-                    a(href=album.url) #[strong= album.pealkiri]
+                    a(href=album.url, target='_blank') #[strong= album.pealkiri]

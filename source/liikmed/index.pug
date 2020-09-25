@@ -2,13 +2,13 @@ extends ../_templates/layout.pug
 
 mixin liikmeskoor(liige)
     tr
-        td
+        td.liige-nimi
             span #[strong= liige.nimi]
         td
             if liige.email
                 each e, id in liige.email
                     a(href= 'mailto:' + e)= e
-                        br
+                    br
             else
                 span &nbsp;
         td

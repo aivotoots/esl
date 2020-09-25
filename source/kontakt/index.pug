@@ -26,6 +26,9 @@ block peasisu
     each rida, id in self.kontakt
         p #[strong= rida.label]: 
             if rida.email
-                a(href= 'mailto:' + rida.email)= rida.email
+                if rida.nimi
+                    a(href= 'mailto:' + rida.email)= rida.nimi
+                else
+                    a(href= 'mailto:' + rida.email)= rida.email
             else
                 span= rida.sisu

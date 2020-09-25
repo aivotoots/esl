@@ -1,0 +1,169 @@
+path: /fotod
+title: Fotod
+fotod:
+    "a_2020":
+        aasta: 2020
+        yritused:
+            -
+                pealkiri: ESL-i suvekool ja kontsert Haapsalus 21. - 23. augustil 2020.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/suvekool2020
+
+    "a_2019":
+        aasta: 2019
+        yritused:
+            -
+                pealkiri: Emakeelepäeva kontsert "Elab ta sinu sees" Estonia Kontserdisaalis 14. märtsil 2019.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/emakeelepaev2019
+            -
+                pealkiri: XXII Tuljaku võistulaulmine Tartus Miina Härma Gümnaasiumis 9. ja 10. veebruaril 2019.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/tuljak2019
+    "a_2018":
+        aasta: 2018
+        yritused:
+            -
+                pealkiri: ESL-i suur laulupäev "Isamaale" Viljandi laululaval 9. juunil 2018.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/viljandi2018
+            -
+                pealkiri: ESL-i suurvormide kontsert "Loojangu muusika" 17. ja 18. veebruaril 2018.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/loojangu-muusika-2018
+    "a_2017":
+        aasta: 2017
+        yritused:
+            -
+                pealkiri: ESL-i suvekool ja kontsert Haapsalu Kutsehariduskeskuses Uuemõisas ja Haapsalu Toomkirikus 18. - 20. augustil 2017.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/suvekool2017
+            -
+                pealkiri: Emakeelepäeva kontsert "Kauge, kuid lähedane Valgamaa" Valga Kultuuri- ja Huvialakeskuses 14. märtsil 2017.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/emakeelepaev2017
+            -
+                pealkiri: XXI Tuljaku võistulaulmine Tartus Miina Härma Gümnaasiumis 4. ja 5. veebruaril 2017.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/tuljak2017
+    "a_2016":
+        aasta: 2016
+        yritused:
+            -
+                pealkiri: ESL-i advendikontsert Tartu Jaani kirikus 10. detsembril 2016.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/advent_Tartu2016
+            - 
+                pealkiri: ESL-i advendikontsert Tallinna Kaarli kirikus 3. detsembril 2016.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/advent_Tallinn2016
+            -
+                pealkiri: ESL-i suvekool ja kontsert Haapsalus 19. - 21. augustil 2016.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/suvekool2016
+            -
+                pealkiri: ESL-i liikmeskooride laulusimman Viljandi laululaval 11. juunil 2016.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/viljandi2016
+            -
+                pealkiri: Emakeelepäeva kontsert "Hiiumaa väike ja armas" Käima Huvi- ja Kultuurikeskuses 14. märtsil 2016.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/emakeelepaev2016
+            -
+                pealkiri: II Eesti vokaalansamblite võistulaulmine TULJAK Tartus Miina Härma Gümnaasiumis 6. veebruaril 2016.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/tuljak2016
+    "a_2015":
+        aasta: 2015
+        yritused:
+            -
+                pealkiri: XX Tuljaku võistulaulmine Tartus Miina Härma Gümnaasiumis 6. ja 7. veebruaril 2015.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/tuljak2015
+    "a_2014":
+        aasta: 2013
+        yritused:
+            -
+                pealkiri: ESL-i 20.juubel 18. oktoobril 2014.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/ESL20
+            -
+                pealkiri: ESL-i suvekool ja kontsert Haapsalus 22. - 24. augustil 2014.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/suvekool2014
+            -
+                pealkiri: ESL-i emakeelepäeva kontsert "Emakeel lõikab nagu nuga" Jõgeva Kultuurikeskuses 14. märtsil 2014.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/emakeelepaev2014
+            -
+                pealkiri: Miina Härma 150. sünniaastapäeva tähistav kontsert Tallinnas Estonia kontserdisaalis 16. veebruaril 2014.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/MH150_Tallinn2014
+            -
+                pealkiri: Miina Härma 150. sünniaastapäeva tähistav kontsert Tartus Vanemuise Kontserdimajas 9. veebruaril 2014.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/MH150_Tartu2014
+            -
+                pealkiri: I Eesti vokaalansamblite võistulaulmine TULJAK Tartus Hugo Treffneri Gümnaasiumis 8. veebruaril 2014.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/tuljak2014
+    "a_2013":
+        aasta: 2013
+        yritused:
+            -
+                pealkiri: ESL-i advendikontsert Tartu Jaani kirikus 14. detsembril 2013.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/advent_Tartu2013
+            -
+                pealkiri: ESL-i advendikontsert Tallinna Kaarli kirikus 7. detsembril 2013.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/advent_Tallinn2013
+            -
+                pealkiri: ESL-i laulupäev Elva laululaval 15. juunil 2013.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/elva2013
+            -
+                pealkiri: ESL-i emakeelepäeva kontsert Türi kultuurimajas 14. märtsil 2013.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/emakeelepaev2013
+            -
+                pealkiri: XIX Tuljaku võistulaulmine Tartus Miina Härma Gümnaasiumis 9. ja 10. veebruaril 2013.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/tuljak2013
+    "a_2012":
+        aasta: 2012
+        yritused:
+            -
+                pealkiri: ESL-i liikmeskooride laulusimman Moostes 9. juunil 2012.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/mooste2012
+    "a_2011":
+        aasta: 2011
+        yritused:
+            -
+                pealkiri: ESL-i advendikontsert Tartu Jaani kirikus 10. detsembril 2011.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/advent2011
+            -
+                pealkiri: Vanemuise sümfooniaorkestri ja Tartu Noortekoori advendikontsert Tartu Jaani kirikus 3. detsembril 2011.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/vanemuise_ja_TNK_advent2011
+            -
+                pealkiri: XVIII Tuljaku võistulaulmine Tartus Miina Härma Gümnaasiumis 5. ja 6. veebruaril 2011.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/tuljak2011
+    "a_2010":
+        aasta: 2010
+        yritused:
+            -
+                pealkiri: ESL-i advendikontsert Tartu Jaani kirikus 11. detsembril 2010.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/advent2010
+            -
+                pealkiri: ESL-i vabariiklik segakooride laulupäev Türil 5. juunil 2010.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/tyri2010
+    "a_2009":
+        aasta: 2009
+        yritused:
+            -
+                pealkiri: ESL-i advendikontsert Tallinna Jaani kirikus 5. detsembril 2009.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/advent2009
+            -
+                pealkiri: ESL-i juhatus laulupeo tuld toomas. Kärdla-Lohusalu 30. juunil ja 1. juulil 2009.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/laulupeotuli2009
+            -
+                pealkiri: XVII Tuljaku võistulaulmine Tartus Miina Härma Gümnaasiumis 14. veebruaril 2009.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/tuljak2009
+    "a_2007":
+        aasta: 2007
+        yritused:
+            -
+                pealkiri: XV Tuljaku võistulaulmine Tartus Miina Härma Gümnaasiumis 10. veebruaril 2007.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/tuljak2007
+    "a_2006":
+        aasta: 2006
+        yritused:
+            -
+                pealkiri: XIV Tuljaku võistulaulmine Tartus Miina Härma Gümnaasiumis 18. ja 19. veebruaril 2006.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/tuljak2006
+    "a_2005":
+        aasta: 2005
+        yritused:
+            -
+                pealkiri: XIII Tuljaku võistulaulmine 2005.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/tuljak2005
+    "a_2004":
+        aasta: 2004
+        yritused:
+            -
+                pealkiri: XII Tuljaku võistulaulmine Tartus Miina Härma Gümnaasiumis 14. veebruaril 2004.a
+                url: https://www.segakoorideliit.ee/gallery/index.php/tuljak2004
