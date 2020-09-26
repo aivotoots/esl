@@ -1,8 +1,82 @@
 extends _templates/layout.pug
 
 block peasisu
+    table#kalender.kalender-p2is.t2islai-tabel.keskel
+        tr
+            td
+                a(href="")
+                    h3 &lt; AUGUST
+            td
+                h3.pruun-tekst SEPTEMBER 2020
+            td
+                a(href="")
+                    h3 OKTOOBER &gt;
 
-    section#kalender.kalender
+    table.kalender-sisu.t2islai-tabel.keskel
+        tr
+            td
+                h3 T01
+            td
+                h3 K02
+            td
+                h3 N03
+            td
+                h3 R04
+            td
+                h3 L05
+            td
+                h3 P06
+            td
+                h3 E07
+            td
+                h3 T08
+            td
+                h3 K09
+            td
+                h3 N10
+            td
+                h3 R11
+            td
+                h3 L12
+            td
+                h3 P13
+            td
+                h3 E14
+            td
+                h3 T15
+            td
+                h3 K16
+            td
+                h3 N17
+            td
+                h3 R18
+            td
+                h3 L19
+            td
+                h3 P20
+            td
+                h3 E21
+            td
+                h3 T22
+            td
+                h3 K23
+            td
+                h3 N24
+            td
+                h3 R25
+            td
+                h3 L26
+            td
+                a(href="")
+                    h3.pruun-tekst P27
+            td
+                h3 E28
+            td
+                h3 T29
+            td
+                h3 T30
+
+    section.kalender
                 //- ul
                 //-     li
                 //-         figure
@@ -34,11 +108,15 @@ block peasisu
 
                 ul
                     li.uudis-vasak
+                        h3 Eesti Segakooride Liidu advendikontserdid
+                        h1 5. ja 12. detsember
+                        h2.pruun-tekst Tallinnas ja Kuressaares
+                        span.veel-infot Täpsem info &gt;
                     li.uudis-parem-pruun
-                        h3 ESLi laulupäev
-                        h2 juuni 2021
-                        h2.pruun-tekst Pärnu vallikäärus
-                        span.veel-infot Täpsem info >
+                        h3 XXIII segakooride võistulaulmine Tuljak
+                        h1 13. - 14. veebruar 2021
+                        h2.pruun-tekst Tartu Miina Härma Gümnaasiumis
+                        span.veel-infot Täpsem info &gt;
 
                 ul
                     li
@@ -48,10 +126,6 @@ block peasisu
                                     img(src="/assets/img/kalender_ikoon.png", height="50px")
                                 td.uudis-sisu
                                     h2 Segakooride Liidu hooaja sündmused
-                                    p
-                                       Olo berspide miliscipsam, opti resAbore comniasi que aut vere precus ipsa cone velest, sin reperib usciet liqui voluptur alis vendusae. Nequi optat reperum aditasi nverunturio blaut quodipsa sequo etur? Quiae as ea quoditatum verspicia nem res
-                                    br
-
                                     | Hoidke end ESL-i sündmustega kursis ja liituge meie #[strong="uudiskirjaga"]:
                                     p
                                         section.listi-vorm
@@ -73,9 +147,11 @@ block peasisu
                                     p.oma-syndmus
                                         | Lisage oma sündmus meie kalendrisse&nbsp;
                                         a(href='https://forms.gle/bcaSQQg6QGZXsN3D7', target="_blank") SIIN
-                    li.uudis-parem
-                        h3 ESLi laulupäev
-                        h2 Lorem ipsum dolor
+                    li.uudis-vasak
+                        h3 ESL-i laulupäev
+                        h1 juuni 2021
+                        h2.pruun-tekst Pärnu vallikäärus
+                        span.veel-infot Täpsem info &gt;
 
                 ul
                     li
@@ -104,3 +180,6 @@ block peasisu
                                         | 2. ESLi liikmena saate jooksvalt infot koorimuusikamaastikul toimuvast; leiate toreda sõpruskoori või konkursi-festivali; olete nende seas, keda kutsutakse esindama oma maakonda.
                                         br
                                         | 3. ESL-i liikmed saavad soodsamalt osaleda kõikidel liidu korraldatavatel üritustel.
+                                        br
+                                        br
+                                        span #[strong= "NB! ESL-i liikmeks astumise avalduse ja liikmemaksu lehe leiate dokumentide lehelt!"]

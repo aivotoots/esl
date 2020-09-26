@@ -39,8 +39,8 @@ a
         color Tumesinine
 
 .hero
-    background-image url('assets/img/ESL_hero.jpg') center
-    background-image linear-gradient(to bottom,black,rgba(0, 0, 0, 0)), url('assets/img/ESL_hero.jpg');
+    background-image url('assets/img/ESL_header.jpeg') center
+    background-image linear-gradient(to bottom,black,rgba(0, 0, 0, 0)), url('assets/img/ESL_header.jpeg');
     background-size cover
     padding 2rem 0
     display grid
@@ -130,7 +130,7 @@ footer
 
 .peasisu
     background-color TAUST
-    padding 3rem 10rem 2rem 10rem
+    padding 2rem 10rem 2rem 10rem
     min-height 20rem
     margin-top -1rem
 
@@ -157,10 +157,19 @@ footer
     padding-bottom 2rem
 
 .uudis-vasak
-    background-image url('assets/img/uudis_taust1.jpg')
+    padding 1rem
+    // background-image url('assets/img/uudis_taust1.jpg')
     background-size 100% 100%;
+    text-align center
+    & > h3
+        font-size 2rem
+    & > h2
+        font-size 2.5rem
+    & > h1
+        font-size 3.5rem
 
-.uudis-parem
+.uudis-parem-pildiga
+    padding 1rem
     text-align center
     // width 100%
     // height 100%
@@ -171,21 +180,26 @@ footer
         font-size 2rem
     & > h2
         font-size 2.5rem
-
-.uudis-parem-pruun
+    & > h1
+        font-size 3.5rem
+        
+.uudis-parem-pruun, .uudis-vasak-pruun
     padding 1rem
     text-align center
-    // width 100%
-    // height 100%
     background-color Kuldne
     color white
     & > h3
         font-size 2rem
     & > h2
         font-size 2.5rem
+    & > h1
+        font-size 3.5rem
 
 .pruun-tekst
     color PRUUN
+
+.sinine-tekst
+    color Sinine
 
 .veel-infot
     float right
@@ -288,3 +302,19 @@ footer
 
   .liige-nimi
       vertical-align top
+
+//
+
+.keskel
+    text-align center
+    vertical-align middle
+
+.t2islai-tabel
+    width 100%
+
+.kalender-p2is
+    margin-top -1.5rem
+    margin-bottom -1.5rem
+
+.tumesinine-tekst
+    color Tumesinine

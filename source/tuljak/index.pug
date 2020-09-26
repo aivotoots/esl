@@ -20,7 +20,16 @@ extends ../_templates/layout.pug
 
 block peasisu
 
-    p #{self.sisu}
+    //- p #{self.sisu}
 
-        each tuljak, id in self.data.tuljakud
-            a(href= tuljak.path) #[strong= tuljak.id] &nbsp;&nbsp;&nbsp;
+    each tuljak, id in self.data.tuljakud
+        //- if self.viimane_tuljak.id == tuljak.id
+        //-     a(href= tuljak.path).tumesinine-tekst #[strong= tuljak.id] &nbsp;&nbsp;&nbsp;
+        //- else
+        a(href= tuljak.path) #[strong= tuljak.id] &nbsp;&nbsp;&nbsp;
+
+    h2 #[strong= self.viimane_tuljak.pealkiri]
+
+    p #[u= self.viimane_tuljak.aeg_ja_asukoht]
+
+        p !{ self.md(self.viimane_tuljak.sisu) }
