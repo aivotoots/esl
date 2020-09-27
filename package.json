@@ -7,8 +7,6 @@
     "entu-ssg": "5.2.0"
   },
   "scripts": {
-    "start": "./serve.sh",
-    "build": "npm build",
     "dev": "node ./node_modules/entu-ssg/src/serve.js ./entu-ssg.yaml full"
   },
   "repository": {
