@@ -83,7 +83,8 @@ block header
                 a(href='/') EST
                 span &nbsp;|&nbsp;
                 a(href='/en') ENG
-        h1= self.organisatsioon
+        h1
+            a(href=self.valitud_keel+'/').org-link=self.organisatsioon
         article
             span.kalender_link
                 a(href=self.valitud_keel+'/#kalender')= self.hooaegnupp
