@@ -1,0 +1,38 @@
+valitud_keel: ""
+organisatsioon: Eesti Segakooride Liit
+hooaegnupp: HOOAJA KALENDER
+menyy:
+    lingid:
+        -
+            tekst: Tutvustus
+            url: /tutvustus/
+        -
+            tekst: Põhikiri
+            url: /pohikiri/
+        -
+            tekst: Juhatus
+            url: /juhatus/
+        -
+            tekst: Dokumendid
+            url: /dokumendid/
+        -
+            tekst: Liikmed
+            url: /liikmed/
+        -
+            tekst: Ajalugu
+            url: /ajalugu/
+        -
+            tekst: Tuljak
+            url: /tuljak/
+        -
+            tekst: Fotod
+            url: /fotod/
+        -
+            tekst: Viited
+            url: /viited/
+        -
+            tekst: Kontakt
+            url: /kontakt/
+        -
+            tekst: Logo
+            url: /logo/

@@ -1,3 +1,8 @@
+
+locales:
+    - en
+    - et
+defaultLocale: et
 source: ./source
 build: ./build
 styl: ./source/_styles

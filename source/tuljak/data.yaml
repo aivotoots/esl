@@ -1,4 +1,31 @@
 path: /tuljak
-title: Tuljaku võistulaulmine läbi aegade
+title: ""
 data:
     tuljakud: ./data/data.yaml
+
+viimane_tuljak:
+    path: /tuljak/2019
+    id: XXII (2019)
+    pealkiri: XXII võistulaulmine
+    aeg_ja_asukoht: 9.-10. veebruaril 2019 Miina Härma Gümnaasiumis
+    sisu: |
+        Tulemused:
+
+        A-kategooria:
+
+          I koht - Tallinna Kammerkoor, dirigent Mariell Aren
+          II koht - Segakoor HUIK!, dirigent Ingrid Roose
+          III koht - Tartu Maarja Kirikukoor, dirigent Lilyan Kaiv
+
+        B-kategooria:
+
+          II koht - Vene Koorikapell, dirigent Olga Tungal
+          II koht - Eesti Rahvusringhäälingu Segakoor, dirigent Hirvo Surva
+
+        C-kategooria:
+
+          I koht -
+          II koht - VHK Õpetajate ja Lapsevanemate Segakoor, dirigendid Jana Perens ja Ayaka Ueda
+          III koht - Anija valla segakoorile Hannijöggi, dirigendid Mariell Aren ja Eleri-Kristel Kuimet
+
+        Parima kohustusliku laulu eripreemiad pälvis Tallinna Kammerkoor (Eino Tamberg / Juhan Liiv - "Isamaale").

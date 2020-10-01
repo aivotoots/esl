@@ -1,0 +1,18 @@
+---
+path: /logos
+title: Logo
+
+logod:
+    png:
+        nimetus: .png (valge taust)
+        url: /assets/logo/ESL_logo.png
+        thumb_url: /assets/logo/ESL_logo.png
+    svg:
+        nimetus: .svg (läbipaistev)
+        url: /assets/logo/ESL_logo.svg
+        thumb_url: /assets/logo/ESL_logo.svg
+    pdf:
+        nimetus: .pdf
+        url: /assets/logo/ESL_logo.pdf
+        thumb_url: /assets/logo/ESL_logo_thumb.png
+        

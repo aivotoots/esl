@@ -1,0 +1,22 @@
+doctype html
+html(lang='en')
+    include head.pug
+    title= 'Eesti Segakooride Liit'
+    
+    body
+
+        main.wrapper
+            block header
+                include header.pug
+
+            block menyy
+                include menyy.pug
+
+            section.peasisu
+
+                h2 #[strong= self.title]
+
+                block peasisu
+
+        footer.footer
+            include footer.pug

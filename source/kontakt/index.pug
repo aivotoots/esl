@@ -1,19 +1,34 @@
-doctype html
-html(lang='en')
-    include ../head.pug
-        title= 'Eesti Segakooride Liit - Kontakt'
-    body
-        include ../navigation.pug
+//- doctype html
+//- html(lang='en')
+//-     include ../_templates/head.pug
+//-         title= 'Eesti Segakooride Liit - Kontakt'
+//-     body
+//-         include ../_templates/navigation.pug
 
-        h4 #[strong= self.title]
-        each rida, id in self.kontakt
-            p #[strong= rida.label]: 
-                if rida.email
-                    a(href= 'mailto:' + rida.email)= rida.email
-                else
-                    span= rida.sisu
+//-         h4 #[strong= self.title]
+//-         each rida, id in self.kontakt
+//-             p #[strong= rida.label]: 
+//-                 if rida.email
+//-                     a(href= 'mailto:' + rida.email)= rida.email
+//-                 else
+//-                     span= rida.sisu
 
         
 
 
-        include ../footer.pug
+//-         include ../_templates/footer.pug
+
+
+extends ../_templates/layout.pug
+
+block peasisu
+
+    each rida, id in self.kontakt
+        p #[strong= rida.label]: 
+            if rida.email
+                if rida.nimi
+                    a(href= 'mailto:' + rida.email)= rida.nimi
+                else
+                    a(href= 'mailto:' + rida.email)= rida.email
+            else
+                span= rida.sisu

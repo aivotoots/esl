@@ -1,14 +1,26 @@
-html(lang='en')
-    include ../head.pug
-        title= 'Eesti Segakooride Liit - Fotod'
-    body
-        include ../navigation.pug
+//- html(lang='en')
+//-     include ../_templates/head.pug
+//-         title= 'Eesti Segakooride Liit - Fotod'
+//-     body
+//-         include ../_templates/navigation.pug
 
-        h4 #[strong= self.title]
-        p
-            each aasta, id in self.fotod
-                each album, id2 in aasta
-                    p
-                        a(href=album.url) #[strong= album.pealkiri]
+//-         h4 #[strong= self.title]
+//-         p
+//-             each aasta, id in self.fotod
+//-                 each album, id2 in aasta
+//-                     p
+//-                         a(href=album.url) #[strong= album.pealkiri]
 
-        include ../footer.pug
+//-         include ../_templates/footer.pug
+
+
+extends ../_templates/layout.pug
+
+block peasisu
+
+    p
+        each info, id in self.fotod
+            h3 #[strong= [info.aasta]]
+            each album, id2 in info.yritused
+                p
+                    a(href=album.url, target='_blank') #[strong= album.pealkiri]

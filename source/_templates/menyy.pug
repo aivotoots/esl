@@ -1,0 +1,11 @@
+block menyy
+    section.menyy-taust
+        section.menyy
+            ul
+                each link in self.menyy.lingid
+                    if self.path.replace('//', '/') + '/' === self.valitud_keel + link.url
+                        li
+                            a(href=self.valitud_keel + link.url).menyy-link.aktiivne-link= link.tekst
+                    else
+                        li
+                            a(href=self.valitud_keel + link.url).menyy-link= link.tekst

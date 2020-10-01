@@ -1,66 +1,326 @@
+Sinine = #3E4C97
+Kuldne = #BEB180
+// SININE 70%
+// KULDNE 70%
+Tumesinine = #0B1B38
+TAUST = #F8F7F2
+PRUUN = #3E2D1D
+
+
+@import url('https://fonts.googleapis.com/css?family=Unna:wght@700&display=swap');
+h1, h2, h3, h4, h5, h6
+    // font-family 'Playfair Display', serif
+    font-family 'Unna', serif;
+    line-height: 1.2;
+
+p, a
+    // font-family 'Source Sans Pro', sans-serif
+    font-family: 'Nunito', sans-serif;
+
+html
+    scroll-behavior smooth
+
 body
-    padding-top 30px
-    padding-bottom 30px
-    font-family 'Helvetica Neue', Roboto, sans-serif
-    font-size 16px
-    font-weight 300
-    line-height 22px
-    color #182530
+    color Sinine
 
-h1
-    margin-top 120px
-    margin-bottom 110px
-    font-size 48px
-    font-weight 100
+a
+    // background-color Kuldne
+    opacity .5
+    text-decoration none
+    // color white
+    color Kuldne
+    // border-radius .05rem
+    // border Kuldne solid 1pt
+    text-align center
+    display inline-block
+    transition all 0.3s
+    &:hover
+        opacity 1
+        color Tumesinine
+
+.hero
+    background-image url('assets/img/ESL_header.jpeg') center
+    background-image linear-gradient(to bottom,black,rgba(0, 0, 0, 0)), url('assets/img/ESL_header.jpeg');
+    background-size cover
+    padding 2rem 0
+    display grid
+    grid-template-columns 1fr
+    grid-template-rows auto auto auto
+    // border 1px solid black
+    align-items center
+    text-align center
+    & > *
+        color Kuldne
+    & > h1
+        font-size 4rem
+        padding-bottom 1rem
+        color white
+        margin 0
+    & > article
+        & > p
+            color Kuldne
+            font-size 1.5rem
+            font-weight 200
+        & > a
+            padding 1rem
+            margin-top .75rem
+
+    & > .top
+        display grid
+        align-items left 
+        grid-template-columns 1fr 1fr
+
+.kuldne-fill
+    fill Kuldne
+    fill-opacity 1
+    stroke none
+.kuldne-joon
+    fill none
+    stroke-width 2.584
+    stroke-linecap butt
+    stroke-linejoin miter
+    stroke Kuldne
+    stroke-opacity 1
+    stroke-miterlimit 10
+
+.kalender
+    & > ul
+        padding 0
+        display grid
+        grid-template-columns repeat(auto-fit, minmax(320px, 1fr))
+        grid-gap 1rem
+        & > li
+            display inline
+            border 1px solid #E2E2E2
+            // border-radius .5rem
+            & > figure
+                max-height 220px
+                overflow hidden
+                // border-top-left-radius .5rem
+                // border-top-right-radius .5rem
+                position relative
+                & > img
+                    width 100%
+                & > figcaption
+                    position absolute
+                    bottom 0
+                    background-color rgba(0,0,0,.7)
+                    width 100%
+                    & > h3
+                        color white
+                        padding .75rem
+                        font-size 1.25rem
+            & > p
+                font-size 1rem
+                line-height 1.5
+                padding 1rem .75rem
+                color #666666
+            & > a
+                padding .5rem 1rem
+                margin .5rem
+
+footer
+    background-color white
+    padding .75rem
+    color black
+    text-align center
+    font-size .75rem
+
+/* */
+
+.peasisu
+    background-color TAUST
+    padding 2rem 10rem 2rem 10rem
+    min-height 20rem
+    margin-top -1rem
+
+    & > p, & > a, 
+    & > span > p, 
+    & > span > a,
+    & > p > a,
+    & > ul > li,
+    & > table > tbody > tr > td > span, 
+    & > table > tbody > tr > td > a,
+    & ul > li > table > tbody > tr > td,
+    & ul > li > table > tbody > tr > td > a
+        font-family: 'Nunito', sans-serif;
+        letter-spacing 1px
+        line-height: 1.2;
+
+.uudis-ikoon
+    vertical-align top
+    padding 1rem .5rem .5rem .5rem
+
+.uudis-sisu
+    vertical-align top
+    padding .5rem
+    padding-bottom 2rem
+
+.uudis-vasak
+    padding 1rem
+    // background-image url('assets/img/uudis_taust1.jpg')
+    background-size 100% 100%;
+    text-align center
+    & > h3
+        font-size 2rem
+    & > h2
+        font-size 2.5rem
+    & > h1
+        font-size 3.5rem
+
+.uudis-parem-pildiga
+    padding 1rem
+    text-align center
+    // width 100%
+    // height 100%
+    background-image url('assets/img/uudis_taust2.jpg')
+    background-size 100% 100%;
+    color white
+    & > h3
+        font-size 2rem
+    & > h2
+        font-size 2.5rem
+    & > h1
+        font-size 3.5rem
+        
+.uudis-parem-pruun, .uudis-vasak-pruun
+    padding 1rem
+    text-align center
+    background-color Kuldne
+    color white
+    & > h3
+        font-size 2rem
+    & > h2
+        font-size 2.5rem
+    & > h1
+        font-size 3.5rem
+
+.pruun-tekst
+    color PRUUN
+
+.sinine-tekst
+    color Sinine
+
+.veel-infot
+    float right
+
+.listi-vorm
+    float left
+
+.listi-nupp
+    margin-top .5rem
+
+.oma-syndmus
+    text-align right
+
+.keel
+    position absolute
+    right 10rem
+    & > a
+        background-color transparent!important
+        border none!important
+        color Kuldne!important
+
+.kalender_link
+    & > a
+        opacity 1!important
+        background rgba(190, 177, 128, 0.7);
+        padding .5rem 2rem
+        font-size 1.25rem
+        margin 1rem 0
+        color white
+    & :hover
+        background rgba(190, 177, 128, 1);
+.logo
+    margin-left -25rem
+
+.menyy-taust
+    background-color TAUST
+
+.menyy
+    display block
+    background-color Sinine!important
+    text-align center
+    margin -1rem 10rem 0 10rem
+
+    & > ul
+
+        padding-left 0
+        text-align center
+
+        & > li
+            display inline
+            background-color Sinine!important
+            opacity 1
+            // padding .5rem 0
+            text-align center
+            min-width 15rem
+
+            & > a
+                color white
+                background-color Sinine
+                opacity 1
+                padding .75rem 1.75rem
+                border none
+
+            & :hover, & :focus
+                background-color rgba(190, 177, 128, 1)
+
+.menyy-link
+    background-color transparent
+    & :hover, & :focus
+        background-color transparent!important
+
+.aktiivne-link
+    background-color: Kuldne!important
+
+.joondus-keskele
     text-align center
 
-h2
-    margin-top 200px
-    margin-bottom 30px
-    padding-top 40px
-    font-size 32px
-    font-weight 100
+// Juhatus
+
+.juhatus
+    & > ul
+        padding 0
+        display grid
+        grid-template-columns repeat(auto-fit, minmax(320px, 1fr))
+        grid-gap 1rem
+
+        & > li
+            display inline
+
+.juhatus-liige
+    text-align left
+
+.juhatus-liige-nimi
     text-align center
 
-h3
-    margin-top 120px
-    margin-bottom 10px
-    padding-top 40px
-    padding-bottom 5px
-    color #23241f
-    font-weight 500
-    border-bottom 1px solid #E8E8E8
+.juhatus-pilt
+    text-align center
 
-h4
-    margin-top 0
-    margin-bottom 10px
-    padding-top 40px
-    color #23241f
-    font-weight 500
+  // Liikmed
 
-pre
-    margin-top 10px
-    padding 0
-    border none
-    border-radius 0
-    font-size 12px
-    line-height 16px
+  .liige-nimi
+      vertical-align top
 
-    code
-        border-radius 5px
+//
 
-.hljs
-  padding 1em
+.keskel
+    text-align center
+    vertical-align middle
 
-img
-    margin 10px
-    &:first-child
-        margin-left 0px
+.t2islai-tabel
+    width 100%
 
-    &[src$='screenshot.png']
-        display block
-        margin 30px auto 0px auto
-        width 100%
-        max-width 900px
-        border 1px solid #B9B9B9
-        border-radius 6px
+.kalender-p2is
+    margin-top -1.5rem
+    margin-bottom -1.5rem
+
+.tumesinine-tekst
+    color Tumesinine
+
+.org-link
+    color white!important
+    opacity 1
+    font-family 'Unna', serif;
+

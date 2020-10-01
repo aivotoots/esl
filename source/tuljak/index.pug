@@ -1,16 +1,35 @@
-doctype html
-html(lang='en')
-    include ../head.pug
-        title= 'Eesti Segakooride Liit - Tuljaku võistulaulmine'
-    body
-        include ../navigation.pug
+//- doctype html
+//- html(lang='en')
+//-     include ../_templates/head.pug
+//-         title= 'Eesti Segakooride Liit - Tuljaku võistulaulmine'
+//-     body
+//-         include ../_templates/navigation.pug
 
-        h4 #[strong= self.title]
+//-         h4 #[strong= self.title]
 
-        p #{self.sisu}
+//-         p #{self.sisu}
 
-        each tuljak, id in self.data.tuljakud
-            p
-                a(href= tuljak.path) #[strong= tuljak.id]
+//-         each tuljak, id in self.data.tuljakud
+//-             p
+//-                 a(href= tuljak.path) #[strong= tuljak.id]
 
-        include ../footer.pug
+//-         include ../_templates/footer.pug
+
+
+extends ../_templates/layout.pug
+
+block peasisu
+
+    //- p #{self.sisu}
+
+    each tuljak, id in self.data.tuljakud
+        //- if self.viimane_tuljak.id == tuljak.id
+        //-     a(href= tuljak.path).tumesinine-tekst #[strong= tuljak.id] &nbsp;&nbsp;&nbsp;
+        //- else
+        a(href= tuljak.path) #[strong= tuljak.id] &nbsp;&nbsp;&nbsp;
+
+    h2 #[strong= self.viimane_tuljak.pealkiri]
+
+    p #[u= self.viimane_tuljak.aeg_ja_asukoht]
+
+        p !{ self.md(self.viimane_tuljak.sisu) }

@@ -1,8 +1,8 @@
 html(lang='en')
-    include ../head.pug
+    include ../_templates/head.pug
         title= 'Eesti Segakooride Liit - Üritused'
     body
-        include ../navigation.pug
+        include ../_templates/navigation.pug
 
         h4 #[strong= self.title]
         p &nbsp;
@@ -20,7 +20,7 @@ html(lang='en')
 
                 div(id="divcalendartable")
 
-        include ../footer.pug
+        include ../_templates/footer.pug
         script(src='/script.js')
         script.
             // On Load of the window

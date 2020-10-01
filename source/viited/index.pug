@@ -1,23 +1,42 @@
-doctype html
-html(lang='en')
-    include ../head.pug
-        title= 'Eesti Segakooride Liit - Viited'
-    body
-        include ../navigation.pug
+//- doctype html
+//- html(lang='en')
+//-     include ../_templates/head.pug
+//-         title= 'Eesti Segakooride Liit - Viited'
+//-     body
+//-         include ../_templates/navigation.pug
 
-        h4 #[strong= self.title]
-        table(width="100%")
-            each viide, id in self.viited
-                tr
-                    td
-                        a(href=viide.url, target='_blank') #[strong= viide.nimi]
+//-         h4 #[strong= self.title]
+//-         table(width="100%")
+//-             each viide, id in self.viited
+//-                 tr
+//-                     td
+//-                         a(href=viide.url, target='_blank') #[strong= viide.nimi]
 
-        h4 #[strong= self.title2]
-        table(width="100%")
-            each viide, id in self.muud_viited
-                tr
-                    td
-                        a(href=viide.url, target='_blank') #[strong= viide.nimi]
+//-         h4 #[strong= self.title2]
+//-         table(width="100%")
+//-             each viide, id in self.muud_viited
+//-                 tr
+//-                     td
+//-                         a(href=viide.url, target='_blank') #[strong= viide.nimi]
 
 
-        include ../footer.pug
+//-         include ../_templates/footer.pug
+
+
+extends ../_templates/layout.pug
+
+block peasisu
+
+    table(width="100%")
+        each viide, id in self.viited
+            tr
+                td
+                    a(href=viide.url, target='_blank') #[strong= viide.nimi]
+
+
+    h3 #[strong= self.title2]
+    table(width="100%")
+        each viide2, id2 in self.muud_viited
+            tr
+                td
+                    a(href=viide2.url, target='_blank') #[strong= viide2.nimi]

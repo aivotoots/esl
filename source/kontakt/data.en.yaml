@@ -1,0 +1,21 @@
+---
+path: /contact
+title: Contact us
+kontakt:
+    aadress:
+        label: Address
+        sisu: Roosikrantsi 13 10119 Tallinn
+    telefon:
+        label: Telephone
+        sisu: 59 035 331 (Mariell Aren)
+    email:
+        label: E-mail
+        email: eestisegakoorideliit@gmail.com
+    arvenumber:
+        label: Account number
+        sisu: EE592200001120198684
+    haldaja:
+        label: This site is administered by
+        nimi: Aivo Toots
+        email: aivotoots@gmail.com
+

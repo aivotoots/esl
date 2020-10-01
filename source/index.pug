@@ -1,11 +1,185 @@
-doctype html
-html(lang='en')
-    include head.pug
-        title= 'Eesti Segakooride Liit'
-    body
-        include navigation.pug
+extends _templates/layout.pug
 
-        h4 #[strong= self.title]
-        p Tere tulemust!
+block peasisu
+    table#kalender.kalender-p2is.t2islai-tabel.keskel
+        tr
+            td
+                a(href="")
+                    h3 &lt; AUGUST
+            td
+                h3.pruun-tekst SEPTEMBER 2020
+            td
+                a(href="")
+                    h3 OKTOOBER &gt;
 
-        include footer.pug
+    table.kalender-sisu.t2islai-tabel.keskel
+        tr
+            td
+                h3 T01
+            td
+                h3 K02
+            td
+                h3 N03
+            td
+                h3 R04
+            td
+                h3 L05
+            td
+                h3 P06
+            td
+                h3 E07
+            td
+                h3 T08
+            td
+                h3 K09
+            td
+                h3 N10
+            td
+                h3 R11
+            td
+                h3 L12
+            td
+                h3 P13
+            td
+                h3 E14
+            td
+                h3 T15
+            td
+                h3 K16
+            td
+                h3 N17
+            td
+                h3 R18
+            td
+                h3 L19
+            td
+                h3 P20
+            td
+                h3 E21
+            td
+                h3 T22
+            td
+                h3 K23
+            td
+                h3 N24
+            td
+                h3 R25
+            td
+                h3 L26
+            td
+                a(href="")
+                    h3.pruun-tekst P27
+            td
+                h3 E28
+            td
+                h3 T29
+            td
+                h3 T30
+
+    section.kalender
+                //- ul
+                //-     li
+                //-         figure
+                //-             // Photo by Quentin Dr on Unsplash
+                //-             img(src='https://images.unsplash.com/photo-1471421298428-1513ab720a8e', alt='Several hands holding beer glasses')
+                //-             figcaption
+                //-                 h3 Billions upon billions
+                //-         p
+                //-             | Made in the interiors of collapsing stars star stuff harvesting star light venture billions upon billions Drake Equation brain is the seed of intelligence?
+                //-         a(href='#') Visit Website
+                //-     li
+                //-         figure
+                //-             // Photo by Drew Farwell on Unsplash
+                //-             img(src='https://images.unsplash.com/photo-1513309914637-65c20a5962e1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3450&q=80', alt='Several friends doing a toast')
+                //-             figcaption
+                //-                 h3 Drake Equation
+                //-         p
+                //-             | Another world citizens of distant epochs from which we spring descended from astronomers Orion's sword shores of the cosmic ocean.
+                //-         a(href='#') Visit Website
+                //-     li
+                //-         figure
+                //-             // Photo by Rawpixel on Unsplash
+                //-             img(src='https://images.unsplash.com/photo-1535359056830-d4badde79747?ixlib=rb-1.2.1&auto=format&fit=crop&w=3402&q=80', alt='Three different glasses of beer')
+                //-             figcaption
+                //-                 h3 Vast cosmic arena
+                //-         p
+                //-             | Galaxies the ash of stellar alchemy prime number science inconspicuous motes of rock and gas brain is the seed of intelligence.
+                //-         a(href='#') Visit Website
+
+                ul
+                    li.uudis-vasak
+                        h3 Eesti Segakooride Liidu advendikontserdid
+                        h1 5. ja 12. detsember
+                        h2.pruun-tekst Tallinnas ja Kuressaares
+                        span.veel-infot Täpsem info &gt;
+                    li.uudis-parem-pruun
+                        h3 XXIII segakooride võistulaulmine Tuljak
+                        h1 13. - 14. veebruar 2021
+                        h2.pruun-tekst Tartu Miina Härma Gümnaasiumis
+                        span.veel-infot Täpsem info &gt;
+
+                ul
+                    li
+                        table
+                            tr
+                                td.uudis-ikoon
+                                    img(src="/assets/img/kalender_ikoon.png", height="50px")
+                                td.uudis-sisu
+                                    h2 Segakooride Liidu hooaja sündmused
+                                    | Hoidke end ESL-i sündmustega kursis ja liituge meie #[strong="uudiskirjaga"]:
+                                    p
+                                        section.listi-vorm
+                                            | Nimi
+                                            br
+                                            input(type="text")
+                                            br
+                                            | Meiliaadress
+                                            br
+                                            input(type="text")
+                                            br
+                                            input(type="submit", value="Liitu").listi-nupp
+                                    br
+                                    br
+                                    br
+                                    br
+                                    br
+                                    br
+                                    p.oma-syndmus
+                                        | Lisage oma sündmus meie kalendrisse&nbsp;
+                                        a(href='https://forms.gle/bcaSQQg6QGZXsN3D7', target="_blank") SIIN
+                    li.uudis-vasak
+                        h3 ESL-i laulupäev
+                        h1 juuni 2021
+                        h2.pruun-tekst Pärnu vallikäärus
+                        span.veel-infot Täpsem info &gt;
+
+                ul
+                    li
+                        table
+                            tr
+                                td.uudis-ikoon
+                                    img(src="/assets/img/toeta_ikoon.png", height="50px")
+                                td.uudis-sisu
+                                    h2 Toeta Miina Härma fondi!
+                                    p
+                                        | Eesti Rahvuskultuuri Fondi arveldusarve span #[strong= "EE672200221001101347"], märgusõna „Miina Härma fond“.
+                                        br
+                                        br
+                                        | 20. oktoobril 2014 asutati Eesti Segakooride Liidu eestvedamisel Eesti Rahvuskultuuri fondi Miina Härma nimeline allfond. Fondi eesmärk on tunnustada isikuid ja kollektiive, kelle tegevus või looming on pälvinud laiemat üldsuse tähelepanu ning on suunatud eesti segakooriliikumise hüvanguks, edendamiseks ja arenguks. Asutamislepingule kirjutasid alla Rahvuskultuuri Fondi esimees Eri Klas ja ESLi juhatuse esimees Veronika Portsmuth.
+
+                    li
+                        table
+                            tr
+                                td.uudis-ikoon
+                                    img(src="/assets/img/liitu_ikoon.png", height="50px")
+                                td.uudis-sisu
+                                    h2 Astu Eesti Segakooride Liidu liikmeks!
+                                    p
+                                        | 1. ESL-i liikmena aitad kaasa Eesti koorikultuuri säilitamisele ja edendamisele.
+                                        br
+                                        | 2. ESLi liikmena saate jooksvalt infot koorimuusikamaastikul toimuvast; leiate toreda sõpruskoori või konkursi-festivali; olete nende seas, keda kutsutakse esindama oma maakonda.
+                                        br
+                                        | 3. ESL-i liikmed saavad soodsamalt osaleda kõikidel liidu korraldatavatel üritustel.
+                                        br
+                                        br
+                                        span #[strong= "NB! ESL-i liikmeks astumise avalduse ja liikmemaksu lehe leiate dokumentide lehelt!"]
