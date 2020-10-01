@@ -1,8 +1,6 @@
 path: /kalender
 title: Kalender
 data:
-    2018: 
-        sündmused: ./2018/data.yaml
     2019: 
         sündmused: ./2019/data.yaml
     2020: 
