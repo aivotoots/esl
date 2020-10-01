@@ -4,7 +4,7 @@ locales:
     - et
 defaultLocale: et
 source: ./source
-build: ./build
+build: ./docs
 styl: ./source/_styles
 js: ./source/_scripts
 assets: ./assets
