@@ -1,18 +1,18 @@
 ---
-valitud_keel: /en
+valitud_keel: en/
 organisatsioon: Estonian Mixed Choirs' Association
 hooaegnupp: ASSOCATION'S EVENTS
 menyy:
     lingid:
         -
             tekst: About us
-            url: about/
+            url: about
         -
             tekst: Members
-            url: members/
+            url: members
         -
             tekst: Board
-            url: board/
+            url: board
         -
             tekst: Contact
-            url: contact/
+            url: contact
