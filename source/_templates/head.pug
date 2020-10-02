@@ -2,11 +2,15 @@ head
     meta(charset='utf-8')
     meta(name='viewport', content='width=device-width, initial-scale=1')
 
-    base(href='/esl')
+    base#baseurl
+    script.
+        const baseurl = (window.location.hostname==='aivotoots.github.io'?'https://aivotoots.github.io/esl/':'/');
+        document.getElementById("baseurl").href = baseurl;
 
-    link(href="/assets/favicon.ico", rel="shortcut icon", type="image/x-icon")
-    link(href="/assets/favicon.ico", rel="icon", type="image/x-icon")
+
+    link(href="assets/favicon.ico", rel="shortcut icon", type="image/x-icon")
+    link(href="assets/favicon.ico", rel="icon", type="image/x-icon")
     link(href="https://fonts.googleapis.com/css2?family=Unna:wght@700&display=swap", rel="stylesheet")
     link(href="https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap",rel="stylesheet")
 
-    link(href='/style.css', rel='stylesheet')
+    link(href='style.css', rel='stylesheet')
