@@ -1,10 +1,10 @@
-path: /tuljak
+path: tuljak
 title: ""
 data:
     tuljakud: ./data/data.yaml
 
 viimane_tuljak:
-    path: /tuljak/2019
+    path: tuljak/2019
     id: XXII (2019)
     pealkiri: XXII võistulaulmine
     aeg_ja_asukoht: 9.-10. veebruaril 2019 Miina Härma Gümnaasiumis

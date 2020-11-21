@@ -1,11 +1,11 @@
 ---
-path: /board
+path: board
 title: Board
 juhatus:
     -
         nimi: Veronika Portsmuth
         pilt:
-            url: /assets/img/juhatus/juhatus_veronika_portsmuth.jpg
+            url: assets/img/juhatus/juhatus_veronika_portsmuth.jpg
         amet: EMCAs Board Chairman
         telefon: 52 77 335
         email:
@@ -13,7 +13,7 @@ juhatus:
     -
         nimi: Jaanus Väljaots
         pilt:
-            url: /assets/img/juhatus/juhatus_jaanus_valjaots.png
+            url: assets/img/juhatus/juhatus_jaanus_valjaots.png
         amet: Vice-Chairman
         telefon: 53 268 070
         email:
@@ -21,7 +21,7 @@ juhatus:
     -
         nimi: Mariell Aren
         pilt:
-            url: /assets/img/juhatus/juhatus_mariell_aren.jpg
+            url: assets/img/juhatus/juhatus_mariell_aren.jpg
         amet: Executive manager
         telefon: 59 035 331
         email:
@@ -30,7 +30,7 @@ juhatus:
     -
         nimi: Inta Roost
         pilt:
-            url: /assets/img/juhatus/juhatus_inta_roost.jpg
+            url: assets/img/juhatus/juhatus_inta_roost.jpg
         amet: ""
         telefon: 52 06 277
         email:
@@ -38,7 +38,7 @@ juhatus:
     -
         nimi: Küllike Joosing
         pilt:
-            url: /assets/img/juhatus/juhatus_kyllike_joosing.jpg
+            url: assets/img/juhatus/juhatus_kyllike_joosing.jpg
             landscape: true
         telefon: 53 463 437
         email:
@@ -46,7 +46,7 @@ juhatus:
     -
         nimi: Mai Simson
         pilt:
-            url: /assets/img/juhatus/juhatus_mai_simson.jpg
+            url: assets/img/juhatus/juhatus_mai_simson.jpg
         telefon: 56 566 061
         email:
             1: mai.simson@gmail.com
@@ -57,18 +57,18 @@ juhatus:
     -
         nimi: Jana Perens
         pilt:
-            url: /assets/img/juhatus/juhatus_jana_perens.jpg
+            url: assets/img/juhatus/juhatus_jana_perens.jpg
         email:
             1: janaperens@gmail.com
     -
         nimi: Mihkel Putrinš
         pilt:
-            url: /assets/img/juhatus/juhatus_mihkel_putrins.png
+            url: assets/img/juhatus/juhatus_mihkel_putrins.png
         email:
             1: mihkel.putrinsh@gmail.com
     -
         nimi: Urve Uusberg
         pilt:
-            url: /assets/img/juhatus/juhatus_urve_uusberg.jpg
+            url: assets/img/juhatus/juhatus_urve_uusberg.jpg
         email:
             1: urve.uusberg@gmail.com
