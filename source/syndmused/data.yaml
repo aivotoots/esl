@@ -1,0 +1,43 @@
+path: /syndmused
+title: Sündmused
+syndmused:
+    2020:
+        -
+            path: /syndmused/2020/oppepaev2020
+            pealkiri: Õppepäev Eesti Muusika- ja Teatriakadeemias
+            kuup2evad:
+                -
+                    24-10-2020
+        -
+            path: /syndmused/2020/TYSK115-Tartu
+            pealkiri: Tartu Üliõpilassegakoor 115 - Siin mu rõõmumaa
+            kuup2evad:
+                -
+                    17-10-2020
+        -
+            path: /syndmused/2020/TYSK115-Tallinn
+            pealkiri: Tartu Üliõpilassegakoor 115 - Siin mu rõõmumaa
+            kuup2evad:
+                -
+                    24-10-2020
+    2021:
+        -
+            path: /syndmused/2021/tuljak2021
+            pealkiri: XXIII segakooride võistulaulmine Tuljak
+            kuup2evad:
+                -
+                    13-02-2021
+                -
+                    14-02-2021
+        -
+            path: /syndmused/2021/koorivisioon
+            pealkiri: Koorimuusika ja kooriseadete festival KOORIVISIOON
+            kuup2evad:
+                -
+                    14-03-2021
+        -
+            path: /syndmused/2021/laulupaev
+            pealkiri: Eesti segakooride laulupäev - Laulu tuules
+            kuup2evad:
+                -
+                    05-06-2021

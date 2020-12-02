@@ -1,21 +1,31 @@
 extends ../_templates/layout.pug
 
 block peasisu
-    table
-        tr.joondus-keskele
-            td
-                span #[strong= self.logod.png.nimetus]
-            td
-                span #[strong= self.logod.svg.nimetus]
-            td
-                span #[strong= self.logod.pdf.nimetus]
-        tr.joondus-keskele
-            td
-                a(href=self.logod.png.url).logo-img
-                    img(src= self.logod.png.thumb_url, height="200px")
-            td
-                a(href=self.logod.svg.url).logo-img
-                    img(src= self.logod.svg.thumb_url, height="200px")
-            td
-                a(href=self.logod.pdf.url).logo-img
-                    img(src= self.logod.pdf.thumb_url, height="200px")
+    ul.logod-list
+        li
+            table.logo-tabel
+                tr.joondus-keskele
+                    td
+                        span #[strong= self.logod.png.nimetus]
+                tr.joondus-keskele
+                    td
+                        a(href=self.logod.png.url, data-lightbox="logo-1").logo-img
+                            img(src= self.logod.png.thumb_url, height="200px")
+        li
+            table.logo-tabel
+                tr.joondus-keskele
+                    td
+                        span #[strong= self.logod.svg.nimetus]
+                tr.joondus-keskele
+                    td
+                        a(href=self.logod.svg.url, data-lightbox="logo-2").logo-img
+                            img(src= self.logod.svg.thumb_url, height="200px")
+        li
+            table.logo-tabel
+                tr.joondus-keskele
+                    td
+                        span #[strong= self.logod.pdf.nimetus]
+                tr.joondus-keskele
+                    td
+                        a(href=self.logod.pdf.url, target="_blank").logo-img
+                            img(src= self.logod.pdf.thumb_url, height="200px")

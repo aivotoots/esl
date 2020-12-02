@@ -1,0 +1,61 @@
+
+path: /hooaeg
+title: Hooaeg 2020/2021
+syndmused:
+    2020:
+        -
+            path: 
+            pealkiri: Eesti Segakooride Liidu VII suvekool
+            aeg: 21. – 23. august
+            asukoht: Haapsalus
+        -
+            path:
+            pealkiri: Eesti Segakooride Liidu volikogu
+            aeg: 27. september kell 12:00-16:00
+            asukoht: kinos Sõprus (Vana-Posti 8, Tallinn)
+        -
+            path: /syndmused/2020/oppepaev2020
+            pealkiri: Õppepäev
+            aeg: 24. oktoober kell 12:00-15:00
+            asukoht: Eesti Muusika- ja Teatriakadeemias
+    2021:
+        -
+            path: /syndmused/2021/tuljak2021
+            pealkiri: XXIII segakooride võistulaulmine Tuljak
+            aeg: 13. - 14. veebruar
+            asukoht: Tartu Miina Härma Gümnaasiumis
+        -
+            path: /syndmused/2021/koorivisioon
+            pealkiri: Koorimuusika ja kooriseadete festival KOORIVISIOON
+            aeg: 14. märts
+            asukoht: Viljandi Pärimusmuusika Aidas
+        -
+            path: ""
+            pealkiri: Eesti Segakooride Liidu volikogu
+            aeg: 11. aprill
+            asukoht: ""
+        -
+            path: /syndmused/2021/laulupaev
+            pealkiri: Eesti segakooride laulupäev "Laulu tuules"
+            aeg: 5. juuni
+            asukoht: Pärnu vallikäärus
+        -
+            path: ""
+            pealkiri: Eesti Segakooride Liidu VIII suvekool
+            aeg: 20. – 22. august
+            asukoht: Haapsalus
+        -
+            path: ""
+            pealkiri: Õppereis
+            aeg: 14. – 17. oktoober
+            asukoht: ""
+        -
+            path: ""
+            pealkiri: Eesti Segakooride Liidu advendikontsert
+            aeg: 4. detsember
+            asukoht: Tallinnas
+        -
+            path: ""
+            pealkiri: Eesti Segakooride Liidu advendikontsert
+            aeg: 11. detsember
+            asukoht: ""

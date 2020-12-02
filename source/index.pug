@@ -1,126 +1,54 @@
 extends _templates/layout.pug
 
 block peasisu
-    table#kalender.kalender-p2is.t2islai-tabel.keskel
-        tr
-            td
-                a(href="")
-                    h3 &lt; AUGUST
-            td
-                h3.pruun-tekst SEPTEMBER 2020
-            td
-                a(href="")
-                    h3 OKTOOBER &gt;
+    script.
+            // On Load of the window
+            window.onload = function () {
 
-    table.kalender-sisu.t2islai-tabel.keskel
-        tr
-            td
-                h3 T01
-            td
-                h3 K02
-            td
-                h3 N03
-            td
-                h3 R04
-            td
-                h3 L05
-            td
-                h3 P06
-            td
-                h3 E07
-            td
-                h3 T08
-            td
-                h3 K09
-            td
-                h3 N10
-            td
-                h3 R11
-            td
-                h3 L12
-            td
-                h3 P13
-            td
-                h3 E14
-            td
-                h3 T15
-            td
-                h3 K16
-            td
-                h3 N17
-            td
-                h3 R18
-            td
-                h3 L19
-            td
-                h3 P20
-            td
-                h3 E21
-            td
-                h3 T22
-            td
-                h3 K23
-            td
-                h3 N24
-            td
-                h3 R25
-            td
-                h3 L26
-            td
-                a(href="")
-                    h3.pruun-tekst P27
-            td
-                h3 E28
-            td
-                h3 T29
-            td
-                h3 T30
+              var data = JSON.parse('!{ JSON.stringify(self.data) }');
+
+              // Start calendar
+              var c = new Calendar2();
+              c.data = data;
+              c.lang = JSON.parse('!{ JSON.stringify(self.valitud_keel) }');
+              c.init();
+
+            }
+
+    ul#kalender.kalender-p2is.t2islai-tabel.keskel
+        li.kolmandik-veerg
+            h3
+                a(href="#")
+                    span.prev-month
+        li.kolmandik-veerg
+            h3.pruun-tekst
+                span.current-month-year
+        li.kolmandik-veerg
+            h3
+                a(href="#")
+                    span.next-month
+    div.kalender-sisu-wrapper
+        ul.kalender-sisu.keskel
 
     section.kalender
-                //- ul
-                //-     li
-                //-         figure
-                //-             // Photo by Quentin Dr on Unsplash
-                //-             img(src='https://images.unsplash.com/photo-1471421298428-1513ab720a8e', alt='Several hands holding beer glasses')
-                //-             figcaption
-                //-                 h3 Billions upon billions
-                //-         p
-                //-             | Made in the interiors of collapsing stars star stuff harvesting star light venture billions upon billions Drake Equation brain is the seed of intelligence?
-                //-         a(href='#') Visit Website
-                //-     li
-                //-         figure
-                //-             // Photo by Drew Farwell on Unsplash
-                //-             img(src='https://images.unsplash.com/photo-1513309914637-65c20a5962e1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3450&q=80', alt='Several friends doing a toast')
-                //-             figcaption
-                //-                 h3 Drake Equation
-                //-         p
-                //-             | Another world citizens of distant epochs from which we spring descended from astronomers Orion's sword shores of the cosmic ocean.
-                //-         a(href='#') Visit Website
-                //-     li
-                //-         figure
-                //-             // Photo by Rawpixel on Unsplash
-                //-             img(src='https://images.unsplash.com/photo-1535359056830-d4badde79747?ixlib=rb-1.2.1&auto=format&fit=crop&w=3402&q=80', alt='Three different glasses of beer')
-                //-             figcaption
-                //-                 h3 Vast cosmic arena
-                //-         p
-                //-             | Galaxies the ash of stellar alchemy prime number science inconspicuous motes of rock and gas brain is the seed of intelligence.
-                //-         a(href='#') Visit Website
 
                 ul
                     li.uudis-vasak
-                        h3 Eesti Segakooride Liidu advendikontserdid
-                        h1 5. ja 12. detsember
-                        h2.pruun-tekst Tallinnas ja Kuressaares
-                        span.veel-infot Täpsem info &gt;
-                    li.uudis-parem-pruun
-                        h3 XXIII segakooride võistulaulmine Tuljak
-                        h1 13. - 14. veebruar 2021
-                        h2.pruun-tekst Tartu Miina Härma Gümnaasiumis
-                        span.veel-infot Täpsem info &gt;
-
+                        h3(style="padding:1rem")
+                            strong 5. detsembril Tallinnas ja 12. detsembril Kuressaares toimuma pidanud advendikontserdid jäävad ära!
+                    li.uudis-pilt
+                        a(href="/syndmused/2021/tuljak2021")
+                            img(src="/assets/event_imgs/2021/tuljak_banner_big.jpg", width="100%")
+                ul
+                    li.uudis-pilt
+                        a(href="/syndmused/2021/koorivisioon")
+                            img(src="/assets/event_imgs/2021/koorivisioon_banner_big.jpg", width="100%")
+                    li.uudis-pilt
+                        a(href="/syndmused/2021/laulupaev")
+                            img(src="/assets/event_imgs/2021/laulupaev_banner_big.jpg", width="100%")
                 ul
                     li
-                        table
+                        table.uudis-tabel
                             tr
                                 td.uudis-ikoon
                                     img(src="/assets/img/kalender_ikoon.png", height="50px")
@@ -129,30 +57,35 @@ block peasisu
                                     | Hoidke end ESL-i sündmustega kursis ja liituge meie #[strong="uudiskirjaga"]:
                                     p
                                         section.listi-vorm
-                                            | Nimi
-                                            br
-                                            input(type="text")
                                             br
                                             | Meiliaadress
                                             br
-                                            input(type="text")
+                                            input(type="email").listi-email
                                             br
-                                            input(type="submit", value="Liitu").listi-nupp
+                                            input(type="button", value="Liitu").listi-nupp
                                     br
                                     br
                                     br
                                     br
                                     br
+                                    div.list-success
+                                        span Õnnestus!
+                                    div.list-error
+                                        span Ei õnnestunud
                                     br
                                     p.oma-syndmus
                                         | Lisage oma sündmus meie kalendrisse&nbsp;
-                                        a(href='https://forms.gle/bcaSQQg6QGZXsN3D7', target="_blank") SIIN
+                                        a(href='https://forms.gle/Zpa5QZ6RToVPArkr9', target="_blank") SIIN
                     li.uudis-vasak
-                        h3 ESL-i laulupäev
-                        h1 juuni 2021
-                        h2.pruun-tekst Pärnu vallikäärus
-                        span.veel-infot Täpsem info &gt;
-
+                        h3 Uuendatud COVID-19 käitumisjuhend avalike ja kultuuriürituste korraldajatele alates teisipäevast, 24. novembrist 2020
+                        span
+                            | Lugupeetud koorijuhid, koorilauljad, koorikontsertide korraldajad ja muusikasõbrad!
+                              
+                            | Avalikes siseruumides on alates 24. novembrist kohustuslik kanda maske või katta nina ja suu. See kehtib nii konverentsidel, kontsertidel, teatris kui ka kinoseanssidel. Maski ei pea kandma alla 12-aastased lapsed või inimesed, kellel on meditsiiniline põhjendus (näiteks astmaatikud või vaegkuuljad).
+                        br
+                        br
+                        span.veel-infot
+                            a(href="https://kooriyhing.ee/uuendatud-covid-19-kaitumisjuhend-avalike-ja-kultuuriurituste-korraldajatele-alates-teisipaevast-24-novembrist/", target="_blank") Täpsem info &gt;
                 ul
                     li
                         table

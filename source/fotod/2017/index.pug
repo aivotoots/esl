@@ -1,0 +1,51 @@
+extends ../../_templates/layout.pug
+
+block peasisu
+
+    if self.subtitle
+        h4= self.subtitle
+    ul.fotod-grid
+        each foto, id in self.fotod
+            li.fotod-foto
+                a(href= "/gallery/var/albums" + self.directory + "/" + foto.file, data-lightbox=self.directory)
+                    img(src= "/gallery/var/thumbs" + self.directory + "/" + foto.file)
+
+    if self.subtitle2
+        h4= self.subtitle2
+        ul.fotod-grid
+            each foto, id in self.fotod2
+                li.fotod-foto
+                    a(href= "/gallery/var/albums" + self.directory2 + "/" + foto.file, data-lightbox=self.directory2)
+                        img(src= "/gallery/var/thumbs" + self.directory2 + "/" + foto.file)
+
+    if self.subtitle3
+        h4= self.subtitle3
+        ul.fotod-grid
+            each foto, id in self.fotod3
+                li.fotod-foto
+                    a(href= "/gallery/var/albums" + self.directory3 + "/" + foto.file, data-lightbox=self.directory3)
+                        img(src= "/gallery/var/thumbs" + self.directory3 + "/" + foto.file)
+
+    if self.subtitle4
+        h4= self.subtitle4
+        ul.fotod-grid
+            each foto, id in self.fotod4
+                li.fotod-foto
+                    a(href= "/gallery/var/albums" + self.directory4 + "/" + foto.file, data-lightbox=self.directory4)
+                        img(src= "/gallery/var/thumbs" + self.directory4 + "/" + foto.file)
+
+    if self.subtitle5
+        h4= self.subtitle5
+        ul.fotod-grid
+            each foto, id in self.fotod5
+                li.fotod-foto
+                    a(href= "/gallery/var/albums" + self.directory5 + "/" + foto.file, data-lightbox=self.directory5)
+                        img(src= "/gallery/var/thumbs" + self.directory5 + "/" + foto.file)
+
+    if self.subtitle6
+        h4= self.subtitle6
+        ul.fotod-grid
+            each foto, id in self.fotod6
+                li.fotod-foto
+                    a(href= "/gallery/var/albums" + self.directory6 + "/" + foto.file, data-lightbox=self.directory6)
+                        img(src= "/gallery/var/thumbs" + self.directory6 + "/" + foto.file)

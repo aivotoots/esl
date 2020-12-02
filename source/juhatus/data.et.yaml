@@ -12,7 +12,8 @@ juhatus:
     -
         nimi: Jaanus Väljaots
         pilt:
-            url: /assets/img/juhatus/juhatus_jaanus_valjaots.png
+            url: /assets/img/juhatus/juhatus_jaanus_valjaots.jpg
+            landscape: true
         amet: ESLi juhatuse aseesimees
         telefon: 53 268 070
         email:
@@ -50,10 +51,6 @@ juhatus:
         email:
             1: mai.simson@gmail.com
     -
-        nimi: Eve Paap
-        email:
-            1: paap.eve@gmail.com
-    -
         nimi: Jana Perens
         pilt:
             url: /assets/img/juhatus/juhatus_jana_perens.jpg
@@ -69,5 +66,10 @@ juhatus:
         nimi: Urve Uusberg
         pilt:
             url: /assets/img/juhatus/juhatus_urve_uusberg.jpg
+            landscape: true
         email:
             1: urve.uusberg@gmail.com
+    -
+        nimi: Eve Paap
+        email:
+            1: paap.eve@gmail.com

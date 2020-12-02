@@ -1,0 +1,19 @@
+extends ../../_templates/layout.pug
+
+block peasisu
+
+    if self.subtitle
+        h4= self.subtitle
+    ul.fotod-grid
+        each foto, id in self.fotod
+            li.fotod-foto
+                a(href= "/gallery/var/albums" + self.directory + "/" + foto.file, data-lightbox=self.directory)
+                    img(src= "/gallery/var/thumbs" + self.directory + "/" + foto.file)
+
+    if self.subtitle2
+        h4= self.subtitle2
+        ul.fotod-grid
+            each foto, id in self.fotod2
+                li.fotod-foto
+                    a(href= "/gallery/var/albums" + self.directory2 + "/" + foto.file, data-lightbox=self.directory2)
+                        img(src= "/gallery/var/thumbs" + self.directory2 + "/" + foto.file)

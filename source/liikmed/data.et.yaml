@@ -29,11 +29,6 @@ liikmed:
             1: vesiliiv@gmail.com
         esindajad: Liisa Rahusoo
     -
-        nimi: Catena SK
-        email:
-            1: heliken@hot.ee
-        esindajad: Heli Kendra
-    -
         nimi: Causa Amoris
         email:
             1: tinnuke@gmail.com
@@ -514,7 +509,8 @@ liikmed:
         email:
             1: janaperens@gmail.com
             2: ayaka.choir@gmail.com
-        esindajad: dirigendid Jana Perens ja Ayaka Ueda
+            3: aivar.vahi@gmail.com
+        esindajad: dirigendid Jana Perens ja Ayaka Ueda, koorivanem Aivar Vähi
     -
         nimi: Viimsi SK
         email:

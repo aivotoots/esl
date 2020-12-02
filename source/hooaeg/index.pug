@@ -1,0 +1,16 @@
+extends ../_templates/layout.pug
+
+block peasisu
+    div.joondus-keskele-kompaktne
+        each aasta_syndmused, id in self.syndmused
+            h3= id
+            each syndmus, id in aasta_syndmused
+                p
+                    span= syndmus.aeg
+                    br.reavahetus-kompaktne
+                    span &nbsp;-&nbsp;
+                    br.reavahetus-kompaktne
+                    if syndmus.path
+                        a(href=syndmus.path) #[strong= syndmus.pealkiri + " " + syndmus.asukoht]
+                    else
+                        strong= syndmus.pealkiri + " " + syndmus.asukoht

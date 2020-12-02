@@ -1,0 +1,11 @@
+extends ../../_templates/layout.pug
+
+block peasisu
+
+    if self.subtitle
+        h4= self.subtitle
+    ul.fotod-grid
+        each foto, id in self.fotod
+            li.fotod-foto
+                a(href= "/gallery/var/albums" + self.directory + "/" + foto.file, data-lightbox=self.directory)
+                    img(src= "/gallery/var/thumbs" + self.directory + "/" + foto.file)

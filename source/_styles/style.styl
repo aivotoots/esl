@@ -39,8 +39,8 @@ a
         color Tumesinine
 
 .hero
-    background-image url('assets/img/ESL_header.jpeg') center
-    background-image linear-gradient(to bottom,black,rgba(0, 0, 0, 0)), url('assets/img/ESL_header.jpeg');
+    background-image url('assets/img/ESL_header1_1.jpeg') center
+    background-image linear-gradient(to bottom,black,rgba(0, 0, 0, 0)), url('assets/img/ESL_header1_1.jpeg');
     background-size cover
     padding 2rem 0
     display grid
@@ -156,6 +156,15 @@ footer
     padding .5rem
     padding-bottom 2rem
 
+.uudis-pilt
+    text-align center
+    & > a
+        display block
+        opacity 0.9
+        padding 0!important
+        margin 0!important
+        &:hover
+            opacity 1
 .uudis-vasak
     padding 1rem
     // background-image url('assets/img/uudis_taust1.jpg')
@@ -203,6 +212,15 @@ footer
 
 .veel-infot
     float right
+    & > a
+        opacity 1
+        color Sinine!important
+
+.veel-infot-valge
+    float right
+    & > a
+        opacity 1
+        color white!important
 
 .listi-vorm
     float left
@@ -231,8 +249,6 @@ footer
         color white
     & :hover
         background rgba(190, 177, 128, 1);
-.logo
-    margin-left -25rem
 
 .menyy-taust
     background-color TAUST
@@ -277,6 +293,13 @@ footer
 .joondus-keskele
     text-align center
 
+.joondus-keskele-kompaktne
+    text-align left
+    & > p > a
+        text-align left
+.reavahetus-kompaktne
+    display none
+
 // Juhatus
 
 .juhatus
@@ -291,6 +314,11 @@ footer
 
 .juhatus-liige
     text-align left
+
+.juhatus-liige-tabel {
+  width 300px
+  text-align center
+}
 
 .juhatus-liige-nimi
     text-align center
@@ -324,3 +352,193 @@ footer
     opacity 1
     font-family 'Unna', serif;
 
+//
+
+.kolmandik-veerg
+    width 33%
+    display inline-block
+
+.kalender-p2is
+    display block
+    list-style-type disc
+    margin-block-start 0;
+    margin-block-end 0;
+    margin-inline-start 0;
+    margin-inline-end 0;
+    padding-inline-start 0;
+    & > li > h3
+        font-family: 'Nunito', sans-serif !important;
+
+.kalender-sisu
+    display block
+    list-style-type disc
+    margin-block-start 0;
+    margin-block-end 0;
+    margin-inline-start 0;
+    margin-inline-end 0;
+    padding-inline-start 0;
+    & > li
+        display inline-block
+        padding-left 0.35rem
+        padding-right 0.35rem
+        & > h3
+            font-family: 'Nunito', sans-serif !important;
+
+.kalender-sisu-wrapper
+    width 100%
+
+.logod-list
+    padding-inline-start 0
+    & > li
+        display inline
+
+.logo-tabel
+    display inline-block
+
+@media only screen and (max-width: 840px) {
+    .kolmandik-veerg {
+        width 100%
+    }
+}
+
+.syndmus-sisu
+    font-family: 'Nunito', sans-serif !important;
+    & > h4
+        font-family: 'Nunito', sans-serif !important;
+
+.liikmed-tavaline
+    display block
+
+.liikmed-kompaktne
+    display none
+
+.menyy-link-kompaktne
+    display none
+    color #fff;
+    opacity 1;
+    padding .75rem 1.75rem;
+    border none;
+    font-family: 'Nunito', sans-serif;
+    background-color: Sinine;
+    text-align center
+    margin-bottom 1rem
+
+.fotod-grid
+    padding-inline-start 0
+
+.fotod-foto
+    & > a > img
+        width 150px
+        height 150px
+        object-fit cover
+    display inline
+    margin-left 5px
+    margin-right 5px
+
+@media only screen and (max-width: 448px) {
+    .logo-img > img {
+        height 150px
+    }
+    .logod-list {
+      text-align center
+      width 100%
+    }
+    .uudis-ikoon {
+        display none
+    }
+    .uudis-sisu {
+        & > h2 {
+            display block
+            text-align center
+        }
+    }
+    .joondus-keskele-kompaktne {
+        text-align center
+        & > p > a {
+            text-align center
+        }
+    }
+    .reavahetus-kompaktne {
+        display block
+    }
+    .menyy-taust {
+      display none
+    }
+    .menyy-link-kompaktne {
+      display block
+    }
+
+    .fotod-foto {
+        & > a > img {
+            width 250px
+            height 250px
+        }
+    }
+
+    .fotod-grid {
+        text-align center
+    }
+}
+
+.uudis-tabel
+    width 100%
+
+@media only screen and (max-width: 710px) {
+    .liikmed-tavaline {
+        display none
+    }
+    .liikmed-kompaktne {
+        display block
+    }
+}
+
+.esileht-pealkiri
+    margin-top 90px!important
+
+.logo
+    display inline-block
+    width 200px
+    position absolute
+    left 10rem
+  
+
+@media only screen and (max-width: 992px) {
+    .peasisu {
+        padding 2rem 1rem 2rem 1rem
+    }
+    .menyy {
+      margin: -1rem 1rem 0 1rem;
+    }
+    .juhatus-liige-tabel {
+        text-align center
+        width 100%
+    }
+    .uudis-pilt {
+        margin-left auto
+        margin-right auto
+    }
+    .keel {
+      right 2rem
+    }
+    .logo {
+      left 2rem
+    }
+}
+
+.event
+    color #c03
+.today
+    color red
+    opacity .7
+
+.list-success
+    display none
+    font-weight 600
+    & > span
+        color green
+
+.list-error
+    display none
+    font-weight 600
+    & > span
+        color red
