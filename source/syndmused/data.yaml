@@ -10,34 +10,132 @@ syndmused:
                     24-10-2020
         -
             path: /syndmused/2020/TYSK115-Tartu
-            pealkiri: Tartu Üliõpilassegakoor 115 - Siin mu rõõmumaa
+            pealkiri: Tartu Üliõpilassegakoor 115 \"Siin mu rõõmumaa\"
             kuup2evad:
                 -
                     17-10-2020
         -
             path: /syndmused/2020/TYSK115-Tallinn
-            pealkiri: Tartu Üliõpilassegakoor 115 - Siin mu rõõmumaa
+            pealkiri: Tartu Üliõpilassegakoor 115 \"Siin mu rõõmumaa\"
             kuup2evad:
                 -
                     24-10-2020
+        -
+            path: /syndmused/2020/Messa-di-Gloria-Kadrina
+            pealkiri: Giacomo Puccini \"Messa di Gloria\"
+            kuup2evad:
+                -
+                    06-12-2020
+        -
+            path: /syndmused/2020/Messa-di-Gloria-Rakvere
+            pealkiri: Giacomo Puccini \"Messa di Gloria\"
+            kuup2evad:
+                -
+                    13-12-2020
+        -
+            path: /syndmused/2020/Messa-di-Gloria-Tyri
+            pealkiri: Giacomo Puccini \"Messa di Gloria\"
+            kuup2evad:
+                -
+                    20-12-2020
     2021:
-        -
-            path: /syndmused/2021/tuljak2021
-            pealkiri: XXIII segakooride võistulaulmine Tuljak
-            kuup2evad:
-                -
-                    13-02-2021
-                -
-                    14-02-2021
-        -
-            path: /syndmused/2021/koorivisioon
-            pealkiri: Koorimuusika ja kooriseadete festival KOORIVISIOON
-            kuup2evad:
-                -
-                    14-03-2021
         -
             path: /syndmused/2021/laulupaev
             pealkiri: Eesti segakooride laulupäev - Laulu tuules
             kuup2evad:
                 -
                     05-06-2021
+        -
+            path: /syndmused/2021/volikogu
+            pealkiri: Eesti Segakooride Liidu volikogu
+            kuup2evad:
+                -
+                    11-04-2021
+        -
+            path: /syndmused/2021/sisask60
+            pealkiri: Kontsert \"Urmas Sisask 60\"
+            kuup2evad:
+                -
+                    24-04-2021
+        -
+            path: /syndmused/2021/suvekool
+            pealkiri: Eesti Segakooride Liidu VIII suvekool Haapsalus
+            kuup2evad:
+                -
+                    20-08-2021
+                -
+                    21-08-2021
+                -
+                    22-08-2021
+        -
+            path: /syndmused/2021/koorivisioon
+            pealkiri: Koorimuusika ja kooriseadete festival KOORIVISIOON
+            kuup2evad:
+                -
+                    25-09-2021
+
+    2022:
+        -
+            path: /syndmused/2022/tuljak2022
+            pealkiri: XXIII segakooride võistulaulmine Tuljak
+            kuup2evad:
+                -
+                    12-02-2022
+                -
+                    13-02-2022
+    2023:
+        -
+            path: ""
+            pealkiri: ""
+            kuup2evad:
+                -
+                    ""
+    2024:
+        -
+            path: ""
+            pealkiri: ""
+            kuup2evad:
+                -
+                    ""
+    2025:
+        -
+            path: ""
+            pealkiri: ""
+            kuup2evad:
+                -
+                    ""
+    2026:
+        -
+            path: ""
+            pealkiri: ""
+            kuup2evad:
+                -
+                    ""
+    2027:
+        -
+            path: ""
+            pealkiri: ""
+            kuup2evad:
+                -
+                    ""
+    2028:
+        -
+            path: ""
+            pealkiri: ""
+            kuup2evad:
+                -
+                    ""
+    2029:
+        -
+            path: ""
+            pealkiri: ""
+            kuup2evad:
+                -
+                    ""
+    2030:
+        -
+            path: ""
+            pealkiri: ""
+            kuup2evad:
+                -
+                    ""

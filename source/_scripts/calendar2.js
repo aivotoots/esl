@@ -15,6 +15,7 @@ var Calendar2 = function (o) {
 };
 
 Calendar2.prototype.init = function () {
+  localStorage.removeItem('selectedMonth');
   if (this.lang === "/en") {
     this.monthNames = ["JANUARY", "FEBRUARY", "MARCH", "APRIL", "MAY", "JUNE", "JULY", "AUGUST", "SEPTEMBER", "OCTOBER", "NOVEMBER", "DECEMBER"];
     this.dayNames = ["S", "M", "T", "W", "T", "F", "S"];
@@ -28,10 +29,7 @@ Calendar2.prototype.init = function () {
   $('.current-month-year').text(this.monthNames[this.currentMonth.format("M") - 1] + " " + this.currentYear);
   $('.next-month').text(this.monthNames[this.currentNextMonth.format("M") - 1] + " >");
   $('.kalender-sisu').html(this.getCalendarList(daysInCurMonth, allCurDays));
-
-  localStorage.removeItem('selectedMonth');
   this.initClickHandlers();
-
 }
 
 Calendar2.prototype.initClickHandlers = function (e) {

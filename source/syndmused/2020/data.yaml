@@ -1,6 +1,6 @@
 -
     path: /syndmused/2020/TYSK115-Tartu
-    pealkiri: Tartu Üliõpilassegakoor 115 - Siin mu rõõmumaa
+    pealkiri: Tartu Üliõpilassegakoor 115 - \"Siin mu rõõmumaa\"
     asukoht: 17. oktoober 2020 kell 18.00 Tartu Ülikooli aulas
     sisu: |
         Kontsert "Siin mu rõõmumaa" on saanud inspiratsiooni lapsepõlvest, nooruseast ja iseseisvaks sirgumisest. Kontserdi esimeses pooles tuleb esitamisele koorimuusikat Ester Mägi, Veljo Tormise, Mart Saare, Kadri Hundi ja Maria Kõrvitsa sulest. Kontserdi teine osa on pühendanud Pärt Uusbergi teosele „Õhtu ilu“, mis on kirjutatud segakoorile ja keelpilliorkestrile.
@@ -18,7 +18,7 @@
             17-10-2020
 -
     path: /syndmused/2020/TYSK115-Tallinn
-    pealkiri: Tartu Üliõpilassegakoor 115 - Siin mu rõõmumaa
+    pealkiri: Tartu Üliõpilassegakoor 115 - \"Siin mu rõõmumaa\"
     asukoht: 24. oktoober 2020 kell 17.00 Tallinna Filharmoonia Mustpeade majas
     sisu: |
         Kontsert "Siin mu rõõmumaa" on saanud inspiratsiooni lapsepõlvest, nooruseast ja iseseisvaks sirgumisest. Kontserdi esimeses pooles tuleb esitamisele koorimuusikat Ester Mägi, Veljo Tormise, Mart Saare, Kadri Hundi ja Maria Kõrvitsa sulest. Kontserdi teine osa on pühendanud Pärt Uusbergi teosele „Õhtu ilu“, mis on kirjutatud segakoorile ja keelpilliorkestrile.
@@ -229,3 +229,60 @@
     kuup2evad:
         -
             12-12-2020
+-
+    path: /syndmused/2020/Messa-di-Gloria-Kadrina
+    pealkiri: Giacomo Puccini "Messa di Gloria"
+    asukoht: 6. detsember 2020 kell 16.00 Kadrina Katariina kirikus
+    sisu: |
+        <a data-lightbox="puccini-1" href="/assets/event_imgs/2020/Puccini-plakat-kammerkoor-Solare.png"><img src="/assets/event_imgs/2020/Puccini-plakat-kammerkoor-Solare.png" style="width:480px"></a>
+
+        Indrek Jurtšenko (tenor)
+        Atlan Karp (bass-bariton)
+        Marju Riisikamp (orel)
+        Dirigendid Elo Üleoja ja Tiiu Tikkerber
+
+        Korraldaja: MTÜ Kammerkoor Solare
+        Info: <a href="mailto:info@solare.ee">info@solare.ee</a>
+
+        Piletid <a href="https://www.piletilevi.ee/est/piletid/muusika/klassika/giacomo-puccini-messa-di-gloria-72712/" target="_blank">Piletilevis</a>
+    kuup2evad:
+        -
+            06-12-2020
+-
+    path: /syndmused/2020/Messa-di-Gloria-Rakvere
+    pealkiri: Giacomo Puccini "Messa di Gloria"
+    asukoht: 13. detsember 2020 kell 16.00 Rakvere Kolmainu kirikus
+    sisu: |
+        <a data-lightbox="puccini-2" href="/assets/event_imgs/2020/Puccini-plakat-kammerkoor-Solare.png"><img src="/assets/event_imgs/2020/Puccini-plakat-kammerkoor-Solare.png" style="width:480px"></a>
+
+        Indrek Jurtšenko (tenor)
+        Atlan Karp (bass-bariton)
+        Marju Riisikamp (orel)
+        Dirigendid Elo Üleoja ja Tiiu Tikkerber
+
+        Korraldaja: MTÜ Kammerkoor Solare
+        Info: <a href="mailto:info@solare.ee">info@solare.ee</a>
+
+        Piletid <a href="https://www.piletilevi.ee/est/piletid/muusika/klassika/giacomo-puccini-messa-di-gloria-72712/" target="_blank">Piletilevis</a>
+    kuup2evad:
+        -
+            13-12-2020
+-
+    path: /syndmused/2020/Messa-di-Gloria-Tyri
+    pealkiri: Giacomo Puccini "Messa di Gloria"
+    asukoht: 20. detsember 2020 kell 16.00 Türi Püha Martini kirikus
+    sisu: |
+        <a data-lightbox="puccini-2" href="/assets/event_imgs/2020/Puccini-plakat-kammerkoor-Solare.png"><img src="/assets/event_imgs/2020/Puccini-plakat-kammerkoor-Solare.png" style="width:480px"></a>
+
+        Indrek Jurtšenko (tenor)
+        Atlan Karp (bass-bariton)
+        Marju Riisikamp (orel)
+        Dirigendid Elo Üleoja ja Tiiu Tikkerber
+
+        Korraldaja: MTÜ Kammerkoor Solare
+        Info: <a href="mailto:info@solare.ee">info@solare.ee</a>
+
+        Piletid <a href="https://www.piletilevi.ee/est/piletid/muusika/klassika/giacomo-puccini-messa-di-gloria-72712/" target="_blank">Piletilevis</a>
+    kuup2evad:
+        -
+            20-12-2020

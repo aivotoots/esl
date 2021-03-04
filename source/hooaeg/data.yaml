@@ -1,7 +1,10 @@
 
 path: /hooaeg
-title: Hooaeg 2020/2021
-syndmused:
+title: Hooaeg 2020/2021 - 2021/2022
+ESL_title: EESTI SEGAKOORIDE LIIDU SÜNDMUSED
+liikmeskoorid_title: EESTI SEGAKOORIDE LIIDU LIIKMESKOORIDE SÜNDMUSED
+muud_title: MUUD SÜNDMUSED
+ESL_syndmused:
     2020:
         -
             path: 
@@ -11,39 +14,39 @@ syndmused:
         -
             path:
             pealkiri: Eesti Segakooride Liidu volikogu
-            aeg: 27. september kell 12:00-16:00
+            aeg: 27. september kell 12.00-16.00
             asukoht: kinos Sõprus (Vana-Posti 8, Tallinn)
         -
             path: /syndmused/2020/oppepaev2020
             pealkiri: Õppepäev
-            aeg: 24. oktoober kell 12:00-15:00
+            aeg: 24. oktoober kell 12.00-15.00
             asukoht: Eesti Muusika- ja Teatriakadeemias
     2021:
         -
-            path: /syndmused/2021/tuljak2021
-            pealkiri: XXIII segakooride võistulaulmine Tuljak
-            aeg: 13. - 14. veebruar
-            asukoht: Tartu Miina Härma Gümnaasiumis
-        -
-            path: /syndmused/2021/koorivisioon
-            pealkiri: Koorimuusika ja kooriseadete festival KOORIVISIOON
-            aeg: 14. märts
-            asukoht: Viljandi Pärimusmuusika Aidas
-        -
-            path: ""
+            path: /syndmused/2021/volikogu
             pealkiri: Eesti Segakooride Liidu volikogu
             aeg: 11. aprill
             asukoht: ""
+        -
+            path: /syndmused/2021/sisask60
+            pealkiri: Kontsert "Urmas Sisask 60"
+            aeg: 24. aprill
+            asukoht: Laurentiuse kirikus Kuressaares
         -
             path: /syndmused/2021/laulupaev
             pealkiri: Eesti segakooride laulupäev "Laulu tuules"
             aeg: 5. juuni
             asukoht: Pärnu vallikäärus
         -
-            path: ""
+            path: /syndmused/2021/suvekool
             pealkiri: Eesti Segakooride Liidu VIII suvekool
             aeg: 20. – 22. august
             asukoht: Haapsalus
+        -
+            path: /syndmused/2021/koorivisioon
+            pealkiri: Koorimuusika ja kooriseadete festival KOORIVISIOON
+            aeg: 25. september
+            asukoht: Viljandi Pärimusmuusika Aidas
         -
             path: ""
             pealkiri: Õppereis
@@ -59,3 +62,26 @@ syndmused:
             pealkiri: Eesti Segakooride Liidu advendikontsert
             aeg: 11. detsember
             asukoht: ""
+    2022:
+        -
+            path: /syndmused/2022/tuljak2022
+            pealkiri: XXIII segakooride võistulaulmine Tuljak
+            aeg: 12. - 13. veebruar
+            asukoht: Tartu Miina Härma Gümnaasiumis
+liikmeskooride_syndmused:
+    2020:
+        -
+            path: /syndmused/2020/Messa-di-Gloria-Kadrina
+            pealkiri: Giacomo Puccini "Messa di Gloria"
+            aeg: 6. detsember 2020 kell 16.00
+            asukoht: Kadrina Katariina kirikus
+        -
+            path: /syndmused/2020/Messa-di-Gloria-Rakvere
+            pealkiri: Giacomo Puccini "Messa di Gloria"
+            aeg: 13. detsember 2020 kell 16.00
+            asukoht: Rakvere Kolmainu kirikus
+        -
+            path: /syndmused/2020/Messa-di-Gloria-Tyri
+            pealkiri: Giacomo Puccini "Messa di Gloria"
+            aeg: 20. detsember 2020 kell 16.00
+            asukoht: Türi Püha Martini kirikus

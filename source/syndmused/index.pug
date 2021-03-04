@@ -3,5 +3,8 @@ extends ../_templates/layout.pug
 block peasisu
     div.syndmus-sisu
         h2 #[strong= self.pealkiri]
-        p #[u #{self.asukoht + "."}]
+        if self.asukoht
+            p #[u #{self.asukoht + "."}]
+        else
+            span
         p !{ self.md(self.sisu) }

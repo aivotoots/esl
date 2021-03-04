@@ -1,43 +1,55 @@
 -
-    path: /syndmused/2021/tuljak2021
-    pealkiri: XXIII segakooride võistulaulmine Tuljak
-    asukoht: 13. - 14. veebruar 2021 Tartu Miina Härma Gümnaasiumis
-    sisu: |
-        <img src="/assets/event_imgs/2021/tuljak_banner.jpg">
-
-        <u>Kokku on avatud 5 kategooriat:</u> segakooride A-, B- ja C-kategooria, koolikooride D-kategooria ning vokaalansamblite kategooria.
-
-        Konkursile on võimalik kuni <b>13. detsembrini 2020 (k.a)</b> oma koor registreerida <a href="https://forms.gle/i4KSFAAD5HHypzjYA" target="_blank">SIIN</a>
-
-        Lisaküsimuste korral pöörduge julgelt aadressil <a href="mailto:eestisegakoorideliit@gmail.com">eestisegakoorideliit@gmail.com</a>
-
-        <a href="/assets/doc/2021/Juhend_Tuljak_XXIII.pdf">JUHEND</a>
-    kuup2evad:
-        -
-            13-02-2021
-        -
-            14-02-2021
--
     path: /syndmused/2021/koorivisioon
     pealkiri: Koorimuusika ja kooriseadete festival KOORIVISIOON
-    asukoht: 14. märts 2021 Viljandi Pärimusmuusika Aidas
+    asukoht: 25. september 2021 Viljandi Pärimusmuusika Aidas
     sisu: |
         Algamas on uue koorimuusika ja kooriseadete festival KOORIVISIOON. Festivali eesmärgiks on elvadada ja julgustada koorimuusikat loovaid ning kooridele põnevaid kooriseadeid tegevaid inimesi. Pakume kohalikele autoritele ja seadjatele võimalust oma loominguga/ seadega avalikkuse ette astuda ning teistegagi jagada. 
 
-        Konkursil osalemiseks tuleb üles filmida oma teose või seade ettekanne koori või vokaalansambli esituses ning meie poole teele saata ka noot. Esitades video oma seadest või originaal kooriteosest KOORIVISOONILE avaneb võimalus kandideeerida <b>lõppkontserdile 14. märtsil Viljandi Pärimusmuusika Aidas</b>.
+        Konkursil osalemiseks tuleb üles filmida oma teose või seade ettekanne koori või vokaalansambli esituses ning meie poole teele saata ka noot. Esitades video oma seadest või originaal kooriteosest KOORIVISOONILE avaneb võimalus kandideeerida lõppkontserdile septembri lõpus Viljandi Pärimusmuusika Aidas.
 
-        KOORIVISIOONI reglemendi leiate <a href="https://docs.google.com/document/d/1GaPOrg_QmLU6i6Cqc99IyIShIkxf_Fz4ET-0OCEmAhQ/edit?usp=sharing" target="_blank">SIIT</a>
+        <a href="/assets/doc/2021/Reglement-KOORIVISIOON-2021.pdf" target="_blank" style="color:#cc0000"><b>REGLEMENT</b></a>
+        <a href="https://forms.gle/aNBLSsVdMh1nnboi7" target="_blank" style="color:#cc0000"><b>REGISTREERIMINE</b></a>
 
-        <b>Koorivisioonile registreerumine</b> <a href="https://forms.gle/ZANdhqhzz3AKBWgcA" target="_blanK">SIIN</a>
     kuup2evad:
         -
-            14-03-2021
+            25-09-2021
+-
+    path: /syndmused/2021/volikogu
+    pealkiri: Eesti Segakooride Liidu volikogu
+    asukoht: ""
+    sisu: Varsti
+    kuup2evad:
+        -
+            11-04-2021
+-
+    path: /syndmused/2021/sisask60
+    pealkiri: Kontsert "Urmas Sisask 60"
+    asukoht: Laurentiuse kirikus Kuressaares
+    sisu: Varsti
+    kuup2evad:
+        -
+            24-04-2021
 -
     path: /syndmused/2021/laulupaev
     pealkiri: Eesti segakooride laulupäev - Laulu tuules
     asukoht: 5. juuni 2021 Pärnu vallikäärus
     sisu: |
         <img src="/assets/event_imgs/2021/laulupaev_banner.jpg">
+
+        <a href="/assets/doc/2021/NAK_LAK_Parnu_registreerimisleht.docx"><b>NAIS- JA LASTEKOORIDE REGISTREERIMISLEHT</b></a>
+        <a href="/assets/doc/2021/SEK_Parnu_registreerimisleht.docx"><b>SEGAKOORIDE REGISTREERIMISLEHT</b></a>
     kuup2evad:
         -
             05-06-2021
+-
+    path: /syndmused/2021/suvekool
+    pealkiri: Eesti Segakooride Liidu VIII suvekool
+    asukoht: 20. - 22. august 2021 Haapsalus
+    sisu: Varsti
+    kuup2evad:
+        -
+            20-08-2021
+        -
+            21-08-2021
+        -
+            22-08-2021
