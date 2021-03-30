@@ -17,7 +17,14 @@
     path: /syndmused/2021/volikogu
     pealkiri: Eesti Segakooride Liidu volikogu
     asukoht: ""
-    sisu: Varsti
+    sisu: |
+        <b>Volikogu toimub P, 11. aprillil 2021 kell 10–13 Zoomis</b> (lingi osalemiseks saadame hiljemalt päev enne volikogu). 
+        <b>Igast koorist ootame volikogule 2 esindajat.</b>
+
+        Peale volikogu ametlikku osa toimub Anna-Kaisa Oidermaa ja Urve Uusbergi juhatusel vestlusring praeguse aja vaimse tervise hoidmise teemadel. Ootame teid peale lühikest ettekannet ka kaasa rääkima ja arutlema!
+
+        <b>Palun saatke volikogul teie koori esindavate volinike nimed 5. aprilliks ESLi aadressile <a href="mailto:eestisegakoorideliit@gmail.com">eestisegakoorideliit@gmail.com</a></b>
+        Kui te ei saa osaleda, leidke palun keegi, keda enda nimel hääletama volitada. Volitus tuleb digiallkirjastada!
     kuup2evad:
         -
             11-04-2021
