@@ -28,15 +28,10 @@ ESL_syndmused:
             aeg: 11. aprill
             asukoht: ""
         -
-            path: /syndmused/2021/sisask60
+            path: ""
             pealkiri: Kontsert "Urmas Sisask 60"
             aeg: 24. aprill
-            asukoht: Laurentiuse kirikus Kuressaares
-        -
-            path: /syndmused/2021/laulupaev
-            pealkiri: Eesti segakooride laulupäev "Laulu tuules"
-            aeg: 5. juuni
-            asukoht: Pärnu vallikäärus
+            asukoht: Laurentiuse kirikus Kuressaares (JÄÄB ÄRA)
         -
             path: /syndmused/2021/suvekool
             pealkiri: Eesti Segakooride Liidu VIII suvekool
@@ -49,7 +44,7 @@ ESL_syndmused:
             asukoht: Viljandi Pärimusmuusika Aidas
         -
             path: ""
-            pealkiri: Õppereis
+            pealkiri: Õppepäev
             aeg: 14. – 17. oktoober
             asukoht: ""
         -
@@ -61,13 +56,19 @@ ESL_syndmused:
             path: ""
             pealkiri: Eesti Segakooride Liidu advendikontsert
             aeg: 11. detsember
-            asukoht: ""
+            asukoht: Saaremaal
     2022:
         -
             path: /syndmused/2022/tuljak2022
             pealkiri: XXIII segakooride võistulaulmine Tuljak
             aeg: 12. - 13. veebruar
             asukoht: Tartu Miina Härma Gümnaasiumis
+        -
+            path: /syndmused/2022/laulupaev
+            pealkiri: Eesti segakooride laulupäev "Laulu tuules"
+            aeg: 4. juuni
+            asukoht: Pärnu vallikäärus
+
 liikmeskooride_syndmused:
     2020:
         -

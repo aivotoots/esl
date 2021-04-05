@@ -40,23 +40,11 @@ syndmused:
                     20-12-2020
     2021:
         -
-            path: /syndmused/2021/laulupaev
-            pealkiri: Eesti segakooride laulupäev - Laulu tuules
-            kuup2evad:
-                -
-                    05-06-2021
-        -
             path: /syndmused/2021/volikogu
             pealkiri: Eesti Segakooride Liidu volikogu
             kuup2evad:
                 -
                     11-04-2021
-        -
-            path: /syndmused/2021/sisask60
-            pealkiri: Kontsert \"Urmas Sisask 60\"
-            kuup2evad:
-                -
-                    24-04-2021
         -
             path: /syndmused/2021/suvekool
             pealkiri: Eesti Segakooride Liidu VIII suvekool Haapsalus
@@ -83,6 +71,12 @@ syndmused:
                     12-02-2022
                 -
                     13-02-2022
+        -
+            path: /syndmused/2022/laulupaev
+            pealkiri: Eesti segakooride laulupäev - Laulu tuules
+            kuup2evad:
+                -
+                    04-06-2022
     2023:
         -
             path: ""

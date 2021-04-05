@@ -29,26 +29,6 @@
         -
             11-04-2021
 -
-    path: /syndmused/2021/sisask60
-    pealkiri: Kontsert "Urmas Sisask 60"
-    asukoht: Laurentiuse kirikus Kuressaares
-    sisu: Varsti
-    kuup2evad:
-        -
-            24-04-2021
--
-    path: /syndmused/2021/laulupaev
-    pealkiri: Eesti segakooride laulupäev - Laulu tuules
-    asukoht: 5. juuni 2021 Pärnu vallikäärus
-    sisu: |
-        <img src="/assets/event_imgs/2021/laulupaev_banner.jpg">
-
-        <a href="/assets/doc/2021/NAK_LAK_Parnu_registreerimisleht.docx"><b>NAIS- JA LASTEKOORIDE REGISTREERIMISLEHT</b></a>
-        <a href="/assets/doc/2021/SEK_Parnu_registreerimisleht.docx"><b>SEGAKOORIDE REGISTREERIMISLEHT</b></a>
-    kuup2evad:
-        -
-            05-06-2021
--
     path: /syndmused/2021/suvekool
     pealkiri: Eesti Segakooride Liidu VIII suvekool
     asukoht: 20. - 22. august 2021 Haapsalus
