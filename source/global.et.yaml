@@ -17,6 +17,9 @@ menyy:
             tekst: Dokumendid
             url: /dokumendid/
         -
+            tekst: Liikmemaks
+            url: /liikmemaks/
+        -
             tekst: Liikmed
             url: /liikmed/
         -

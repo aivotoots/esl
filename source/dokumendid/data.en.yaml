@@ -7,8 +7,12 @@ dokumendid:
         url: /assets/doc/ESLi_liikmeks_astumise_avaldus.doc
         higlight: true
     -
-        nimi: EESTI SEGAKOORIDE LIIDU LIIKMEMAKSU LEHT
-        url: /assets/doc/liikmemaksuleht_2021.xls
+        nimi: EESTI SEGAKOORIDE LIIDU VOLIKOGU 11. APRILL 2021 - 2020. AASTA TEGEVUSARUANNE (SLAIDID)
+        url: /assets/doc/LISA_1_ESLi_tegevusaruanne_2020.pdf
+        highlight: true
+    -
+        nimi: EESTI SEGAKOORIDE LIIDU VOLIKOGU 11. APRILL 2021 - PROTOKOLL
+        url: /assets/doc/11.04.2021_ESL_volikogu_protokoll.pdf
         highlight: true
     -
         nimi: EESTI SEGAKOORIDE LIIDU TÖÖPLAAN HOOAJAKS 2019/2020
