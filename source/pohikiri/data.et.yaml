@@ -1,7 +1,7 @@
 path: /pohikiri
 title: Eesti Segakooride Liidu põhikiri
-fail: Lae alla .doc failina
-fail_eelmine: Lae alla eelmine redaktsioon .doc failina
+fail: Lae alla .pdf failina
+fail_eelmine: Lae alla eelmine redaktsioon .pdf failina
 
 pohikiri:
     -
