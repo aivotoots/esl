@@ -10,7 +10,7 @@
         Konkursil osalemiseks tuleb üles filmida oma teose või seade ettekanne koori või vokaalansambli esituses ning meie poole teele saata ka noot. Esitades video oma seadest või originaal kooriteosest KOORIVISOONILE avaneb võimalus kandideeerida lõppkontserdile septembri lõpus Viljandi Pärimusmuusika Aidas.
 
         <a href="/assets/doc/2021/Reglement-KOORIVISIOON-2021.pdf" target="_blank" style="color:#cc0000"><b>REGLEMENT</b></a>
-        <a href="https://forms.gle/aNBLSsVdMh1nnboi7" target="_blank" style="color:#cc0000"><b>REGISTREERIMINE</b></a>
+        <a href="https://forms.gle/aNBLSsVdMh1nnboi7" target="_blank" style="color:#cc0000"><b>REGISTREERIMINE</b></a> <b>(viimane tähtaeg 5. september!)</b>
 
     kuup2evad:
         -
@@ -31,11 +31,25 @@
         -
             11-04-2021
 -
+    path: /syndmused/2021/eesti-jaapan-100
+    pealkiri: 100 Aastat Eesti - Jaapani sõprust
+    asukoht: 13. juuni kell 13.00 veebisündmusena
+    sisu: |
+        <img src="/assets/event_imgs/2021/13062021_plakat_VHK.jpg" style="width:600px">
+
+        2021 aasta kevadel ühinesid "VHK õpetajate ja lapsevanemate segakoor" ja Jaapani koor "Baltu" ühiseks veebipõhise virtuaalkoori projektiks, et tähistada Jaapani ja Eesti sõpruse sajandat aastapäeva. Virtuaalkoor esitab kolm laulu, sealhulgas hästi tuntud Jaapani ja Eesti viisid ning Eestiga pikaajaliselt seotud Jaapani helilooja Hideyuki Nishimura viimase teose.
+
+        <a href="https://youtu.be/ukm7G-pHImY" target="_blank"><span style="color:#cc0000;"><b>KONTSERT</b></span></a>
+    kuup2evad:
+        -
+            13-06-2021
+
+-
     path: /syndmused/2021/suvekool
     pealkiri: Eesti Segakooride Liidu VIII suvekool
     asukoht: 20. - 22. august 2021 Haapsalus
     sisu: |
-        <img src="/assets/event_imgs/2021/SKL_banner.jpg" style="width:250px">
+        <a target="_blank" href="/assets/event_imgs/2021/haapsalu_plakat.pdf"><img src="/assets/event_imgs/2021/haapsalu_plakat.png" style="width:250px"></a>
         
         Kavas on <b>W. A. Mozarti \"Requiem\", dirigendiks Tõnu Kaljuste</b>.
         

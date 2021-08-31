@@ -45,7 +45,7 @@ ESL_syndmused:
         -
             path: ""
             pealkiri: Õppepäev
-            aeg: 14. – 17. oktoober
+            aeg: 23. – 24. oktoober
             asukoht: ""
         -
             path: ""
@@ -86,3 +86,9 @@ liikmeskooride_syndmused:
             pealkiri: Giacomo Puccini "Messa di Gloria"
             aeg: 20. detsember 2020 kell 16.00
             asukoht: Türi Püha Martini kirikus
+    2021:
+        -
+            path: /syndmused/2021/eesti-jaapan-100
+            pealkiri: 100 Aastat Eesti - Jaapani sõprust
+            aeg: 13. juuni kell 13.00
+            asukoht: veebisündmusena
