@@ -19,8 +19,9 @@
 
 ## 2. Liidu liikmed, nende õigused ja kohustused
 
-1. Liidul võivad olla nii kodu- kui välismaised füüsilisest ja juriidilisest isikust liikmed, kes soovivad edendada või toetada liidu põhikirjaga kooskõlas olevat tegevust ja vastavad käesoleva põhikirjaga kehtestatud nõuetele.  
-   Liidu füüsilisest isikust liikmeks võivad olla:  
+Liidul võivad olla nii kodu- kui välismaised füüsilisest ja juriidilisest isikust liikmed, kes soovivad edendada või toetada liidu põhikirjaga kooskõlas olevat tegevust ja vastavad käesoleva põhikirjaga kehtestatud nõuetele.
+
+1. Liidu füüsilisest isikust liikmeks võivad olla:  
    - lauljad ja dirigendid, kes on mõne segakoori või segaansambli liikmed  
    - isikud, kes aitavad kaasa segakoorilaulu edendamisele (üksikliikmed)  
 2. Liidu juriidilisest isikust liikmeks võivad olla:  
