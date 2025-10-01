@@ -1,0 +1,647 @@
+path: /syndmused
+title: Sündmused
+syndmused:
+    2020:
+        -
+            path: /syndmused/2020/oppepaev2020
+            pealkiri: Õppepäev Eesti Muusika- ja Teatriakadeemias
+            kuup2evad:
+                -
+                    24-10-2020
+        -
+            path: /syndmused/2020/TYSK115-Tartu
+            pealkiri: Tartu Üliõpilassegakoor 115 \"Siin mu rõõmumaa\"
+            kuup2evad:
+                -
+                    17-10-2020
+        -
+            path: /syndmused/2020/TYSK115-Tallinn
+            pealkiri: Tartu Üliõpilassegakoor 115 \"Siin mu rõõmumaa\"
+            kuup2evad:
+                -
+                    24-10-2020
+        -
+            path: /syndmused/2020/Messa-di-Gloria-Kadrina
+            pealkiri: Giacomo Puccini \"Messa di Gloria\"
+            kuup2evad:
+                -
+                    06-12-2020
+        -
+            path: /syndmused/2020/Messa-di-Gloria-Rakvere
+            pealkiri: Giacomo Puccini \"Messa di Gloria\"
+            kuup2evad:
+                -
+                    13-12-2020
+        -
+            path: /syndmused/2020/Messa-di-Gloria-Tyri
+            pealkiri: Giacomo Puccini \"Messa di Gloria\"
+            kuup2evad:
+                -
+                    20-12-2020
+    2021:
+        -
+            path: /syndmused/2021/volikogu
+            pealkiri: Eesti Segakooride Liidu volikogu
+            kuup2evad:
+                -
+                    11-04-2021
+        -
+            path: /syndmused/2021/suvekool
+            pealkiri: Eesti Segakooride Liidu VIII suvekool Haapsalus
+            kuup2evad:
+                -
+                    20-08-2021
+                -
+                    21-08-2021
+                -
+                    22-08-2021
+        -
+            path: /syndmused/2021/koorivisioon
+            pealkiri: Koorimuusika ja kooriseadete festival KOORIVISIOON
+            kuup2evad:
+                -
+                    25-09-2021
+        -
+            path: /syndmused/2021/eesti-jaapan-100
+            pealkiri: 100 Aastat Eesti - Jaapani sõprust
+            kuup2evad:
+                -
+                    13-06-2021
+        -
+            path: /syndmused/2021/Lehtse-kammerkoor-40
+            pealkiri: Lehtse kammerkoor 40 - operett \"Ainult Unistus\" Lehtse kultuurimajas
+            kuup2evad:
+                -
+                    01-10-2021
+                -
+                    02-10-2021
+                -
+                    08-10-2021
+        -
+            path: /syndmused/2021/arkamise-aeg-400
+            pealkiri: IX Tartu segakooride laulupäev – Ärkamise aeg 400
+            kuup2evad:
+                -
+                    23-10-2021
+        -
+            path: /syndmused/2021/reekviem-Parnu
+            pealkiri: Veronika Portsmuthi Kooriakadeemia Kontsertkoori suur aastalõpukontsert Pärnus
+            kuup2evad:
+                -
+                    01-12-2021
+        -
+            path: /syndmused/2021/advent-Tallinn
+            pealkiri: Eesti Segakooride Liidu advendikontsert Tallinnas
+            kuup2evad:
+                -
+                    04-12-2021
+        -
+            path: /syndmused/2021/ERR-j6ulud-Tapa
+            pealkiri: Eesti Rahvusringhäälingu segakoori jõulukontserdile \"TAAS SÄRAB IGAS KODUS…\" Tapal
+            kuup2evad:
+                -
+                    04-12-2021
+        
+        -
+            path: /syndmused/2021/salve-regina-taaveti-laulud-Tartu
+            pealkiri: Messe Salve Regina ja Taaveti laulud Tartus
+            kuup2evad:
+                -
+                    22-10-2021
+        -
+            path: /syndmused/2021/salve-regina-taaveti-laulud-Tallinn
+            pealkiri: Messe Salve Regina ja Taaveti laulud Tallinnas
+            kuup2evad:
+                -
+                    23-10-2021
+
+        -
+            path: /syndmused/2021/advent-Kuressaare
+            pealkiri: Eesti Segakooride Liidu advendikontsert Kuressaares
+            kuup2evad:
+                -
+                    11-12-2021
+        -
+            path: /syndmused/2021/joulud-joudvad
+            pealkiri: Kontsert \"Jõulud jõudvad\" Kohilas
+            kuup2evad:
+                -
+                    14-12-2021
+        -
+            path: /syndmused/2021/heliseb-valjadel
+            pealkiri: Advendimõtisklus \"Heliseb väljadel\" Tartus
+            kuup2evad:
+                -
+                    17-12-2021
+        -
+            path: /syndmused/2021/reekviem-Tallinn
+            pealkiri: Veronika Portsmuthi Kooriakadeemia Kontsertkoori suur aastalõpukontsert Tallinnas
+            kuup2evad:
+                -
+                    18-12-2021
+    2022:
+        -
+            path: /syndmused/2022/tuljak2022
+            pealkiri: XXIII segakooride võistulaulmine Tuljak
+            kuup2evad:
+                -
+                    12-02-2022
+        -
+            path: /syndmused/2022/laulupaev
+            pealkiri: Eesti segakooride laulupäev - Laulu tuules
+            kuup2evad:
+                -
+                    04-06-2022
+        -
+            path: /syndmused/2022/emakeele-tervisest
+            pealkiri: Meie emakeele tervisest
+            kuup2evad:
+                -
+                    12-03-2022
+        -
+            path: /syndmused/2022/pyhendused-hymnid
+            pealkiri: Kontsert - Pühendused ja hümnid
+            kuup2evad:
+                -
+                    13-03-2022
+        -
+            path: /syndmused/2022/kolavoo-Voru
+            pealkiri: Politsei segakoori Chorus Menticum kevadkontsert - Kõlavöö
+            kuup2evad:
+                -
+                    23-04-2022
+        -
+            path: /syndmused/2022/kolavoo-Tartu
+            pealkiri: Politsei segakoori Chorus Menticum kevadkontsert - Kõlavöö
+            kuup2evad:
+                -
+                    28-04-2022
+        -
+            path: /syndmused/2022/volikogu
+            pealkiri: Eesti Segakooride Liidu volikogu
+            kuup2evad:
+                -
+                    30-04-2022
+        -
+            path: /syndmused/2022/ERR-14
+            pealkiri: Eesti Rahvusringhäälingu segakoori 14. sünnipäeva kontsert
+            kuup2evad:
+                -
+                    10-05-2022
+        -
+            path: /syndmused/2022/tervis-emadepaev
+            pealkiri: Võru segakoori Tervis emadepäeva kontsert - Laulud emale
+            kuup2evad:
+                -
+                    08-05-2022
+        -
+            path: /syndmused/2022/cancel-culture
+            pealkiri: Segakoori Rõõmusõõm kontsert - Cancel Culture.
+            kuup2evad:
+                -
+                    09-05-2022
+                -
+                    17-05-2022
+                -
+                    20-05-2022
+                -
+                    21-05-2022
+        -
+            path: /syndmused/2022/biomeedikum101
+            pealkiri: Biomeedikumi segakoori 10+1 sünnipäevale pühendatud kontsert - Laula, kui saad
+            kuup2evad:
+                -
+                    15-05-2022
+        -
+            path: /syndmused/2022/kevade-helid
+            pealkiri: Kontsert - Kevade helid
+            kuup2evad:
+                -
+                    23-05-2022
+        -
+            path: /syndmused/2022/laulusild
+            pealkiri: Kontsert - Laulusild / Bridge of song
+            kuup2evad:
+                -
+                    29-06-2022
+        -
+            path: /syndmused/2022/ENS-omalooming
+            pealkiri: Eesti Noorte Segakoori omaloomingu kontsert
+            kuup2evad:
+                -
+                    27-09-2022
+        -
+            path: /syndmused/2022/ESL-advent-Tallinn
+            pealkiri: ESL-i advendikontsert
+            kuup2evad:
+                -
+                    03-12-2022
+        -
+            path: /syndmused/2022/ESL-advent-Kardla
+            pealkiri: ESL-i advendikontsert
+            kuup2evad:
+                -
+                    10-12-2022
+        -
+            path: /syndmused/2022/X-Tartu-SK-laulupaev
+            pealkiri: X Tartu segakooride laulupäev - Mart Saar 140
+            kuup2evad:
+                -
+                    21-10-2022
+        -
+            path: /syndmused/2022/Jaapani-kultuuri-paev
+            pealkiri: Jaapani kultuuri päev
+            kuup2evad:
+                -
+                    05-11-2022
+        -
+            path: /syndmused/2022/Solare-45
+            pealkiri: Kammerkoor Solare 45
+            kuup2evad:
+                -
+                    19-11-2022
+        -
+            path: /syndmused/2022/Las-vihistab
+            pealkiri: Kontsert - Las vihistab
+            kuup2evad:
+                -
+                    30-12-2022
+        -
+            path: /syndmused/2022/pyha-rahu-sydames-Tartu
+            pealkiri: Kontsert - Püha rahu südames
+            kuup2evad:
+                -
+                    16-12-2022
+        -
+            path: /syndmused/2022/pyha-rahu-sydames-Tallinn
+            pealkiri: Kontsert - Püha rahu südames
+            kuup2evad:
+                -
+                    18-12-2022
+        
+    2023:
+        -
+            path: /syndmused/2023/Riinimanda-35
+            pealkiri: Riinimanda 35 - konverents ja kontsert
+            kuup2evad:
+                -
+                    07-01-2023
+        -
+            path: /syndmused/2023/Saar-Sisask
+            pealkiri: Segakoori K.O.O.R. kontsert - Saar ja Sisask
+            kuup2evad:
+                -
+                    27-01-2023
+                -
+                    28-01-2023
+                -
+                    31-01-2023
+        -
+            path: /syndmused/2023/teel-laulupeole
+            pealkiri: Kontsert - Teel Laulupeole
+            kuup2evad:
+                -
+                    18-03-2023
+        -
+            path: /syndmused/2023/volikogu
+            pealkiri: Eesti Segakooride Liidu volikogu
+            kuup2evad: 
+                -
+                    22-04-2023
+        -
+            path: /syndmused/2023/suvekool
+            pealkiri: IX lauljate suvekool
+            kuup2evad: 
+                -
+                    18-08-2023
+                -
+                    19-08-2023
+                -
+                    20-08-2023
+        -
+            path: /syndmused/2023/olemise-kumin
+            pealkiri: Kontsert - Olemise kumin
+            kuup2evad: 
+                -
+                    25-04-2023
+        -
+            path: /syndmused/2023/kose-kk-kontsert
+            pealkiri: Kooride Kose Kammerkoor ja Vestmanna Sangkor kontsert
+            kuup2evad: 
+                -
+                    26-05-2023
+                -
+                    27-05-2023
+        -
+            path: /syndmused/2023/rapla-august07-15
+            pealkiri: Rapla segakoor August07 15
+            kuup2evad: 
+                -
+                    28-05-2023
+        -
+            path: /syndmused/2023/loitsud-ja-palved
+            pealkiri: René Eespere LXX autorikontsert - Loitsud ja palved
+            kuup2evad: 
+                -
+                    28-05-2023
+                -
+                    30-05-2023
+        -
+            path: /syndmused/2023/chorus-menticum-kevad
+            pealkiri: Segakoori Chorus Menticum kevadkontsert
+            kuup2evad: 
+                -
+                    25-05-2023
+                -
+                    03-06-2023
+        -
+            path: /syndmused/2023/laulame-suvesse
+            pealkiri: Kontsert - Laulame suvesse
+            kuup2evad: 
+                -
+                    21-06-2023
+        -
+            path: /syndmused/2023/haapsalu-suvekooli-kontsert
+            pealkiri: Eesti Segakooride Liidu suvekooli koori kontsert - BEETHOVEN Missa C-duur
+            kuup2evad: 
+                -
+                    20-08-2023
+        -
+            path: /syndmused/2023/advent-Tallinn
+            pealkiri: Eesti Segakooride Liidu advendikontsert
+            kuup2evad: 
+                -
+                    02-12-2023
+        -
+            path: /syndmused/2023/armastusest-syndinud-viisid
+            pealkiri: Urmas Sisaskile pühendatud kontsertsarja \"Kummardus tähtede taha\" kontsert \"Armastusest sündinud viisid\"
+            kuup2evad: 
+                -
+                    14-10-2023
+        -
+            path: /syndmused/2023/advent-Kullamaa
+            pealkiri: Eesti Segakooride Liidu advendikontsert
+            kuup2evad: 
+                -
+                    09-12-2023
+        -
+            path: /syndmused/2023/laulusobrad-joulukontsert
+            pealkiri: Segakoor Jõelähtme Laulusõbrad ja vokaalansambel Annabre - Jõulukontsert
+            kuup2evad: 
+                -
+                    14-12-2023
+        -
+            path: /syndmused/2023/room-yle-maa
+            pealkiri: Segakoor Jõelähtme Laulusõbrad ja segakoor Lehola talvekontsert \"Rõõm üle maa!\"
+            kuup2evad: 
+                -
+                    17-12-2023
+        -
+            path: /syndmused/2023/jouluvalgus-koidab
+            pealkiri: VHK õpetajate ja lapsevanemate segakoori ja Püha Johannese kooli segakoori jõulukontsert \"Jõuluvalgus koidab\"
+            kuup2evad: 
+                -
+                    19-12-2023
+
+    2024:
+        -
+            path: /syndmused/2024/tuljak2024
+            pealkiri: XXIV segakooride võistulaulmine Tuljak
+            kuup2evad:
+                -
+                    10-02-2024
+        -
+            path: /syndmused/2024/Las-vihistab
+            pealkiri: Võru kooride kontsert - Las vihistab
+            kuup2evad:
+                -
+                    06-01-2024
+        -
+            path: /syndmused/2024/volikogu
+            pealkiri: Eesti Segakooride Liidu volikogu
+            kuup2evad: 
+                -
+                    13-04-2024
+        -
+            path: /syndmused/2024/VHK-synnipaev
+            pealkiri: VHK Õpetajate ja lapsevanemate segakoori sünnipäevakontsert
+            kuup2evad:
+                -
+                    18-05-2024
+        -
+            path: /syndmused/2024/laulupaev
+            pealkiri: Eesti Segakooride Liidu laulupäev \"HÄÄLED LÄBI AJA - MEIE LAULUDE LOOD\"
+            kuup2evad:
+                -
+                    17-08-2024
+        -
+            path: /syndmused/2024/suvekool
+            pealkiri: Eesti Segakooride Liidu X lauljate suvekool
+            kuup2evad:
+                -
+                    16-08-2024
+                -
+                    17-08-2024
+                -
+                    18-08-2024
+        -
+            path: /syndmused/2024/suvekool-kontsert
+            pealkiri: Eesti Segakooride Liidu X lauljate suvekooli kontsert - Giacomo Puccini \"Messa di Gloria\"
+            kuup2evad:
+                -
+                    18-08-2024
+        -
+            path: /syndmused/2024/missa
+            pealkiri: Raimo Kangro - \"Missa süütult hukkunud eestlastele\"
+            kuup2evad:
+                -
+                    24-08-2024
+                -
+                    31-08-2024
+                -
+                    21-09-2024
+        -
+            path: /syndmused/2024/part-muusikapaevad-solare
+            pealkiri: Arvo Pärdi muusikapäevade kontsert
+            kuup2evad:
+                -
+                    11-09-2024
+        -
+            path: /syndmused/2024/advent-Kambja
+            pealkiri: Eesti Segakooride Liidu advendikontsert
+            kuup2evad:
+                -
+                    30-11-2024
+        -
+            path: /syndmused/2024/advent-Viljandi
+            pealkiri: Eesti Segakooride Liidu advendikontsert
+            kuup2evad:
+                -
+                    07-12-2024
+        -
+            path: /syndmused/2024/hannijoggi-10
+            pealkiri: Anija valla segakoor Hannijöggi 10. sünnipäevakontsert
+            kuup2evad:
+                -
+                    12-10-2024
+        -
+            path: /syndmused/2024/joulutahe-all
+            pealkiri: Kontsert - Jõulutähe all
+            kuup2evad:
+                -
+                    15-12-2024
+        -
+            path: /syndmused/2024/kihelkonna-XI-talvelaulupidu
+            pealkiri: Kihelkonna XI Talvelaulupidu
+            kuup2evad:
+                -
+                    06-12-2024
+        -
+            path: /syndmused/2024/armastus-kirgastus-sara
+            pealkiri: Jõulukontsert - Armastus, kirgastus, sära!
+            kuup2evad:
+                -
+                    19-12-2024
+        -
+            path: /syndmused/2024/sydame-sisse-lauludesse
+            pealkiri: Kontsert - Südame sisse lauludesse
+            kuup2evad:
+                -
+                    08-12-2024
+    2025:
+        -
+            path: ""
+            pealkiri: Eesti Segakooride Liidu volikogu
+            kuup2evad:
+                -
+                    06-04-2025
+        -
+            path: /syndmused/2025/suvekool
+            pealkiri: Eesti Segakooride Liidu XI lauljate suvekool
+            kuup2evad:
+                -
+                    15-08-2025
+                -
+                    16-08-2025
+                -
+                    17-08-2025
+        -
+            path: /syndmused/2025/erakorraline-volikogu
+            pealkiri: Eesti Segakooride Liidu erakorraline volikogu koosolek
+            kuup2evad:
+                -
+                    28-09-2025
+        -
+            path: /syndmused/2025/valguse-k6lad
+            pealkiri: Tartu Üliõpilassegakoori ja E STuudio kammerkoori ning tütarlastekoori kontsert \"Valguse kõlad\"
+            kuup2evad:
+                -
+                    20-04-2025
+        -
+            path: /syndmused/2025/tervis-elu-on-laul
+            pealkiri: Võru segakoori Tervis kontsert \"Elu on laul\"
+            kuup2evad:
+                -
+                    18-05-2025
+        -
+            path: /syndmused/2025/advent-Kambja
+            pealkiri: Eesti Segakooride Liidu advendikontsert
+            kuup2evad:
+                -
+                    29-11-2025
+        -
+            path: /syndmused/2025/advent-Rapla
+            pealkiri: Eesti Segakooride Liidu advendikontsert
+            kuup2evad:
+                -
+                    06-12-2025
+        -
+            path: /syndmused/2025/epk-kevadkontsert
+            pealkiri: Eesti Panga kultuuriklubi kevadkontsert
+            kuup2evad:
+                -
+                    24-05-2025
+
+    2026:       
+        -
+            path: /hooaeg
+            pealkiri: XXV segakooride võistulaulmine Tuljak
+            kuup2evad:
+                -
+                    14-02-2026
+                -
+                    15-02-2026
+        -
+            path: /hooaeg
+            pealkiri: Emakeelepäeva kontsert
+            kuup2evad:
+                -
+                    14-03-2026
+
+        -
+            path: /hooaeg
+            pealkiri: Eesti Segakooride Liidu volikogu
+            kuup2evad:
+                -
+                    05-04-2026
+
+        -
+            path: /hooaeg
+            pealkiri: Laulupäev
+            kuup2evad:
+                -
+                    23-05-2026
+
+        -
+            path: /hooaeg
+            pealkiri: Eesti Segakooride Liidu XII lauljate suvekool
+            kuup2evad:
+                -
+                    14-08-2026
+                -
+                    15-08-2026
+                -
+                    16-08-2026
+
+        -
+            path: /hooaeg
+            pealkiri: Eesti Segakooride Liidu advendikontsert
+            kuup2evad:
+                -
+                    28-11-2026
+
+        -
+            path: /hooaeg
+            pealkiri: Eesti Segakooride Liidu advendikontsert
+            kuup2evad:
+                -
+                    05-12-2026
+
+    2027:
+        -
+            path: ""
+            pealkiri: ""
+            kuup2evad:
+                -
+                    ""
+    2028:
+        -
+            path: ""
+            pealkiri: ""
+            kuup2evad:
+                -
+                    ""
+    2029:
+        -
+            path: ""
+            pealkiri: ""
+            kuup2evad:
+                -
+                    ""
+    2030:
+        -
+            path: ""
+            pealkiri: ""
+            kuup2evad:
+                -
+                    ""

@@ -1,31 +1,20 @@
-path: tuljak
+path: /tuljak
 title: ""
 data:
     tuljakud: ./data/data.yaml
 
 viimane_tuljak:
-    path: tuljak/2019
-    id: XXII (2019)
-    pealkiri: XXII võistulaulmine
-    aeg_ja_asukoht: 9.-10. veebruaril 2019 Miina Härma Gümnaasiumis
+    path: /tuljak/2026
+    id: XXV (2026)
+    pealkiri: XXV võistulaulmine
+    aeg_ja_asukoht: 14. - 15. veebruaril 2026 Tartu Miina Härma Gümnaasiumis
     sisu: |
-        Tulemused:
+        Meil on rõõm teatada, et <b>XXV Eesti segakooride võistulaulmise „Tuljak“</b> juhend on valmis ning ootame rohket osavõttu!
+        
+        Võistulaulmine toimub <b>14. - 15. veebruaril 2026 Tartu Miina Härma Gümnaasiumis</b>.
 
-        A-kategooria:
+        Registreerimislehe leiate <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5oQv5NG0vkKVps8z3CYT7FCH1RQ5VW83IQXIc7SSkehZyKw/viewform?usp=dialog" target="_blank" rel="noopener">SIIT</a>.
+        
+        <b>Registreerimise tähtaeg on 1. november 2025.</b>
 
-          I koht - Tallinna Kammerkoor, dirigent Mariell Aren
-          II koht - Segakoor HUIK!, dirigent Ingrid Roose
-          III koht - Tartu Maarja Kirikukoor, dirigent Lilyan Kaiv
-
-        B-kategooria:
-
-          II koht - Vene Koorikapell, dirigent Olga Tungal
-          II koht - Eesti Rahvusringhäälingu Segakoor, dirigent Hirvo Surva
-
-        C-kategooria:
-
-          I koht -
-          II koht - VHK Õpetajate ja Lapsevanemate Segakoor, dirigendid Jana Perens ja Ayaka Ueda
-          III koht - Anija valla segakoorile Hannijöggi, dirigendid Mariell Aren ja Eleri-Kristel Kuimet
-
-        Parima kohustusliku laulu eripreemiad pälvis Tallinna Kammerkoor (Eino Tamberg / Juhan Liiv - "Isamaale").
+        Kui tekib küsimusi, vastame neile hea meelega.

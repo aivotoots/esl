@@ -1,10 +1,11 @@
 block menyy
+    section.menyy-link-kompaktne
+        span= self.menyynupp
     section.menyy-taust
         section.menyy
             ul
                 each link in self.menyy.lingid
-                    span('self.path'=self.path, 'self.valitud_keel'=self.valitud_keel, 'link.url'=link.url)
-                    if self.path === '/' + self.valitud_keel + link.url
+                    if self.path.replace('//', '/') + '/' === self.valitud_keel + link.url
                         li
                             a(href=self.valitud_keel + link.url).menyy-link.aktiivne-link= link.tekst
                     else

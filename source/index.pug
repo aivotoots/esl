@@ -1,158 +1,195 @@
 extends _templates/layout.pug
 
 block peasisu
-    table#kalender.kalender-p2is.t2islai-tabel.keskel
-        tr
-            td
-                a(href="")
-                    h3 &lt; AUGUST
-            td
-                h3.pruun-tekst SEPTEMBER 2020
-            td
-                a(href="")
-                    h3 OKTOOBER &gt;
+    script.
+            // On Load of the window
+            window.onload = function () {
 
-    table.kalender-sisu.t2islai-tabel.keskel
-        tr
-            td
-                h3 T01
-            td
-                h3 K02
-            td
-                h3 N03
-            td
-                h3 R04
-            td
-                h3 L05
-            td
-                h3 P06
-            td
-                h3 E07
-            td
-                h3 T08
-            td
-                h3 K09
-            td
-                h3 N10
-            td
-                h3 R11
-            td
-                h3 L12
-            td
-                h3 P13
-            td
-                h3 E14
-            td
-                h3 T15
-            td
-                h3 K16
-            td
-                h3 N17
-            td
-                h3 R18
-            td
-                h3 L19
-            td
-                h3 P20
-            td
-                h3 E21
-            td
-                h3 T22
-            td
-                h3 K23
-            td
-                h3 N24
-            td
-                h3 R25
-            td
-                h3 L26
-            td
-                a(href="")
-                    h3.pruun-tekst P27
-            td
-                h3 E28
-            td
-                h3 T29
-            td
-                h3 T30
+              var data = JSON.parse('!{ JSON.stringify(self.data) }');
+
+              // Start calendar
+              var c = new Calendar2();
+              c.data = data;
+              c.lang = JSON.parse('!{ JSON.stringify(self.valitud_keel) }');
+              c.init();
+
+            }
+
+    ul#kalender.kalender-p2is.t2islai-tabel.keskel
+        li.kolmandik-veerg
+            h3
+                a(href="#")
+                    span.prev-month
+        li.kolmandik-veerg
+            h3.pruun-tekst
+                span.current-month-year
+        li.kolmandik-veerg
+            h3
+                a(href="#")
+                    span.next-month
+    div.kalender-sisu-wrapper
+        ul.kalender-sisu.keskel
 
     section.kalender
                 //- ul
-                //-     li
-                //-         figure
-                //-             // Photo by Quentin Dr on Unsplash
-                //-             img(src='https://images.unsplash.com/photo-1471421298428-1513ab720a8e', alt='Several hands holding beer glasses')
-                //-             figcaption
-                //-                 h3 Billions upon billions
-                //-         p
-                //-             | Made in the interiors of collapsing stars star stuff harvesting star light venture billions upon billions Drake Equation brain is the seed of intelligence?
-                //-         a(href='#') Visit Website
-                //-     li
-                //-         figure
-                //-             // Photo by Drew Farwell on Unsplash
-                //-             img(src='https://images.unsplash.com/photo-1513309914637-65c20a5962e1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3450&q=80', alt='Several friends doing a toast')
-                //-             figcaption
-                //-                 h3 Drake Equation
-                //-         p
-                //-             | Another world citizens of distant epochs from which we spring descended from astronomers Orion's sword shores of the cosmic ocean.
-                //-         a(href='#') Visit Website
-                //-     li
-                //-         figure
-                //-             // Photo by Rawpixel on Unsplash
-                //-             img(src='https://images.unsplash.com/photo-1535359056830-d4badde79747?ixlib=rb-1.2.1&auto=format&fit=crop&w=3402&q=80', alt='Three different glasses of beer')
-                //-             figcaption
-                //-                 h3 Vast cosmic arena
-                //-         p
-                //-             | Galaxies the ash of stellar alchemy prime number science inconspicuous motes of rock and gas brain is the seed of intelligence.
-                //-         a(href='#') Visit Website
+                //-     li.uudis-vasak
+                //-         h3(style="padding-left:1rem;padding-right:1rem")
+                //-             Eesti Segakooride Liidu Advendikontserdid
+                //-         br
+                //-         br
+                //-         <b>30. november kell 18 Kambja kirikus</b>
+                //-         br
+                //-         <b>7. detsember kell 18 Viljandi Pauluse kirikus</b>
+                //-         br
+                //-         br
+                //-         <span>Infolehe ja täpsema info leiate</b> <a href="https://segakoorideliit.ee/syndmused/2024/advent-Kambja"><b>SIIT</b></a>!</span>
 
+                    //- li.uudis-vasak(style="vertical-align:middle")
+                    //-     a(href="/syndmused/2024/missa")
+                    //-         img(src="/assets/event_imgs/2024/missa.jpg", width="100%")
+                //- ul
+                //-     li.uudis-vasak
+                //-         a(href="/syndmused/2024/laulupaev")
+                //-             img(src="/assets/event_imgs/2024/laulupaev.png", width="100%%")
+                //-     li.uudis-vasak
+                //-         a(href="/syndmused/2024/suvekool-kontsert")
+                //-             img(src="/assets/event_imgs/2024/kontsert.png", width="100%%")
+                //- ul
+                //-     li.uudis-vasak
+                //-         h3 XXIV segakooride võistulaulmine "Tuljak" 10. veebruaril 2024 Tartu Miina Härma Gümnaasiumis - Tulemused
+
+                //-         span 10. veebruaril lõppenud XXIV segakooride võistulaulmine "Tuljak" haaras võistlustulle 12 koori, kes panid end proovile viies kategoorias. Võistlejaid hindas žürii koosseisus Vaike Uibopuu, Ardo Ran Varres ja Triin Ella.
+
+                //- ul
+                //-     li.uudis-vasak
+                //-         b Avatud kategooria
+                //-         br
+                //-         br
+                //-         span Eripreemia osalemise eest - TÜ Viljandi Kultuuriakadeemia segakoor, dirigent Pille Kährik
+                //-     li.uudis-vasak
+                //-         b Koolikooride D-kategooria
+                //-         br
+                //-         br
+                //-         span Eripreemia osalemise eest - Tallinna Vaba Waldorfkooli segakoor, dirigent Ka Bo Chan
+
+                //-     li.uudis-vasak    
+                //-         b C-kategooria
+                //-         br
+                //-         br
+                //-         span I koht - Segakoor Hannijöggi, dirigendid Mariell Aren ja Heili Kivi
+                //-         br 
+                //-         br
+                //-         span II koht - Segakoor August07, dirigendid Urve Uusberg ja Ele Andok
+                //-         br
+                //-         br
+                //-         span III koht - Segakoor Sakala, dirigendid Mihhail Gorjušin ja Kirill Gorjušin
+                //-     li.uudis-vasak
+                //-         b B-kategooria
+                //-         br
+                //-         br
+                //-         span I - Saku Segakoor "Tuljak", dirigent Killu Rikker
+                //-         br
+                //-         br
+                //-         span II koht - Segakoor Jõelähtme, dirigendid Mait Männik ja Merike Toro
+                //-         br
+                //-         br
+                //-         span III koht - Rae Kammerkoor, dirigent Ingrid Orumaa
+                //-     li.uudis-vasak
+                //-         b A-kategooria
+                //-         br
+                //-         br
+                //-         span I koht - Tartu Ülikooli Kammerkoor, dirigent Triin Koch
+                //-         br
+                //-         br
+                //-         span II koht - I.N.T.A segakoor, dirigent Inta Roost
+                //-     li.uudis-vasak
+                //-         b Eripreemiad
+                //-         br
+                //-         br
+                //-         span B-kategooria parim kohustusliku laulu esitaja - Segakoor Jõelähtme
+                //-         br
+                //-         br
+                //-         span A-kategooria parim kohustusliku laulu esitaja - Tartu Ülikooli Kammerkoor
+                //-         br
+                //-         br
+                //-         span Parim "Tuljak" - Segakoor Sakala
+                //-         br
+                //-         br
+                //-         span Parim dirigent - Killu Rikker
+                //-         br
+                //-         br
+                //-         span Solisti preemia - Liina Inno Saku segakoorist "Tuljak"
+                //- ul
+                //-     li.uudis-vasak
+                //-         <a href="/assets/doc/2024/XXIV_Tuljak_tulemused.pdf"><span style="color:#cc0000;"><b>TULEMUSED (.pdf)</b></span></a> | <a href="/assets/doc/2024/XXIV_Tuljak_Punktitabel_ja_protokoll.pdf"><span style="color:#cc0000;"><b>PUNKTITABEL JA PROTOKOLL (.pdf)</b></span></a> | <a href="/fotod/2024/tuljak/"><span style="color:#cc0000;"><b>FOTOD</b></span></a>
                 ul
                     li.uudis-vasak
-                        h3 Eesti Segakooride Liidu advendikontserdid
-                        h1 5. ja 12. detsember
-                        h2.pruun-tekst Tallinnas ja Kuressaares
-                        span.veel-infot Täpsem info &gt;
-                    li.uudis-parem-pruun
-                        h3 XXIII segakooride võistulaulmine Tuljak
-                        h1 13. - 14. veebruar 2021
-                        h2.pruun-tekst Tartu Miina Härma Gümnaasiumis
-                        span.veel-infot Täpsem info &gt;
-
-                ul
-                    li
-                        table
-                            tr
-                                td.uudis-ikoon
-                                    img(src="/assets/img/kalender_ikoon.png", height="50px")
-                                td.uudis-sisu
-                                    h2 Segakooride Liidu hooaja sündmused
-                                    | Hoidke end ESL-i sündmustega kursis ja liituge meie #[strong="uudiskirjaga"]:
-                                    p
-                                        section.listi-vorm
-                                            | Nimi
-                                            br
-                                            input(type="text")
-                                            br
-                                            | Meiliaadress
-                                            br
-                                            input(type="text")
-                                            br
-                                            input(type="submit", value="Liitu").listi-nupp
-                                    br
-                                    br
-                                    br
-                                    br
-                                    br
-                                    br
-                                    p.oma-syndmus
-                                        | Lisage oma sündmus meie kalendrisse&nbsp;
-                                        a(href='https://forms.gle/bcaSQQg6QGZXsN3D7', target="_blank") SIIN
+                        h3(style="padding-left:1rem;padding-right:1rem")
+                            strong Ootame kõikide segakooride tulevasi kontserte ESLi kalendrisse!
+                            br
+                            strong Nii saame hea ülevaate, kus ja millal segakoorid laulavad.
+                            br
+                            strong Üle terve Eesti!
+                            br
+                            br
+                            strong Kontserte saab lisada
+                                a(href='https://forms.gle/Zpa5QZ6RToVPArkr9', target="_blank", style="font-size:24px") &nbsp;SIIN
+ 
                     li.uudis-vasak
-                        h3 ESL-i laulupäev
-                        h1 juuni 2021
-                        h2.pruun-tekst Pärnu vallikäärus
-                        span.veel-infot Täpsem info &gt;
+                        <h3>Eesti Segakooride Liidu advendikontserdid</h3>
+                        
+                        <br><b>29. november 2025 kell 18.00 – Kambja kirikus</b>
+                        <br><b>6. detsember 2025 kell 18.00 – Rapla kirikus</b>
+                        <br>
+                        <br><b>REGISTREERIMINE ON AVATUD</b>
+                        <br>
+                        <br><b>Esinemiseks kontserdil on vajalik eelregistreerimine.</b>
+                        <br>
+                        <br><a href="https://forms.gle/DTjerqRZc2HFXvc68" target="_blank" rel="noopener">Registreerimisvorm</a>
+                        <br>
+                        <br><b>Registreerimistähtaeg: 6. oktoober 2025 (k.a).</b>
+                        <br>
+                        <br>Täpsema info leiate<a href="/syndmused/2025/advent-Kambja"><b>SIIT!</b></a>
+                    li.uudis-vasak 
+                        <h3>XXV Eesti segakooride võistulaulmise „Tuljak“</h3>
+                        <br>
+                        <br>Meil on rõõm teatada, et <b>XXV Eesti segakooride võistulaulmise „Tuljak“</b> juhend on valmis ning ootame rohket osavõttu!
+                        <br>
+                        <br>Võistulaulmine toimub <b>14. - 15. veebruaril 2026 Tartu Miina Härma Gümnaasiumis</b>.
+                        <br>
+                        <br>Registreerimislehe leiate <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5oQv5NG0vkKVps8z3CYT7FCH1RQ5VW83IQXIc7SSkehZyKw/viewform?usp=dialog" target="_blank" rel="noopener">SIIT</a>.
+                        <br>
+                        <br><b>Registreerimise tähtaeg on 1. november 2025.</b>
 
+                    //- li
+                    //-     table.uudis-tabel
+                    //-         tr
+                    //-             td.uudis-ikoon
+                    //-                 img(src="/assets/img/kalender_ikoon.png", height="50px")
+                    //-             td.uudis-sisu
+                    //-                 h2 Segakooride Liidu hooaja sündmused
+                    //-                 | Hoidke end ESL-i sündmustega kursis ja liituge meie #[strong="uudiskirjaga"]:
+                    //-                 p
+                    //-                     section.listi-vorm
+                    //-                         br
+                    //-                         | Meiliaadress
+                    //-                         br
+                    //-                         input(type="email").listi-email
+                    //-                         br
+                    //-                         input(type="button", value="Liitu").listi-nupp
+                    //-                 br
+                    //-                 br
+                    //-                 br
+                    //-                 br
+                    //-                 br
+                    //-                 div.list-success
+                    //-                     span Õnnestus!
+                    //-                 div.list-error
+                    //-                     span Ei õnnestunud
+                    //-                 br
+                    //-                 p.oma-syndmus
+                    //-                     | Lisage oma sündmus meie kalendrisse&nbsp;
+                    //-                     a(href='https://forms.gle/Zpa5QZ6RToVPArkr9', target="_blank") SIIN       
                 ul
                     li
                         table
