@@ -7,7 +7,7 @@
     "entu-ssg": "5.2.0"
   },
   "scripts": {
-    "build": "cp -r assets docs/; node ./node_modules/entu-ssg/src/build.js ./entu-ssg.yaml full",
+    "build": "cp -r assets build/; node ./node_modules/entu-ssg/src/build.js ./entu-ssg.yaml full",
     "dev": "node ./node_modules/entu-ssg/src/serve.js ./entu-ssg.yaml full"
   },
   "repository": {
