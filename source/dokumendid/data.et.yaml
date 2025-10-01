@@ -1,77 +1,101 @@
-path: dokumendid
+path: /dokumendid
 title: Dokumendid
 dokumendid:
     -
         nimi: EESTI SEGAKOORIDE LIIDU LIIKMEKS ASTUMISE AVALDUS
-        url: assets/doc/ESLi_liikmeks_astumise_avaldus.doc
+        url: /assets/doc/ESLi_liikmeks_astumise_avaldus.doc
         higlight: true
     -
-        nimi: EESTI SEGAKOORIDE LIIDU LIIKMEMAKSU LEHT
-        url: assets/doc/liikmemaks_2019.xls
+        nimi: EESTI SEGAKOORIDE LIIDU ARENGUKAVA 2020-2025
+        url: /assets/doc/Arengukava_2020–2025.pdf
+        highlight: true
+    -
+        nimi: EESTI SEGAKOORIDE LIIDU VOLIKOGU 22. APRILL 2023 - 2022. AASTA TEGEVUSARUANNE (SLAIDID)
+        url: /assets/doc/LISA1-Ulevaade-ESLi-tegevusest-aastal-2022-ja-eesootavad-sundmused.pdf
+        higlight: true
+    -
+        nimi: EESTI SEGAKOORIDE LIIDU VOLIKOGU 22. APRILL 2023 - PROTOKOLL
+        url: /assets/doc/ESLi-volikogu-protokoll-2023.pdf
+        higlight: true
+    -
+        nimi: EESTI SEGAKOORIDE LIIDU VOLIKOGU 30. APRILL 2022 - 2021. AASTA TEGEVUSARUANNE (SLAIDID)
+        url: /assets/doc/LISA_1_ESLi_tegevusaruanne_2021_(slaidid).pdf
+        higlight: true
+    -
+        nimi: EESTI SEGAKOORIDE LIIDU VOLIKOGU 30. APRILL 2022 - PROTOKOLL
+        url: /assets/doc/Protokoll_ESLi_volikogu_2022.pdf
+        higlight: true
+    -
+        nimi: EESTI SEGAKOORIDE LIIDU VOLIKOGU 11. APRILL 2021 - 2020. AASTA TEGEVUSARUANNE (SLAIDID)
+        url: /assets/doc/LISA_1_ESLi_tegevusaruanne_2020.pdf
+        highlight: true
+    -
+        nimi: EESTI SEGAKOORIDE LIIDU VOLIKOGU 11. APRILL 2021 - PROTOKOLL
+        url: /assets/doc/11.04.2021_ESL_volikogu_protokoll.pdf
         highlight: true
     -
         nimi: EESTI SEGAKOORIDE LIIDU TÖÖPLAAN HOOAJAKS 2019/2020
-        url: assets/doc/2019_2020_hooaja_plaan.pdf
+        url: /assets/doc/2019_2020_hooaja_plaan.pdf
         highlight: true
     -
         nimi: EESTI SEGAKOORIDE LIIDU VOLIKOGU 28. APRILL 2019 - 2018. AASTA TEGEVUSARUANNE (SLAIDID)
-        url: assets/doc/Slaidid_ESLi_tegevusaruanne_2018.pdf
+        url: /assets/doc/Slaidid_ESLi_tegevusaruanne_2018.pdf
         highlight: true
     -
         nimi: EESTI SEGAKOORIDE LIIDU VOLIKOGU 28. APRILL 2019 - 2018. AASTA TEGEVUSARUANNE
-        url: assets/doc/2018_aasta_ESLi_tegevusaruanne.pdf
+        url: /assets/doc/2018_aasta_ESLi_tegevusaruanne.pdf
         highlight: true
     -
         nimi: EESTI SEGAKOORIDE LIIDU VOLIKOGU 28. APRILL 2019 - PROTOKOLL
-        url: assets/doc/28.04.2019_ESLi_volikogu_protokoll.docx
+        url: /assets/doc/28.04.2019_ESLi_volikogu_protokoll.docx
         highlight: true
     -
         nimi: HOMSED VÕIMALUSED - Eesti töötajate kutsekvalifikatsioonisüsteem (Kersti Rodes)
-        url: assets/doc/koori_KO.ppt
+        url: /assets/doc/koori_KO.ppt
     -
         nimi: "[KUTSESTANDARD] KOORIJUHT III, IV, V"
-        url: assets/doc/Koorijuht_III_IV_V.doc
+        url: /assets/doc/Koorijuht_III_IV_V.doc
     -
         nimi: KOORIJUHTIDE III, IV, V TASEME KUTSEKVALIFIKATSIOONI OMISTAMISE KORD
-        url: assets/doc/Koorijuhtide_KO_kord.doc
+        url: /assets/doc/Koorijuhtide_KO_kord.doc
     -
         nimi: EESTI KOORIJUHTIDE LIIDU KUTSEKOMISJONI TEGEVUSSTATUUT
-        url: assets/doc/Koorijuhtide_tegevusstatuut.doc
+        url: /assets/doc/Koorijuhtide_tegevusstatuut.doc
     -
         nimi: EESTI SEGAKOORIDE LIIDU TÖÖPLAAN HOOAJAKS 2017/2018
-        url: assets/doc/tooplaan_2017_2018.doc
+        url: /assets/doc/tooplaan_2017_2018.doc
     -
         nimi: EESTI SEGAKOORIDE LIIDU VOLIKOGU 21. APRILL 2018 - PROTOKOLL
-        url: assets/doc/Volikogu_protokoll_21.04.2018.doc
+        url: /assets/doc/Volikogu_protokoll_21.04.2018.doc
     -
         nimi: EESTI SEGAKOORIDE LIIDU VOLIKOGU 21. APRILL 2018 - 2017. AASTA TEGEVUSARUANNE
-        url: assets/doc/ESLi_tegevusaruande_esitlus2017.pdf
+        url: /assets/doc/ESLi_tegevusaruande_esitlus2017.pdf
     -
         nimi: EESTI SEGAKOORIDE LIIDU VOLIKOGU 23. APRILL 2016 - PROTOKOLL
-        url: assets/doc/ESLi_volikogu_23.04.2016.doc
+        url: /assets/doc/ESLi_volikogu_23.04.2016.doc
     -
         nimi: EESTI SEGAKOORIDE LIIDU ARENGUKAVA AASTATEKS 2014-2020
-        url: assets/doc/Arengukava_ESL_2014-2020.doc
+        url: /assets/doc/Arengukava_ESL_2014-2020.doc
     -
         nimi: EESTI SEGAKOORIDE LIIDU TÖÖPLAAN AASTAKS 2014
-        url: assets/doc/Tooplaan_2014.doc
+        url: /assets/doc/Tooplaan_2014.doc
     -
         nimi: EESTI SEGAKOORIDE LIIDU PIKAAJALINE TÖÖPLAAN 2010-2015
-        url: assets/doc/ESLi_pikaajaline_tooplaan_2010-2015.doc
+        url: /assets/doc/ESLi_pikaajaline_tooplaan_2010-2015.doc
     -
         nimi: EESTI SEGAKOORIDE LIIDU TEGEVUSARUANNE 2016
-        url: assets/doc/2016_tegevusaruanne.doc
+        url: /assets/doc/2016_tegevusaruanne.doc
     -
         nimi: EESTI SEGAKOORIDE LIIDU TEGEVUSARUANNE 2015
-        url: assets/doc/2015_tegevusaruanne.doc
+        url: /assets/doc/2015_tegevusaruanne.doc
     -
         nimi: EESTI SEGAKOORIDE LIIDU TEGEVUSARUANNE 2014
-        url: assets/doc/2014_tegevusaruanne.doc
+        url: /assets/doc/2014_tegevusaruanne.doc
     -
         nimi: EESTI SEGAKOORIDE LIIDU TEGEVUSARUANNE 2013
-        url: assets/doc/2013_tegevusaruanne.doc
+        url: /assets/doc/2013_tegevusaruanne.doc
     -
         nimi: EESTI SEGAKOORIDE LIIDU TEGEVUSARUANNE 2012
-        url: assets/doc/2012_tegevusaruanne.doc
+        url: /assets/doc/2012_tegevusaruanne.doc
 
 

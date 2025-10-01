@@ -1,0 +1,559 @@
+
+path: /hooaeg
+title: Hooaeg 2025 / 2026
+ESL_title: EESTI SEGAKOORIDE LIIDU SÜNDMUSED
+liikmeskoorid_title: EESTI SEGAKOORIDE LIIDU LIIKMESKOORIDE SÜNDMUSED
+muud_title: MUUD SÜNDMUSED
+ESL_syndmused:
+    #2020:
+    #    -
+    #        path: 
+    #        pealkiri: Eesti Segakooride Liidu VII suvekool
+    #        aeg: 21. – 23. august
+    #        asukoht: Haapsalus
+    #    -
+    #        path:
+    #        pealkiri: Eesti Segakooride Liidu volikogu
+    #        aeg: 27. september kell 12.00-16.00
+    #        asukoht: kinos Sõprus (Vana-Posti 8, Tallinn)
+    #    -
+    #        path: /syndmused/2020/oppepaev2020
+    #        pealkiri: Õppepäev
+    #        aeg: 24. oktoober kell 12.00-15.00
+    #        asukoht: Eesti Muusika- ja Teatriakadeemias
+    #2021:
+    #    -
+    #        path: /syndmused/2021/volikogu
+    #        pealkiri: Eesti Segakooride Liidu volikogu
+    #        aeg: 11. aprill
+    #        asukoht: ""
+    #    -
+    #        path: ""
+    #        pealkiri: Kontsert "Urmas Sisask 60"
+    #        aeg: 24. aprill
+    #        asukoht: Laurentiuse kirikus Kuressaares (JÄÄB ÄRA)
+    #    -
+    #        path: /syndmused/2021/suvekool
+    #        pealkiri: Eesti Segakooride Liidu VIII suvekool
+    #        aeg: 20. – 22. august
+    #        asukoht: Haapsalus
+    #    -
+    #        path: /syndmused/2021/koorivisioon
+    #        pealkiri: Koorimuusika ja kooriseadete festival KOORIVISIOON
+    #        aeg: 25. september
+    #        asukoht: Viljandi Pärimusmuusika Aidas
+    #    -
+    #        path: /syndmused/2021/advent-Tallinn
+    #        pealkiri: Eesti Segakooride Liidu advendikontsert
+    #        aeg: 4. detsember kell 17.00
+    #        asukoht: Tallinna Kaarli kirikus
+    #    -
+    #        path: /syndmused/2021/advent-Kuressaare
+    #        pealkiri: Eesti Segakooride Liidu advendikontsert
+    #        aeg: 11. detsember kell 18.00
+    #        asukoht: Kuressaare Laurentiuse kirikus Saaremaal
+    #2023:
+    #    -
+    #        path: /syndmused/2023/volikogu
+    #        pealkiri: Eesti Segakooride Liidu volikogu
+    #        aeg: 22. aprill kell 12.00
+    #        asukoht: Teatri- ja Muusikamuuseumi P. Süda nimelises saalis (Müürivahe 12, Tallinn)
+    #    -
+    #        path: /syndmused/2023/suvekool
+    #        pealkiri: IX lauljate suvekool
+    #        aeg: 18. - 20. august
+    #        asukoht: Haapsalus
+    #    -
+    #        path: /syndmused/2023/haapsalu-suvekooli-kontsert
+    #        pealkiri: Eesti Segakooride Liidu suvekooli koori kontsert - BEETHOVEN Missa C-duur
+    #        aeg: 20. august kell 18.00
+    #        asukoht: Haapsalu Toomkirikus
+    #    -
+    #        path: /syndmused/2023/advent-Tallinn
+    #        pealkiri: Eesti Segakooride Liidu advendikontsert
+    #        aeg: 2. detsember kell 18.00
+    #        asukoht: Tallinna Kaarli kirikus
+    #    -
+    #        path: /syndmused/2023/advent-Kullamaa
+    #        pealkiri: Eesti Segakooride Liidu advendikontsert
+    #        aeg: 9. detsember kell 18.00
+    #        asukoht: Kullamaa kirikus
+    #2022:
+    #    -
+    #        path: /syndmused/2022/ESL-advent-Kardla
+    #        pealkiri: ESL-i advendikontsert
+    #        aeg: 10. detsember kell 18.00
+    #        asukoht: Kärdla kirikus
+    #    -
+    #        path: /syndmused/2022/ESL-advent-Tallinn
+    #        pealkiri: ESL-i advendikontsert
+    #        aeg: 3. detsember kell 18.00
+    #        asukoht: Tallinna Kaarli kirikus
+    #    -
+    #        path: ""
+    #        pealkiri: õppepäevad
+    #        aeg: 13. - 16. oktoober
+    #        asukoht: Tallinnas
+    #    -
+    #        path: /syndmused/2022/laulupaev
+    #        pealkiri: Eesti segakooride laulupäev "Laulu tuules"
+    #        aeg: 4. juuni
+    #        asukoht: Pärnu vallikäärus
+    #    -
+    #        path: /syndmused/2022/volikogu
+    #        pealkiri: ESLi korraline volikogu
+    #        aeg: 30. aprill kell 10.00 - 11.30
+    #        asukoht: Zoomis
+    #    -
+    #        path: /syndmused/2022/tuljak2022
+    #        pealkiri: XXIII segakooride võistulaulmine Tuljak
+    #        aeg: 12. veebruar
+    #        asukoht: Tartu Miina Härma Gümnaasiumis
+    # 2024:
+        # -
+        #     path: /syndmused/2024/tuljak2024
+        #     pealkiri: XXIV segakooride võistulaulmine Tuljak
+        #     aeg: 10. veebruar
+        #     asukoht: Tartu Miina Härma Gümnaasiumis
+        # -
+        #     path: /syndmused/2024/volikogu
+        #     pealkiri: Eesti Segakooride Liidu volikogu
+        #     aeg: 13. aprill kell 12.00
+        #     asukoht: Teatri- ja Muusikamuuseumi P. Süda nimelises saalis (Müürivahe 12, Tallinn)
+        # -
+        #     path: ""
+        #     pealkiri: ESLi õppereis Pariisi
+        #     aeg: 19. - 22. aprill
+        #     asukoht: ""
+        # -
+        #     path: /syndmused/2024/suvekool
+        #     pealkiri: Eesti Segakooride Liidu X lauljate suvekool
+        #     aeg: 16. - 18. august
+        #     asukoht: Haapsalus
+        # -
+        #     path: /syndmused/2024/laulupaev
+        #     pealkiri: Eesti Segakooride Liidu laulupäev "HÄÄLED LÄBI AJA - MEIE LAULUDE LOOD"
+        #     aeg: 17. august kell 16
+        #     asukoht: Haapsalu lossihoovis
+        # -
+        #     path: /syndmused/2024/suvekool-kontsert
+        #     pealkiri: Eesti Segakooride Liidu X lauljate suvekooli kontsert - Giacomo Puccini "Messa di Gloria"
+        #     aeg: 18. august kell 18
+        #     asukoht: Haapsalu Toomkirikus
+        # -
+        #     path: /syndmused/2024/missa
+        #     pealkiri: Raimo Kangro - "Missa süütult hukkunud eestlastele"
+        #     aeg: 24. august kell 17
+        #     asukoht: Haapsalu Toomkirikus
+        # -
+        #     path: /syndmused/2024/missa
+        #     pealkiri: Raimo Kangro - "Missa süütult hukkunud eestlastele"
+        #     aeg: 31. august kell 19
+        #     asukoht: Tartu Pauluse kirikus
+        # -
+        #     path: /syndmused/2024/missa
+        #     pealkiri: Raimo Kangro - "Missa süütult hukkunud eestlastele"
+        #     aeg: 21. september kell 19
+        #     asukoht: Tallinna Kaarli kirikus
+        # -
+        #     path: /syndmused/2024/advent-Kambja
+        #     pealkiri: Eesti Segakooride Liidu advendikontsert
+        #     aeg: 30. november kell 18
+        #     asukoht: Kambja kirikus
+        # -
+        #     path: /syndmused/2024/advent-Viljandi
+        #     pealkiri: Eesti Segakooride Liidu advendikontsert
+        #     aeg: 7. detsember kell 18
+        #     asukoht: Viljandi Pauluse kirikus
+    2025:
+        # -
+        #    path: ""
+        #    pealkiri: Eesti Segakooride Liidu volikogu
+        #    aeg: 6. aprill
+        #    asukoht: ""
+        # -
+        #     path: ""
+        #     pealkiri: Eesti Segakooride Liidu õppereis Lissabonis Portugalis
+        #     aeg: 12. - 16. aprill
+        #     asukoht: ""
+        # -
+        #     path: /syndmused/2025/suvekool
+        #     pealkiri: Eesti Segakooride Liidu XI lauljate suvekool
+        #     aeg: 15. - 17. august
+        #     asukoht: Haapsalus
+
+        -
+            path: /syndmused/2025/erakorraline-volikogu
+            pealkiri: Eesti Segakooride Liidu erakorraline volikogu koosolek
+            aeg: 28. september 2025 kell 18.00
+            asukoht: Zoomis
+        -
+            path: /syndmused/2025/advent-Kambja
+            pealkiri: Eesti Segakooride Liidu advendikontsert
+            aeg: 29. november 2025 kell 18.00
+            asukoht: Kambja kirikus
+        -
+            path: /syndmused/2025/advent-Rapla
+            pealkiri: Eesti Segakooride Liidu advendikontsert
+            aeg: 6. detsember 2025 kell 18.00
+            asukoht: Rapla kirikus
+    2026:
+        -
+            path: /tuljak/2026/
+            pealkiri: XXV segakooride võistulaulmine Tuljak
+            aeg: 14. - 15. veebruar 
+            asukoht: Tartus
+        -
+            path: ""
+            pealkiri: Emakeelepäeva kontsert
+            aeg: 14. märts
+            asukoht: Estonia kontserdisaalis
+        -
+            path: ""
+            pealkiri: Eesti Segakooride Liidu volikogu
+            aeg: 5. aprill
+            asukoht: ""
+        -
+            path: ""
+            pealkiri: Eesti Segakooride Liidu õppereis Londonisse
+            aeg: aprill
+            asukoht: ""
+        -
+            path: ""
+            pealkiri: Laulupäev
+            aeg: 23. mai
+            asukoht: Lihulas
+        -
+            path: ""
+            pealkiri: Eesti Segakooride Liidu XII lauljate suvekool
+            aeg: 14. - 16. august
+            asukoht: Haapsalus
+        -
+            path: ""
+            pealkiri: Eesti Segakooride Liidu advendikontsert
+            aeg: 28. november
+            asukoht: ""
+        -
+            path: ""
+            pealkiri: Eesti Segakooride Liidu advendikontsert
+            aeg: 5. detsember
+            asukoht: ""
+
+liikmeskooride_syndmused:
+    2025:
+        # -
+        #    path: /syndmused/2025/valguse-k6lad
+        #    pealkiri: Tartu Üliõpilassegakoori ja E STuudio kammerkoori ning tütarlastekoori kontsert "Valguse kõlad"
+        #    aeg: 20. aprill kell 16.00
+        #    asukoht: Tartu Ülikooli aulas (Ülikooli 18, Tartu)
+        # -
+        #    path: /syndmused/2025/tervis-elu-on-laul
+        #    pealkiri: Võru segakoori Tervis kontsert "Elu on laul"
+        #    aeg: 18. mai kell 16.00
+        #    asukoht: Võru kultuurimajas Kannel (Liiva 13, Võru)
+        -
+           path: /syndmused/2025/epk-kevadkontsert
+           pealkiri: Eesti Panga kultuuriklubi kevadkontsert
+           aeg: 24. mai kell 18.00
+           asukoht: Uuemõisa mõisa valges saalis (Haapsalu, Lossi tn 4, Uuemõisa)
+    #2022:
+    #    -
+    #        path: /syndmused/2022/Las-vihistab
+    #        pealkiri: Kontsert "Las vihistab"
+    #        aeg: 30. detsember 2022 kell 19
+    #        asukoht: Võru Kandles (Liiva 13, Võru)
+    #    -
+    #        path: /syndmused/2022/pyha-rahu-sydames-Tallinn
+    #        pealkiri: Kontsert "Püha rahu südames"
+    #        aeg: 18. detsember 2022 kell 15
+    #        asukoht: Tallinna Rootsi-Mihkli kirikus
+    #    -
+    #        path: /syndmused/2022/pyha-rahu-sydames-Tartu
+    #        pealkiri: Kontsert "Püha rahu südames"
+    #        aeg: 16. detsember 2022 kell 18
+    #        asukoht: Tartu Pauluse kirikus        
+    #    -
+    #        path: /syndmused/2022/Solare-45
+    #        pealkiri: Kammerkoor Solare 45
+    #        aeg: 19. november kell 16.00
+    #        asukoht: Rakvere Vabaduse Koolis (Vabaduse 1, Rakvere)
+    #    -
+    #        path: /syndmused/2022/Jaapani-kultuuri-paev
+    #        pealkiri: Jaapani kultuuri päev
+    #        aeg: 5. november kell 11.00-16.00
+    #        asukoht: Gaia koolis (A. Weizenbergi 20, Tallinn)
+    #    -
+    #        path: /syndmused/2022/X-Tartu-SK-laulupaev
+    #        pealkiri: X Tartu segakooride laulupäev - Mart Saar 140
+    #        aeg: 21. oktoober kell 19.00
+    #        asukoht: Eesti Rahva Muuseumis
+    #    -
+    #        path: /syndmused/2022/ENS-omalooming
+    #        pealkiri: Eesti Noorte Segakoori omaloomingu kontsert
+    #        aeg: 27. september
+    #        asukoht: Mustpeade majas (Pikk 26, Tallinn)
+    #    -
+    #        path: /syndmused/2022/laulusild
+    #        pealkiri: Kontsert - Laulusild / Bridge of song
+    #        aeg: 29. juuni kell 19.00
+    #        asukoht: Tallinna Toomkirikus (Toom-Kooli 6)
+    #    -
+    #        path: /syndmused/2022/kevade-helid
+    #        pealkiri: Kontsert - Kevade helid
+    #        aeg: 23. mai kell 18.00
+    #        asukoht: Hopneri majas (Raekoja plats 18)
+    #    -
+    #        path: /syndmused/2022/cancel-culture
+    #        pealkiri: Segakoori Rõõmusõõm kontsert - Cancel Culture.
+    #        aeg: 21. mai kell 19.00
+    #        asukoht: Tartus Tubina saalis
+    #    -
+    #        path: /syndmused/2022/cancel-culture
+    #        pealkiri: Segakoori Rõõmusõõm kontsert - Cancel Culture.
+    #        aeg: 20. mai kell 19.00
+    #        asukoht: Tallinnas Kumu auditooriumis
+    #    -
+    #        path: /syndmused/2022/cancel-culture
+    #        pealkiri: Segakoori Rõõmusõõm kontsert - Cancel Culture.
+    #        aeg: 17. mai kell 19.00
+    #        asukoht: Võnnu kultuurimajas
+    #    -
+    #        path: /syndmused/2022/biomeedikum101
+    #        pealkiri: Biomeedikumi segakoori 10+1 sünnipäevale pühendatud kontsert - Laula, kui saad
+    #        aeg: 15. mai kell 18.00
+    #        asukoht: Tubina saalis (Lossi 15, Tartu)
+    #    -
+    #        path: /syndmused/2022/ERR-14
+    #        pealkiri: Eesti Rahvusringhäälingu segakoori 14. sünnipäeva kontsert
+    #        aeg: 10. mai kell 19.00
+    #        asukoht: Lauluväljaku Klaassaalis
+    #    -
+    #        path: /syndmused/2022/cancel-culture
+    #        pealkiri: Segakoori Rõõmusõõm kontsert - Cancel Culture.
+    #        aeg: 9. mai kell 19.00
+    #        asukoht: Viljandis Pärimusmuusika Aidas
+    #    -
+    #        path: /syndmused/2022/tervis-emadepaev
+    #        pealkiri: Võru segakoori Tervis emadepäeva kontsert - Laulud emale
+    #        aeg: 8. mai kell 14.00
+    #        asukoht: Võru Kandles
+    #    -
+    #        path: /syndmused/2022/kolavoo-Tartu
+    #        pealkiri: Politsei segakoori Chorus Menticum kevadkontsert "Kõlavöö"
+    #        aeg: 28. aprill kell 18.00
+    #        asukoht: TÜ ajaloomuuseumi valges saalis (Lossi 25, Tartu)
+    #    -
+    #        path: /syndmused/2022/kolavoo-Voru
+    #        pealkiri: Politsei segakoori Chorus Menticum kevadkontsert "Kõlavöö"
+    #        aeg: 23. aprill kell 18.00
+    #        asukoht: Võru kultuurimajas Kannel (Liiva 13, Võru)
+    #    -
+    #        path: /syndmused/2022/pyhendused-hymnid
+    #        pealkiri: Kontsert - Pühendused ja hümnid
+    #        aeg: 13. märts kell 17.00
+    #        asukoht: Tallinna Filharmoonia Mustpeade Majas (Pikk tn 26, Tallinn)
+    #    -
+    #        path: /syndmused/2022/emakeele-tervisest
+    #        pealkiri: Meie emakeele tervisest
+    #        aeg: 12. märts kell 17.00
+    #        asukoht: Rapla Kultuurikeskuses (Tallinna mnt 17A, Rapla)
+
+    #2020:
+    #    -
+    #        path: /syndmused/2020/Messa-di-Gloria-Kadrina
+    #        pealkiri: Giacomo Puccini "Messa di Gloria"
+    #        aeg: 6. detsember 2020 kell 16.00
+    #        asukoht: Kadrina Katariina kirikus
+    #    -
+    #        path: /syndmused/2020/Messa-di-Gloria-Rakvere
+    #        pealkiri: Giacomo Puccini "Messa di Gloria"
+    #        aeg: 13. detsember 2020 kell 16.00
+    #        asukoht: Rakvere Kolmainu kirikus
+    #    -
+    #        path: /syndmused/2020/Messa-di-Gloria-Tyri
+    #        pealkiri: Giacomo Puccini "Messa di Gloria"
+    #        aeg: 20. detsember 2020 kell 16.00
+    #        asukoht: Türi Püha Martini kirikus
+    #2021:
+    #    -
+    #        path: /syndmused/2021/eesti-jaapan-100
+    #        pealkiri: 100 Aastat Eesti - Jaapani sõprust
+    #        aeg: 13. juuni kell 13.00
+    #        asukoht: veebisündmusena
+    #    -
+    #        path: /syndmused/2021/Lehtse-kammerkoor-40
+    #        pealkiri: Lehtse kammerkoor 40 - operett "Ainult Unistus"
+    #        aeg: 1, 2. ja 8. oktoobril
+    #        asukoht: Lehtse kultuurimajas
+    #    -
+    #        path: /syndmused/2021/arkamise-aeg-400
+    #        pealkiri: IX Tartu segakooride laulupäev – Ärkamise aeg 400
+    #        aeg: 23. oktoober 2021 kell 18.00
+    #        asukoht: Tartu Maarja kirikus
+    #    -
+    #        path: /syndmused/2021/salve-regina-taaveti-laulud-Tartu
+    #        pealkiri: Messe Salve Regina ja Taaveti laulud
+    #        aeg: 22. oktoober kell 19.00
+    #        asukoht: Tartu Pauluse kirikus
+    #    -
+    #        path: /syndmused/2021/salve-regina-taaveti-laulud-Tallinn
+    #        pealkiri: Messe Salve Regina ja Taaveti laulud
+    #        aeg: 23. oktoober kell 18.00
+    #        asukoht: Tallinna Jaani kirikus
+    #    -
+    #        path: /syndmused/2021/reekviem-Parnu
+    #        pealkiri: Veronika Portsmuthi Kooriakadeemia Kontsertkoori suur aastalõpukontsert
+    #        aeg: 1. detsember kell 19.00
+    #        asukoht: Pärnu Kontserdimajas
+    #    -
+    #        path: /syndmused/2021/ERR-j6ulud-Tapa
+    #        pealkiri: Eesti Rahvusringhäälingu segakoori jõulukontserdile "TAAS SÄRAB IGAS KODUS…"
+    #        aeg: 4. detsember kell 16.00
+    #        asukoht: Tapa Jakobi kirikus
+    #    -
+    #        path: /syndmused/2021/joulud-joudvad
+    #        pealkiri: Kontsert "Jõulud jõudvad"
+    #        aeg: 14. detsember kell 19.00
+    #        asukoht: Angerja Issanda Taevaminemise kirikus (Kohila õigeusu kirik, Viljandi mnt. 2)
+    #    -
+    #        path: /syndmused/2021/heliseb-valjadel
+    #        pealkiri: Advendimõtisklus "Heliseb väljadel"
+    #        aeg: 17. detsember kell 18.00
+    #        asukoht: Tartu Peetri kirikus (Narva mnt 104, Tartu)
+    #    -
+    #        path: /syndmused/2021/reekviem-Tallinn
+    #        pealkiri: Veronika Portsmuthi Kooriakadeemia Kontsertkoori suur aastalõpukontsert
+    #        aeg: 18. detsember kell 19.00
+    #        asukoht: Tallinna Kaarli kirikus
+    #2023:
+    #    -
+    #        path: /syndmused/2023/Saar-Sisask
+    #        pealkiri: Segakoori K.O.O.R. kontsert - Saar ja Sisask
+    #        aeg: 31. jaanuar kell 19.00
+    #        asukoht: Mustpeade Majas
+    #    -
+    #        path: /syndmused/2023/Saar-Sisask
+    #        pealkiri: Segakoori K.O.O.R. kontsert - Saar ja Sisask
+    #        aeg: 28. jaanuar kell 19.00
+    #        asukoht: Viimsi Artiumis
+    #    -
+    #        path: /syndmused/2023/Saar-Sisask
+    #        pealkiri: Segakoori K.O.O.R. kontsert - Saar ja Sisask
+    #        aeg: 27. jaanuar kell 19.00
+    #        asukoht: Keila Muusikakoolis
+    #    -
+    #        path: /syndmused/2023/Riinimanda-35
+    #        pealkiri: Riinimanda 35 - konverents ja kontsert
+    #        aeg: 7. jaanuar
+    #        asukoht: Raplas
+    #    -
+    #        path: /syndmused/2023/teel-laulupeole
+    #        pealkiri: Kontsert "Teel Laulupeole"
+    #        aeg: 18. märts kell 18.00
+    #        asukoht: Mustpeade majas (Pikk 26, Tallinn)
+    #    -
+    #        path: /syndmused/2023/olemise-kumin
+    #        pealkiri: Kontsert "Olemise kumin"
+    #        aeg: 25. aprill kell 18.00
+    #        asukoht: Biomeedikumi aatriumis (Ravila 19, Tartu)
+    #    -
+    #        path: /syndmused/2023/chorus-menticum-kevad
+    #        pealkiri: Segakoori Chorus Menticum kevadkontsert
+    #        aeg: 25. mai kell 18.00 
+    #        asukoht: Tartu Ülikooli ajaloomuusumi valges saalis
+    #    -
+    #        path: /syndmused/2023/kose-kk-kontsert
+    #        pealkiri: Kooride Kose Kammerkoor ja Vestmanna Sangkor kontsert
+    #        aeg: 26. mai kell 19.00 
+    #        asukoht: Hopneri majas (Raekoja plats 18, Tallinn)
+    #    -
+    #        path: /syndmused/2023/kose-kk-kontsert
+    #        pealkiri: Kooride Kose Kammerkoor ja Vestmanna Sangkor kontsert
+    #        aeg: 27. mai kell 16.00 
+    #        asukoht: Viimsi Püha Jakobi kirikus
+    #    -
+    #        path: /syndmused/2023/rapla-august07-15
+    #        pealkiri: Rapla segakoor August07 15
+    #        aeg: 28. mai kell 15.15
+    #        asukoht: Rapla jõepromenaadil
+    #    -
+    #        path: /syndmused/2023/loitsud-ja-palved
+    #        pealkiri: René Eespere LXX autorikontsert - Loitsud ja palved
+    #        aeg: 28. mai kell 19.00
+    #        asukoht: Tartu Pauluse kirikus
+    #    -
+    #        path: /syndmused/2023/loitsud-ja-palved
+    #        pealkiri: René Eespere LXX autorikontsert - Loitsud ja palved
+    #        aeg: 30. mai kell 19.00
+    #        asukoht: Tallinna Metodisti kirikus
+    #    -
+    #        path: /syndmused/2023/chorus-menticum-kevad
+    #        pealkiri: Segakoori Chorus Menticum kevadkontsert
+    #        aeg: 3. juuni kell 18.00 
+    #        asukoht: Kõpu rahvamajas Hiiumaal
+    #    -
+    #        path: /syndmused/2023/laulame-suvesse
+    #        pealkiri: Kontsert - Laulame suvesse
+    #        aeg:  21. juuni kell 19.00
+    #        asukoht: Rapla Kultuurikeskuse sisehoovis
+    #    -
+    #        path: /syndmused/2023/armastusest-syndinud-viisid
+    #        pealkiri: Urmas Sisaskile pühendatud kontsertsarja "Kummardus tähtede taha" kontsert "Armastusest sündinud viisid"
+    #        aeg: 14. oktoober kell 18.00
+    #        asukoht: Jäneda õppehoone saalis
+    #    -
+    #        path: /syndmused/2023/laulusobrad-joulukontsert
+    #        pealkiri: Segakoor Jõelähtme Laulusõbrad ja vokaalansambel Annabre - Jõulukontsert
+    #        aeg: 14. detsember kell 19.00
+    #        asukoht: Loo lasteaias Pääsupesa (Saha tee 12)
+    #    -
+    #        path: /syndmused/2023/room-yle-maa
+    #        pealkiri: Segakoor Jõelähtme Laulusõbrad ja segakoor Lehola talvekontsert "Rõõm üle maa!"
+    #        aeg: 17. detsember kell 16.00
+    #        asukoht: Olustvere lossis
+    #    -
+    #        path: /syndmused/2023/jouluvalgus-koidab
+    #        pealkiri: VHK õpetajate ja lapsevanemate segakoori ja Püha Johannese kooli segakoori jõulukontsert "Jõuluvalgus koidab"
+    #        aeg: 19. detsember kell 19.00
+    #        asukoht: Tallinna Kirjanike Maja saalis (Harju tn 1, Tallinn)
+    #2024:
+        # -
+        #     path: /syndmused/2024/Las-vihistab
+        #     pealkiri: Võru kooride kontsert "Las vihistab"
+        #     aeg: 6. jaanuar kell 16.00
+        #     asukoht: ERMi silla-alal
+        # -
+        #    path: /syndmused/2024/VHK-synnipaev
+        #    pealkiri: VHK Õpetajate ja lapsevanemate segakoori sünnipäevakontsert
+        #    aeg: 18. mai kell 17.00
+        #    asukoht: Sakala 3 Teatrimajas, Tallinnas
+        # -
+        #     path: /syndmused/2024/part-muusikapaevad-solare
+        #     pealkiri: Arvo Pärdi muusikapäevade kontsert (Kammerkoor Solare)
+        #     aeg: 11. september kell 19
+        #     asukoht: Rakvere Vabaduse kooli aulas (Vabaduse 1, Rakvere)
+        # -
+        #     path: /syndmused/2024/hannijoggi-10
+        #     pealkiri: Anija valla segakoor Hannijöggi 10. sünnipäevakontsert
+        #     aeg: 12. oktoober kell 16
+        #     asukoht: Anija mõisa aidas
+        # -
+        #     path: /syndmused/2024/kihelkonna-XI-talvelaulupidu
+        #     pealkiri: Kihelkonna XI Talvelaulupidu
+        #     aeg:  6. detsember kell 19.00
+        #     asukoht: Saaremaal, Kihelkonna lauluväljakul, kirikus ja rahvamajas
+        # -
+        #     path: /syndmused/2024/sydame-sisse-lauludesse
+        #     pealkiri: Kontsert "Südame sisse lauludesse"
+        #     aeg: 8. detsember kell 15.00
+        #     asukoht: Võru Kandles (Liiva 13, Võru)
+        # -
+        #     path: /syndmused/2024/joulutahe-all
+        #     pealkiri: Kontsert "Jõulutähe all"
+        #     aeg: 15. detsember kell 17.00
+        #     asukoht: Loo kooli aulas
+        # -
+        #     path: /syndmused/2024/armastus-kirgastus-sara
+        #     pealkiri: Jõulukontsert "Armastus, kirgastus, sära!"
+        #     aeg: 19. detsember kell 19.00
+        #     asukoht: Tartu Karlova Kooli Salme saalis (Salme tn 1a)

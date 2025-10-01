@@ -1,0 +1,14 @@
+extends ../../_templates/layout.pug
+
+block peasisu
+
+    if self.subtitle
+        h4= self.subtitle
+    if self.download 
+        a(href=self.download)
+            span Lae alla .zip
+    ul.fotod-grid
+        each foto, id in self.fotod
+            li.fotod-foto
+                a(href= "/gallery" + self.directory + "/" + foto.file, data-lightbox=self.directory)
+                    img(src= "/gallery" + self.directory + "/thumbs/thumbs_" + foto.file)

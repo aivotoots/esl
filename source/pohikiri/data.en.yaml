@@ -1,8 +1,10 @@
 ---
-path: statue
-title: Statue
+path: /statue
+title: Statue 2025-09-28
 
-fail: Lae alla .doc failina
+fail: Lae alla 2025-09-28 (viimane) versioon .pdf failina
+fail_eelmine: Lae alla 2021-04-11 versioon .pdf failina
+fail_eelmine_eelmine: Lae alla 2003-06-07 versioon .pdf failina
 
 pohikiri:
     -
@@ -112,8 +114,8 @@ pohikiri:
     -
         pealkiri: 5 Revisjonikomisjon
         sisu: |
-            5.1 Revisjonikomisjon on liidu kontrollorgan, mille liige valitakse volikogu poolt kaheks aastaks.
-            5.2 Revisjonikomisjon koosneb kolmest liikmest.
+            5.1 Revisjonikomisjon on liidu kontrollorgan, mille liige valitakse volikogu poolt üheks aastaks.
+            5.2 Revisjonikomisjon koosneb ühest kuni kolmest liikmest.
             5.3 Revisjonikomisjoni ülesandeks on kontrollida liidu varade sihipärast kasutamist.
             5.4 Revisjonikomisjon viib läbi liidu tegevuse revideerimise, koostab arvamuse ja esitab selle volikogule majandusaasta aruande kinnitamisel.
             5.5 Revisjonikomisjoni liikmetel on õigus ja kohustus kontrollida liidu vara kasutamist ja säilimist, arvelduskontosid, raamatupidamisdokumente ning õigus nõuda selgitusi ja muud abi oma ülesannete täitmiseks.
@@ -131,6 +133,4 @@ pohikiri:
             7.3 Liidu tegevuse lõpetamisel valib volikogu likvideerijad.
             7.4 Liidu tegevuse lõpetamise korral antakse allesjäänud vara üle kasutamiseks avalikes huvides samalaadsete eesmärkidega mittetulundusühingule.
 
-            Liidu põhikiri on vastu võetud asutamiskoosolekul 14.11.1998.a. Uus redaktsioon on kinnitatud volikogu koosoleku otsustega 07.06.2003.a.
-
-            Juhatuse liige Raul Talmar
+            Liidu põhikiri on vastu võetud asutamiskoosolekul 14.11.1998.a. Uus redaktsioon on kinnitatud volikogu koosoleku otsustega 11.04.2021.a.

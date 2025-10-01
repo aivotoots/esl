@@ -1,0 +1,9 @@
+extends ../_templates/layout.pug
+
+block peasisu
+
+    table(width="100%")
+        each auliige, id in self.auliikmed
+            tr
+                td
+                    span #[strong= auliige.nimi]

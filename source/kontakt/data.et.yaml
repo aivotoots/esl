@@ -1,12 +1,12 @@
-path: kontakt
+path: /kontakt
 title: Eesti Segakooride Liit
 kontakt:
     aadress:
         label: Aadress
         sisu: Roosikrantsi 13 10119 Tallinn
-    telefon:
-        label: Telefon
-        sisu: 59 035 331 (Mariell Aren)
+    # telefon:
+    #     label: Telefon
+    #     sisu: 59 035 331 (Mariell Aren)
     email:
         label: E-mail
         email: eestisegakoorideliit@gmail.com

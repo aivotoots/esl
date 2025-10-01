@@ -1,23 +1,12 @@
-//- doctype html
-//- html(lang='en')
-//-     include ../_templates/head.pug
-//-         title= 'Eesti Segakooride Liit - Põhikiri'
-//-     body
-//-         include ../_templates/navigation.pug
-
-//-         h4 #[strong= self.title]
-//-         p
-//-             each peatykk, id in self.pohikiri
-//-                 p #[strong= peatykk.pealkiri]
-//-                 span !{ self.md(peatykk.sisu) }
-
-//-         include ../_templates/footer.pug
-
 extends ../_templates/layout.pug
 
 block peasisu
 
-    a(href='/assets/doc/ESL_pohikiri.doc') #[strong= self.fail]
+    a(href='/assets/doc/ESL_pohikiri_2025-09-28.pdf', target='_blank') #[strong= self.fail]
+    <br>
+    a(href='/assets/doc/ESL_pohikiri_2021-04-11.pdf', target='_blank') #[strong= self.fail_eelmine]
+    <br>
+    a(href='/assets/doc/ESL_pohikiri_2003-06-07.pdf', target='_blank') #[strong= self.fail_eelmine_eelmine]
     
     p
         each peatykk, id in self.pohikiri
