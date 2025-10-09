@@ -1,7 +1,8 @@
 -
     path: /fotod/2021/koorivisioon
     title: Koorimuusika ja kooriseadete festival KOORIVISIOON Viljandi Pärimusmuusika Aidas 25. septembril 2021.a
-    download: /assets/gallery/full_albums/2021/koorivisioon2021.zip
+    download: https://failid.segakoorideliit.ee/ull_albums/2021/koorivisioon2021.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /koorivisioon2021
     fotod:
         -
@@ -289,7 +290,8 @@
 -
     path: /fotod/2021/advent-Kuressaare
     title: Eesti Segakooride Liidu advendikontsert Kuressaare Laurentiuse kirikus 11. detsembril 2021.a
-    download: /assets/gallery/full_albums/2021/advent_Kuressaare2021.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2021/advent_Kuressaare2021.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /advent_Kuressaare2021
     fotod:
         -
@@ -597,7 +599,8 @@
 -
     path: /fotod/2021/advent-Tallinn
     title: Eesti Segakooride Liidu advendikontsert Tallinna Kaarli kirikus 4. detsembril 2021.a
-    download: /assets/gallery/full_albums/2021/advent_Tallinn2021.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2021/advent_Tallinn2021.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /advent_Tallinn2021
     fotod:
         -

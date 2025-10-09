@@ -1,7 +1,8 @@
 -
     path: /fotod/2018/viljandi
     title: ESL-i suur laulupäev "Isamaale" Viljandi laululaval 9. juunil 2018.a
-    download: /assets/gallery/full_albums/2018/viljandi2018.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2018/viljandi2018.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /viljandi2018
     fotod:
         -
@@ -868,7 +869,8 @@
 -
     path: /fotod/2018/loojangu-muusika
     title: ESL-i suurvormide kontsert "Loojangu muusika" 17. ja 18. veebruaril 2018.a (proovid)
-    download: /assets/gallery/full_albums/2018/loojangu-muusika-2018.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2018/loojangu-muusika-2018.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /loojangu-muusika-2018/loojangu-muusika-2018-proovid
     fotod:
         -

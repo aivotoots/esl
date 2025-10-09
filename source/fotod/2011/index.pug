@@ -11,13 +11,13 @@ block peasisu
     ul.fotod-grid
         each foto, id in self.fotod
             li.fotod-foto
-                a(href= "/gallery/old_gallery/albums" + self.directory + "/" + foto.file, data-lightbox=self.directory)
-                    img(src= "/gallery/old_gallery/thumbs" + self.directory + "/" + foto.file)
+                a(href= self.pref_domain + "albums" + self.directory + "/" + foto.file, data-lightbox=self.directory)
+                    img(src= self.pref_domain + "thumbs" + self.directory + "/" + foto.file)
 
     if self.subtitle2
         h4= self.subtitle2
         ul.fotod-grid
             each foto, id in self.fotod2
                 li.fotod-foto
-                    a(href= "/gallery/old_gallery/albums" + self.directory2 + "/" + foto.file, data-lightbox=self.directory2)
-                        img(src= "/gallery/old_gallery/thumbs" + self.directory2 + "/" + foto.file)
+                    a(href= self.pref_domain + "albums" + self.directory2 + "/" + foto.file, data-lightbox=self.directory2)
+                        img(src= self.pref_domain + "thumbs" + self.directory2 + "/" + foto.file)

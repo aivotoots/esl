@@ -182,11 +182,11 @@ ESL_syndmused:
         #     aeg: 15. - 17. august
         #     asukoht: Haapsalus
 
-        -
-            path: /syndmused/2025/erakorraline-volikogu
-            pealkiri: Eesti Segakooride Liidu erakorraline volikogu koosolek
-            aeg: 28. september 2025 kell 18.00
-            asukoht: Zoomis
+        # -
+        #     path: /syndmused/2025/erakorraline-volikogu
+        #     pealkiri: Eesti Segakooride Liidu erakorraline volikogu koosolek
+        #     aeg: 28. september 2025 kell 18.00
+        #     asukoht: Zoomis
         -
             path: /syndmused/2025/advent-Kambja
             pealkiri: Eesti Segakooride Liidu advendikontsert

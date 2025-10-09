@@ -1,7 +1,8 @@
 -
     path: /fotod/2015/tuljak
     title: XX Tuljaku võistulaulmine Tartus Miina Härma Gümnaasiumis 6. ja 7. veebruaril 2015.a
-    download: /assets/gallery/full_albums/2015/tuljak2015.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2015/tuljak2015.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /tuljak2015/tuljak2015_1
     subtitle: A-kategooria
     fotod:

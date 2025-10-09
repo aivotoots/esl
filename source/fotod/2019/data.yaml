@@ -1,7 +1,8 @@
 -
     path: /fotod/2019/emakeelepaev
     title: Emakeelepäeva kontsert "Elab ta sinu sees" Estonia Kontserdisaalis 14. märtsil 2019.a
-    download: /assets/gallery/full_albums/2019/emakeelepaev2019.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2019/emakeelepaev2019.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /emakeelepaev2019
     subtitle: "Autor: Vahur Lõhmus"
     fotod:
@@ -377,7 +378,8 @@
 -
     path: /fotod/2019/tuljak
     title: XXII Tuljaku võistulaulmine Tartus Miina Härma Gümnaasiumis 9. ja 10. veebruaril 2019.a
-    download: /assets/gallery/full_albums/2019/tuljak2019.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2019/tuljak2019.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /tuljak2019
     subtitle: "Autor: Vahur Lõhmus"
     fotod:

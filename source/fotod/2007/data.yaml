@@ -1,7 +1,8 @@
 -
     path: /fotod/2007/tuljak
     title: XV Tuljaku võistulaulmine Tartus Miina Härma Gümnaasiumis 10. veebruaril 2007.a
-    download: /assets/gallery/full_albums/2007/tuljak2007.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2007/tuljak2007.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /tuljak2007
     fotod:
         -

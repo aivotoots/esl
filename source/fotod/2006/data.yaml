@@ -1,7 +1,8 @@
 -
     path: /fotod/2006/tuljak
     title: XIV Tuljaku võistulaulmine Tartus Miina Härma Gümnaasiumis 18. ja 19. veebruaril 2006.a
-    download: /assets/gallery/full_albums/2006/tuljak2006.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2006/tuljak2006.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /tuljak2006
     fotod:
         -

@@ -1,7 +1,8 @@
 -
     path: /fotod/2013/advent_Tartu
     title: ESL-i advendikontsert Tartu Jaani kirikus 14. detsembril 2013.a
-    download: /assets/gallery/full_albums/2013/advent_Tartu2013.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2013/advent_Tartu2013.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /advent_Tartu2013
     fotod:
         -
@@ -92,7 +93,8 @@
 -
     path: /fotod/2013/advent_Tallinn
     title: ESL-i advendikontsert Tallinna Kaarli kirikus 7. detsembril 2013.a
-    download: /assets/gallery/full_albums/2013/advent_Tallinn2013.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2013/advent_Tallinn2013.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /advent_Tallinn2013
     fotod:
         -
@@ -156,7 +158,8 @@
     path: /fotod/2013/elva
     title: ESL-i laulupäev Elva laululaval 15. juunil 2013.a
     directory: /elva2013/elva2013_1
-    download: /assets/gallery/full_albums/2013/elva2013.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2013/elva2013.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     subtitle: "Autor: Juta Kübarsepp"
     fotod:
         -
@@ -540,7 +543,8 @@
 -
     path: /fotod/2013/emakeelepaev
     title: ESL-i emakeelepäeva kontsert Türi kultuurimajas 14. märtsil 2013.a
-    download: /assets/gallery/full_albums/2013/emakeelepaev2013.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2013/emakeelepaev2013.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /emakeelepaev2013
     fotod:
         -
@@ -591,7 +595,8 @@
 -
     path: /fotod/2013/tuljak
     title: XIX Tuljaku võistulaulmine Tartus Miina Härma Gümnaasiumis 9. ja 10. veebruaril 2013.a
-    download: /assets/gallery/full_albums/2013/tuljak2013.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2013/tuljak2013.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /tuljak2013/tuljak2013_1
     subtitle: A-kategooria
     fotod:

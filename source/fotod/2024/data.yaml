@@ -1,7 +1,8 @@
 -
     path: /fotod/2024/tuljak
     title: XXIV segakooride võistulaulmine Tuljak Tartu Miina Härma Gümnaasiumis 10. veebruaril 2024.a (Vahur Lõhmus)
-    download: /assets/gallery/full_albums/2024/tuljak2024.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2024/tuljak2024.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/
     directory: /tuljak2024
     autor: Vahur Lõhmus
     fotod:
@@ -1111,7 +1112,8 @@
 -
     path: /fotod/2024/laulupaev
     title: Eesti Segakooride Liidu laulupäev "HÄÄLED LÄBI AJA - MEIE LAULUDE LOOD" Haapsalu lossihoovis 17. augustil 2024.a
-    download: /assets/gallery/full_albums/2024/laulupaev2024.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2024/laulupaev2024.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/
     directory: /laulupaev2024
     autor: Vahur Lõhmus
     fotod:

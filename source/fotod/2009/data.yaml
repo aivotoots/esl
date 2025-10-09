@@ -1,7 +1,7 @@
 -
     path: /fotod/2009/advent
     title: ESL-i advendikontsert Tallinna Jaani kirikus 5. detsembril 2009.a
-    download: /assets/gallery/full_albums/2009/advent2009.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2009/advent2009.zip
     directory: /advent2009
     fotod:
         -
@@ -24,7 +24,8 @@
 -
     path: /fotod/2009/laulupeotuli
     title: ESL-i juhatus laulupeo tuld toomas. Kärdla-Lohusalu 30. juunil ja 1. juulil 2009.a
-    download: /assets/gallery/full_albums/2009/laulupeotuli2009.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2009/laulupeotuli2009.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /laulupeotuli2009
     fotod:
         -
@@ -75,7 +76,8 @@
 -
     path: /fotod/2009/tuljak
     title: XVII Tuljaku võistulaulmine Tartus Miina Härma Gümnaasiumis 14. veebruaril 2009.a
-    download: /assets/gallery/full_albums/2009/tuljak2009.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2009/tuljak2009.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /tuljak2009
     fotod:
         -

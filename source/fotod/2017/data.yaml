@@ -1,7 +1,8 @@
 -
     path: /fotod/2017/suvekool
     title: ESL-i suvekool ja kontsert Haapsalu Kutsehariduskeskuses Uuemõisas ja Haapsalu Toomkirikus 18. - 20. augustil 2017.a
-    download: /assets/gallery/full_albums/2017/suvekool2017.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2017/suvekool2017.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /suvekool2017
     suvekool: "Autor: Arvo Tarmula"
     fotod:
@@ -35,7 +36,8 @@
 -
     path: /fotod/2017/emakeelepaev
     title: Emakeelepäeva kontsert "Kauge, kuid lähedane Valgamaa" Valga Kultuuri- ja Huvialakeskuses 14. märtsil 2017.a
-    download: /assets/gallery/full_albums/2017/emakeelepaev2017.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2017/emakeelepaev2017.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /emakeelepaev2017/emakeelepaev2017_1
     subtitle: "Autor: Arvo Meeks (Valgamaalane)"
     fotod:
@@ -86,7 +88,8 @@
 -
     path: /fotod/2017/tuljak
     title: XXI Tuljaku võistulaulmine Tartus Miina Härma Gümnaasiumis 4. ja 5. veebruaril 2017.a
-    download: /assets/gallery/full_albums/2017/tuljak2017.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2017/tuljak2017.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /tuljak2017
     fotod:
         -

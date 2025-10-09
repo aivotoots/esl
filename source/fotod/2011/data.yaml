@@ -1,7 +1,8 @@
 -
     path: /fotod/2011/advent
     title: ESL-i liikmeskooride laulusimman Moostes 9. juunil 2012.a
-    download: /assets/gallery/full_albums/2011/advent2011.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2011/advent2011.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /advent2011/advent2011_1
     subtitle: "Autor: Raul Tammaru"
     fotod:
@@ -285,7 +286,8 @@
 -
     path: /fotod/2011/vanemuise_ja_TNK_advent2011
     title: Vanemuise sümfooniaorkestri ja Tartu Noortekoori advendikontsert Tartu Jaani kirikus 3. detsembril 2011.a
-    download: /assets/gallery/full_albums/2011/vanemuise_ja_TNK_advent2011.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2011/vanemuise_ja_TNK_advent2011.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /vanemuise_ja_TNK_advent2011
     fotod:
         -
@@ -316,7 +318,8 @@
 -
     path: /fotod/2011/tuljak
     title: XVIII Tuljaku võistulaulmine Tartus Miina Härma Gümnaasiumis 5. ja 6. veebruaril 2011.a
-    download: /assets/gallery/full_albums/2011/tuljak2011.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2011/tuljak2011.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /tuljak2011
     fotod:
         -

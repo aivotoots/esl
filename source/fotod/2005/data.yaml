@@ -1,7 +1,8 @@
 -
     path: /fotod/2005/tuljak
     title: XIII Tuljaku võistulaulmine 2005.a
-    download: /assets/gallery/full_albums/2005/tuljak2005.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2005/tuljak2005.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /tuljak2005
     fotod:
         -

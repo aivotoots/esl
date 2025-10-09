@@ -1,7 +1,8 @@
 -
     path: /fotod/2014/ESL20
     title: ESL-i 20.juubel 18. oktoobril 2014.a
-    download: /assets/gallery/full_albums/2014/esl20.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2014/esl20.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /esl20
     fotod:
         -
@@ -232,7 +233,8 @@
 -
     path: /fotod/2014/suvekool
     title: ESL-i suvekool ja kontsert Haapsalus 22. - 24. augustil 2014.a
-    download: /assets/gallery/full_albums/2014/suvekool2014.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2014/suvekool2014.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /suvekool2014
     fotod:
         -
@@ -273,7 +275,8 @@
 -
     path: /fotod/2014/emakeelepaev
     title: ESL-i emakeelepäeva kontsert "Emakeel lõikab nagu nuga" Jõgeva Kultuurikeskuses 14. märtsil 2014.a
-    download: /assets/gallery/full_albums/2014/emakeelepaev2014.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2014/emakeelepaev2014.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /emakeelepaev2014
     fotod:
         -
@@ -304,7 +307,8 @@
 -
     path: /fotod/2014/MH150_Tartu
     title: Miina Härma 150. sünniaastapäeva tähistav kontsert Tartus Vanemuise Kontserdimajas 9. veebruaril 2014.a
-    download: /assets/gallery/full_albums/2014/MH150_Tartu2014.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2014/MH150_Tartu2014.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /MH150_Tartu2014
     fotod:
         -
@@ -569,7 +573,8 @@
 -
     path: /fotod/2014/MH150_Tallinn
     title: Miina Härma 150. sünniaastapäeva tähistav kontsert Tallinnas Estonia kontserdisaalis 16. veebruaril 2014.a
-    download: /assets/gallery/full_albums/2014/MH150_Tallinn2014.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2014/MH150_Tallinn2014.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /MH150_Tallinn2014
     fotod:
         -
@@ -836,7 +841,8 @@
 -
     path: /fotod/2014/tuljak
     title: I Eesti vokaalansamblite võistulaulmine TULJAK Tartus Hugo Treffneri Gümnaasiumis 8. veebruaril 2014.a
-    download: /assets/gallery/full_albums/2014/tuljak2014.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2014/tuljak2014.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /tuljak2014/tuljak2014_1
     subtitle: Autasustamine
     fotod:

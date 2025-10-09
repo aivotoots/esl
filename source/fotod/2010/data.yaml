@@ -1,7 +1,8 @@
 -
     path: /fotod/2010/advent
     title: ESL-i advendikontsert Tartu Jaani kirikus 11. detsembril 2010.a
-    download: /assets/gallery/full_albums/2010/advent2010.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2010/advent2010.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /advent2010
     fotod:
         -
@@ -38,7 +39,8 @@
 -
     path: /fotod/2010/tyri
     title: SL-i vabariiklik segakooride laulupäev Türil 5. juunil 2010.a
-    download: /assets/gallery/full_albums/2010/tyri2010.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2010/tyri2010.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /tyri2010/tyri2010_1
     subtitle: Rongkäik (KUMA)
     fotod:

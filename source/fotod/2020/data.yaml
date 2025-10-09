@@ -1,7 +1,8 @@
 -
     path: /fotod/2020/suvekool
     title: ESL-i suvekool ja kontsert Haapsalus 21. - 23. augustil 2020.a
-    download: /assets/gallery/full_albums/2020/suvekool2020.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2020/suvekool2020.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /suvekool2020
     fotod:
         -

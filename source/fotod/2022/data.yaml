@@ -1,7 +1,8 @@
 -
     path: /fotod/2022/tuljak
     title: XXIII segakooride võistulaulmine Tuljak Tartu Miina Härma Gümnaasiumis 12. veebruaril 2022.a
-    download: /assets/gallery/full_albums/2022/tuljak2022.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2022/tuljak2022.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/
     directory: /tuljak2022
     fotod:
         -
@@ -1019,7 +1020,8 @@
 -
     path: /fotod/2022/laulupaev
     title: Eesti segakooride laulupäev "Laulu tuules" Pärnu vallikäärus 4. juunil 2022.a
-    download: /assets/gallery/full_albums/2022/laulupaev2022.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2022/laulupaev2022.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/
     directory: /laulupaev2022
     fotod:
         -

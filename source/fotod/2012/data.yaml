@@ -1,7 +1,8 @@
 -
     path: /fotod/2012/mooste
     title: ESL-i liikmeskooride laulusimman Moostes 9. juunil 2012.a
-    download: /assets/gallery/full_albums/2012/mooste2012.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2012/mooste2012.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /mooste2012
     fotod:
         -

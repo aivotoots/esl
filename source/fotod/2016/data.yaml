@@ -1,7 +1,8 @@
 -
     path: /fotod/2016/advent-Tartu
     title: ESL-i advendikontsert Tartu Jaani kirikus 10. detsembril 2016.a
-    download: /assets/gallery/full_albums/2016/advent_Tartu2016.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2016/advent_Tartu2016.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /advent_Tartu2016
     fotod:
         -
@@ -46,7 +47,8 @@
 -
     path: /fotod/2016/advent-Tallinn
     title: ESL-i advendikontsert Tallinna Kaarli kirikus 3. detsembril 2016.a
-    download: /assets/gallery/full_albums/2016/advent_Tallinn2016.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2016/advent_Tallinn2016.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /advent_Tallinn2016
     fotod:
         -
@@ -89,7 +91,8 @@
 -
     path: /fotod/2016/suvekool
     title: ESL-i suvekool ja kontsert Haapsalus 19. - 21. augustil 2016.a
-    download: /assets/gallery/full_albums/2016/suvekool2016.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2016/suvekool2016.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /suvekool2016/suvekool2016_1
     subtitle: "Autor: Kaidi Hunt"
     fotod:
@@ -209,7 +212,8 @@
 -
     path: /fotod/2016/viljandi
     title: ESL-i liikmeskooride laulusimman Viljandi laululaval 11. juunil 2016.a
-    download: /assets/gallery/full_albums/2016/viljandi2016.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2016/viljandi2016.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /viljandi2016
     subtitle: "Autor: Vahur Lõhmus"
     fotod:
@@ -937,7 +941,8 @@
 -
     path: /fotod/2016/emakeelepaev
     title: Emakeelepäeva kontsert "Hiiumaa väike ja armas" Käima Huvi- ja Kultuurikeskuses 14. märtsil 2016.a
-    download: /assets/gallery/full_albums/2016/emakeelepaev2016.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2016/emakeelepaev2016.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /emakeelepaev2016
     fotod:
         -
@@ -964,7 +969,8 @@
 -
     path: /fotod/2016/tuljak
     title: II Eesti vokaalansamblite võistulaulmine TULJAK Tartus Miina Härma Gümnaasiumis 6. veebruaril 2016.a
-    download: /assets/gallery/full_albums/2016/tuljak2016.zip
+    download: https://failid.segakoorideliit.ee/full_albums/2016/tuljak2016.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
     directory: /tuljak2016
     fotod:
         -
