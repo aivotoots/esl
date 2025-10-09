@@ -11,4 +11,4 @@ block peasisu
         each foto, id in self.fotod
             li.fotod-foto
                 a(href= self.pref_domain + "albums" + self.directory + "/" + foto.file, data-lightbox=self.directory)
-                    img(src= self.pref_domain + "thumbs" + self.directory + "/" + foto.file)
+                    img(src= self.pref_domain + "thumbs" + self.directory + "/thumbs_" + foto.file)

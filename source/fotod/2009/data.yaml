@@ -2,6 +2,8 @@
     path: /fotod/2009/advent
     title: ESL-i advendikontsert Tallinna Jaani kirikus 5. detsembril 2009.a
     download: https://failid.segakoorideliit.ee/full_albums/2009/advent2009.zip
+    pref_domain: https://failid.segakoorideliit.ee/gallery/old_gallery/
+    directory: /laulupeotuli2009
     directory: /advent2009
     fotod:
         -
