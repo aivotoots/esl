@@ -13,10 +13,7 @@ block peasisu
                         if liige.pilt
                             tr
                                 td.juhatus-pilt
-                                    if liige.pilt.landscape
-                                        img(src= liige.pilt.url, height="200px")
-                                    else
-                                        img(src= liige.pilt.url, width="200px")
+                                    img(src= liige.pilt.url)
                         if liige.amet
                             tr
                                 td

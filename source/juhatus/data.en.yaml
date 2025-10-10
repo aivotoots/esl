@@ -40,6 +40,8 @@ juhatus:
             1: urve.uusberg@gmail.com
     -
         nimi: Eve Paap
+        pilt:
+            url: /assets/img/juhatus/juhatus_eve_paap.jpg
         email:
             1: paap.eve@gmail.com
     -
