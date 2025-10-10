@@ -72,23 +72,23 @@
 
         <b>KAVA</b>
 
-        Stewe Gårdare – Advendiküünal
-        Piret Rips – Taas talv on tulnud
-        Armas Maasalo – Tasa, tasa – kannel saadab
-        Jester Hairston – Heliseb lihtne jõuluviis
-        Franz Gruber – Püha öö
-        Piret Rips – Kodukiriku kell
-        Ülo Vinter – Jõuluaeg
-        Pärt Uusberg – Et kiitkem Jumalat, kes on nii helde
-        Pärt Uusberg – Õhtul
-        Zoltán Kodály – Advendiküünal
-        Jõulupalve
-        Roman Toi – Jõululaul
-        A. Männik, seade – Oh kuusepuu
-        Maa on nii kaunis
-        John Rutter – Jõulu hällilaul
-        Ester Mägi – Jõuluõhtul
-        Kadri Hunt – Jõuluööl
+        <table style="width:100%; max-width:700px; margin-top:20px; line-height:2;">
+            <tr><td style="width:35%;">Stewe Gårdare</td><td style="width:50%;">Advendiküünal</td><td style="width:15%; text-align:right;">2.00</td></tr>
+            <tr><td></td><td>Maa on nii kaunis</td><td style="text-align:right;">2.45</td></tr>
+            <tr><td>Ülo Vinter</td><td>Jõuluaeg</td><td style="text-align:right;">2.37</td></tr>
+            <tr><td>Pierpoint</td><td>Jingle bells</td><td></td></tr>
+            <tr><td>John Rutter</td><td>Jõulu hällilaul</td><td style="text-align:right;">4.00</td></tr>
+            <tr><td></td><td>Jõulupalve</td><td style="text-align:right;">2.30</td></tr>
+            <tr><td>Roman Toi</td><td>Jõululaul</td><td style="text-align:right;">1.40</td></tr>
+            <tr><td>Armas Maasalo</td><td>Tasa, tasa – kannel saadab</td><td style="text-align:right;">3.30</td></tr>
+            <tr><td>Jester Hairston</td><td>Heliseb lihtne jõuluviis – klaver saadab</td><td style="text-align:right;">2.30</td></tr>
+            <tr><td>Piret Rips</td><td>Taas talv on tulnud</td><td style="text-align:right;">3.00</td></tr>
+            <tr><td>Piret Rips</td><td>Kodukiriku kell</td><td style="text-align:right;">3.20</td></tr>
+            <tr><td>Pärt Uusberg</td><td>Et kiitkem Jumalat, kes on nii helde</td><td style="text-align:right;">3.05</td></tr>
+            <tr><td>Kadri Hunt</td><td>Jõuluööl</td><td style="text-align:right;">3.10</td></tr>
+            <tr><td>Ester Mägi</td><td>Jõuluõhtul</td><td style="text-align:right;">3.00</td></tr>
+            <tr><td>Sibelius</td><td>Ei au ei hiilgust</td><td></td></tr>
+        </table>
 
         <b>REGISTREERIMINE</b>
 
@@ -127,23 +127,23 @@
         
         <b>KAVA</b>
 
-        Stewe Gårdare – Advendiküünal
-        Piret Rips – Taas talv on tulnud
-        Armas Maasalo – Tasa, tasa – kannel saadab
-        Jester Hairston – Heliseb lihtne jõuluviis
-        Franz Gruber – Püha öö
-        Piret Rips – Kodukiriku kell
-        Ülo Vinter – Jõuluaeg
-        Pärt Uusberg – Et kiitkem Jumalat, kes on nii helde
-        Pärt Uusberg – Õhtul
-        Zoltán Kodály – Advendiküünal
-        Jõulupalve
-        Roman Toi – Jõululaul
-        A. Männik, seade – Oh kuusepuu
-        Maa on nii kaunis
-        John Rutter – Jõulu hällilaul
-        Ester Mägi – Jõuluõhtul
-        Kadri Hunt – Jõuluööl
+        <table style="width:100%; max-width:700px; margin-top:20px; line-height:2;">
+            <tr><td style="width:35%;">Stewe Gårdare</td><td style="width:50%;">Advendiküünal</td><td style="width:15%; text-align:right;">2.00</td></tr>
+            <tr><td></td><td>Maa on nii kaunis</td><td style="text-align:right;">2.45</td></tr>
+            <tr><td>Ülo Vinter</td><td>Jõuluaeg</td><td style="text-align:right;">2.37</td></tr>
+            <tr><td>Pierpoint</td><td>Jingle bells</td><td></td></tr>
+            <tr><td>John Rutter</td><td>Jõulu hällilaul</td><td style="text-align:right;">4.00</td></tr>
+            <tr><td></td><td>Jõulupalve</td><td style="text-align:right;">2.30</td></tr>
+            <tr><td>Roman Toi</td><td>Jõululaul</td><td style="text-align:right;">1.40</td></tr>
+            <tr><td>Armas Maasalo</td><td>Tasa, tasa – kannel saadab</td><td style="text-align:right;">3.30</td></tr>
+            <tr><td>Jester Hairston</td><td>Heliseb lihtne jõuluviis – klaver saadab</td><td style="text-align:right;">2.30</td></tr>
+            <tr><td>Piret Rips</td><td>Taas talv on tulnud</td><td style="text-align:right;">3.00</td></tr>
+            <tr><td>Piret Rips</td><td>Kodukiriku kell</td><td style="text-align:right;">3.20</td></tr>
+            <tr><td>Pärt Uusberg</td><td>Et kiitkem Jumalat, kes on nii helde</td><td style="text-align:right;">3.05</td></tr>
+            <tr><td>Kadri Hunt</td><td>Jõuluööl</td><td style="text-align:right;">3.10</td></tr>
+            <tr><td>Ester Mägi</td><td>Jõuluõhtul</td><td style="text-align:right;">3.00</td></tr>
+            <tr><td>Sibelius</td><td>Ei au ei hiilgust</td><td></td></tr>
+        </table>
 
         <b>REGISTREERIMINE</b>
 
