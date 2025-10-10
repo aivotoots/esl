@@ -4,11 +4,11 @@
   "description": "Eesti Segakooride Liit",
   "private": true,
   "dependencies": {
-    "entu-ssg": "5.2.0"
+    "entu-ssg": "^5.6.15"
   },
   "scripts": {
-    "build": "node ./node_modules/entu-ssg/src/build.js ./entu-ssg.yaml full; cp -r ./assets ./build",
-    "dev": "node ./node_modules/entu-ssg/src/serve.js ./entu-ssg.yaml full"
+    "build": "node ./node_modules/entu-ssg/src/index.js build ./entu-ssg.yaml full; cp -r ./assets ./build",
+    "dev": "node ./node_modules/entu-ssg/src/index.js serve ./entu-ssg.yaml full"
   },
   "repository": {
     "type": "git",
