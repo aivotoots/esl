@@ -68,28 +68,27 @@
     path: /syndmused/2025/advent-Kambja
     pealkiri: Eesti Segakooride Liidu advendikontsert
     asukoht: 29. novembril 2025 kell 18.00 Kambja kirikus
-    sisu: |
-
+    kontserdi_kava: &advent_kava |
         <b>KAVA</b>
 
-        <table style="width:100%; max-width:700px; margin-top:20px; line-height:2;">
-            <tr><td style="width:35%;">Stewe Gårdare</td><td style="width:50%;">Advendiküünal</td><td style="width:15%; text-align:right;">2.00</td></tr>
-            <tr><td></td><td>Maa on nii kaunis</td><td style="text-align:right;">2.45</td></tr>
-            <tr><td>Ülo Vinter</td><td>Jõuluaeg</td><td style="text-align:right;">2.37</td></tr>
-            <tr><td>Pierpoint</td><td>Jingle bells</td><td></td></tr>
-            <tr><td>John Rutter</td><td>Jõulu hällilaul</td><td style="text-align:right;">4.00</td></tr>
-            <tr><td></td><td>Jõulupalve</td><td style="text-align:right;">2.30</td></tr>
-            <tr><td>Roman Toi</td><td>Jõululaul</td><td style="text-align:right;">1.40</td></tr>
-            <tr><td>Armas Maasalo</td><td>Tasa, tasa – kannel saadab</td><td style="text-align:right;">3.30</td></tr>
-            <tr><td>Jester Hairston</td><td>Heliseb lihtne jõuluviis – klaver saadab</td><td style="text-align:right;">2.30</td></tr>
-            <tr><td>Piret Rips</td><td>Taas talv on tulnud</td><td style="text-align:right;">3.00</td></tr>
-            <tr><td>Piret Rips</td><td>Kodukiriku kell</td><td style="text-align:right;">3.20</td></tr>
-            <tr><td>Pärt Uusberg</td><td>Et kiitkem Jumalat, kes on nii helde</td><td style="text-align:right;">3.05</td></tr>
-            <tr><td>Kadri Hunt</td><td>Jõuluööl</td><td style="text-align:right;">3.10</td></tr>
-            <tr><td>Ester Mägi</td><td>Jõuluõhtul</td><td style="text-align:right;">3.00</td></tr>
-            <tr><td>Sibelius</td><td>Ei au ei hiilgust</td><td></td></tr>
+        <table style="width:100%; max-width:750px; margin-top:20px; line-height:2;">
+            <tr><td style="width:30%;">Stewe Gårdare</td><td style="width:55%;"><a href="https://drive.google.com/file/d/1m_Q4Stlvygm9yResd077aA0bZ48AOlu8" target="_blank" rel="noopener">Advendiküünal</a></td><td style="width:15%; text-align:right;">2.00</td></tr>
+            <tr><td>Piret Rips</td><td><a href="https://drive.google.com/file/d/1LHkteY8u74kRGFEAqvJTwf_a6wCiRzoE" target="_blank" rel="noopener">Taas talv on tulnud</a></td><td style="text-align:right;">3.00</td></tr>
+            <tr><td>Armas Maasalo</td><td><a href="https://drive.google.com/file/d/14fhKC6KqE8y0ipcGqPTn-2wK5GrjNUcq" target="_blank" rel="noopener">Tasa, tasa – kannel saadab</a></td><td style="text-align:right;">3.30</td></tr>
+            <tr><td>Jester Hairston</td><td><a href="https://drive.google.com/file/d/1_FcjyuZdxphquuTMDlm5OQDry1cvY4au" target="_blank" rel="noopener">Heliseb lihtne jõuluviis – klaver saadab</a></td><td style="text-align:right;">2.30</td></tr>
+            <tr><td>Piret Rips</td><td><a href="https://drive.google.com/file/d/1OHl6mBTlQAdbjChemykZmCMMkUbDSMap" target="_blank" rel="noopener">Kodukiriku kell</a></td><td style="text-align:right;">3.20</td></tr>
+            <tr><td>Ülo Vinter</td><td><a href="https://drive.google.com/file/d/1jU-SGzRtGT12RRn67eF_VeWd3oPaujsv" target="_blank" rel="noopener">Jõuluaeg</a></td><td style="text-align:right;">2.37</td></tr>
+            <tr><td>Pärt Uusberg</td><td><a href="https://drive.google.com/file/d/1Toep7BtsVbeqX2vJsvyzq_Vz_3vVXQ1u" target="_blank" rel="noopener">Et kiitkem jumalat, kes on nii helde</a></td><td style="text-align:right;">3.05</td></tr>
+            <tr><td></td><td><a href="https://drive.google.com/file/d/15JBOdpnJS7OUJLWN9gY5PZee8s7u4CVa" target="_blank" rel="noopener">Jõulupalve</a></td><td style="text-align:right;">2.30</td></tr>
+            <tr><td>Roman Toi</td><td><a href="https://drive.google.com/file/d/1a9zGROY9z7RXqvAPq27SyXDypX1DM-RR" target="_blank" rel="noopener">Jõululaul</a></td><td style="text-align:right;">1.40</td></tr>
+            <tr><td></td><td><a href="https://drive.google.com/file/d/1A05Joi28pO6utkd7ba9hPXVlT17oSS_0" target="_blank" rel="noopener">Maa on nii kaunis</a></td><td style="text-align:right;">2.45</td></tr>
+            <tr><td>John Rutter</td><td><a href="https://drive.google.com/file/d/1Ou_o9i0zjRjeg2oeWdZGN-PkQQGUGvqh" target="_blank" rel="noopener">Jõulu hällilaul</a></td><td style="text-align:right;">4.00</td></tr>
+            <tr><td>Ester Mägi</td><td><a href="https://drive.google.com/file/d/1N18zSszv8c7uQybPWvULArrIxKwMWJlz" target="_blank" rel="noopener">Jõuluõhtul</a></td><td style="text-align:right;">3.00</td></tr>
+            <tr><td>Kadri Hunt</td><td><a href="https://drive.google.com/file/d/19F5WnxuvR46Pl8zf-B97_YNo-0697cuw" target="_blank" rel="noopener">Jõuluööl</a></td><td style="text-align:right;">3.10</td></tr>
+            <tr><td>Sibelius</td><td><a href="https://drive.google.com/file/d/1B68HRiWrWlGdxQXhCEl_-BXTYKHAWKK-" target="_blank" rel="noopener">Ei au ei hiilgust</a></td><td></td></tr>
+            <tr><td>Pierpoint</td><td><a href="https://drive.google.com/file/d/1J9bkHTCNOmiJOL6TqVqsZHDDBw_6uCZw" target="_blank" rel="noopener">Jingle bells</a></td><td></td></tr>
         </table>
-
+    registreerimisinfo: &advent_reg |
         <b>REGISTREERIMINE</b>
 
         <b>Esinemiseks kontserdil on vajalik eelregistreerimine.</b>
@@ -108,7 +107,7 @@
         Swedbank EE592200001120198684
 
         Palun märkige koori nimi selgitusse.
-        
+    ajakava: |
         <b>AJAKAVA</b>
 
         29. november / KAMBJA
@@ -123,47 +122,9 @@
     path: /syndmused/2025/advent-Rapla
     pealkiri: Eesti Segakooride Liidu advendikontsert
     asukoht: 6. detsembril 2025 kell 18.00 Rapla kirikus
-    sisu: |
-        
-        <b>KAVA</b>
-
-        <table style="width:100%; max-width:700px; margin-top:20px; line-height:2;">
-            <tr><td style="width:35%;">Stewe Gårdare</td><td style="width:50%;">Advendiküünal</td><td style="width:15%; text-align:right;">2.00</td></tr>
-            <tr><td></td><td>Maa on nii kaunis</td><td style="text-align:right;">2.45</td></tr>
-            <tr><td>Ülo Vinter</td><td>Jõuluaeg</td><td style="text-align:right;">2.37</td></tr>
-            <tr><td>Pierpoint</td><td>Jingle bells</td><td></td></tr>
-            <tr><td>John Rutter</td><td>Jõulu hällilaul</td><td style="text-align:right;">4.00</td></tr>
-            <tr><td></td><td>Jõulupalve</td><td style="text-align:right;">2.30</td></tr>
-            <tr><td>Roman Toi</td><td>Jõululaul</td><td style="text-align:right;">1.40</td></tr>
-            <tr><td>Armas Maasalo</td><td>Tasa, tasa – kannel saadab</td><td style="text-align:right;">3.30</td></tr>
-            <tr><td>Jester Hairston</td><td>Heliseb lihtne jõuluviis – klaver saadab</td><td style="text-align:right;">2.30</td></tr>
-            <tr><td>Piret Rips</td><td>Taas talv on tulnud</td><td style="text-align:right;">3.00</td></tr>
-            <tr><td>Piret Rips</td><td>Kodukiriku kell</td><td style="text-align:right;">3.20</td></tr>
-            <tr><td>Pärt Uusberg</td><td>Et kiitkem Jumalat, kes on nii helde</td><td style="text-align:right;">3.05</td></tr>
-            <tr><td>Kadri Hunt</td><td>Jõuluööl</td><td style="text-align:right;">3.10</td></tr>
-            <tr><td>Ester Mägi</td><td>Jõuluõhtul</td><td style="text-align:right;">3.00</td></tr>
-            <tr><td>Sibelius</td><td>Ei au ei hiilgust</td><td></td></tr>
-        </table>
-
-        <b>REGISTREERIMINE</b>
-
-        <b>Esinemiseks kontserdil on vajalik eelregistreerimine.</b>
-        
-        <a href="https://forms.gle/DTjerqRZc2HFXvc68" target="_blank" rel="noopener">Registreerimisvorm</a>
-        
-        <b>Registreerimistähtaeg: 6. oktoober 2025 (k.a).</b>
-
-        Osalustasu:
-
-            ESL liikmeskoorid – 80 €
-
-            Mitteliikmed – 100 €
-
-        Eesti Segakooride Liit
-        Swedbank EE592200001120198684
-
-        Palun märkige koori nimi selgitusse.
-        
+    kontserdi_kava: *advent_kava
+    registreerimisinfo: *advent_reg
+    ajakava: |
         <b>AJAKAVA</b>
 
         6. detsember / RAPLA

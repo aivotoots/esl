@@ -7,4 +7,12 @@ block peasisu
             p #[u #{self.asukoht + "."}]
         else
             span
-        p !{ self.md(self.sisu) }
+        if self.sisu
+            p !{ self.md(self.sisu) }
+        else
+            if self.kontserdi_kava
+                p !{ self.md(self.kontserdi_kava) }
+            if self.registreerimisinfo
+                p !{ self.md(self.registreerimisinfo) }
+            if self.ajakava
+                p !{ self.md(self.ajakava) }
