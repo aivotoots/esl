@@ -97,13 +97,61 @@
 
 ---
 
-### 2013–2025
+### 2013–2015 (04.05.2013)
 
 **7 liiget**
 
 **Esimees:** Veronika Portsmuth
 
-**Liikmed:** Jaanus Väljaots, Heli Sepp, Inta Roost, Lauri Breede, Valdur Raie, Valter Soosalu.
+**Aseesimees:** Jaanus Väljaots
+
+**Liikmed:** Inta Roost (Kooriühingu muusikatoimkonna liige), Heli Sepp, Lauri Breede, Valdur Raie, Valter Soosalu.
+
+---
+
+### 2015–2017 (10.08.2015)
+
+**7 liiget**
+
+**Esimees:** Veronika Portsmuth
+
+**Aseesimees:** Jaanus Väljaots
+
+**Liikmed:** Inta Roost (Kooriühingu muusikatoimkonna liige), Heli Sepp, Lauri Breede, Küllike Joosing, Mai Simson.
+
+---
+
+### 2017–2019 (08.11.2017)
+
+**7 liiget**
+
+**Esimees:** Veronika Portsmuth
+
+**Liikmed:** Inta Roost, Küllike Joosing, Mai Simson, Lauri Breede, Riho Leppoja, Jaanus Väljaots.
+
+---
+
+### 2019–2023 (11.12.2019)
+
+**7 liiget**
+
+**Esimees:** Veronika Portsmuth
+
+**Liikmed:** Jaanus Väljaots, Inta Roost, Küllike Joosing, Lauri Breede, Mai Simson, Riho Leppoja, Eve Paap.
+
+*Märkus: 11.12.2019 registreeriti juhatusse Eve Paap, Urve Uusberg, Jana Perens ja Mihkel-Mikelis Putrinš, kuid äriregistri beneficial owners andmete järgi jätkasid varasemad liikmed ametis kuni 08.05.2023.*
+
+---
+
+### 2023–2025 (08.05.2023)
+
+**7 liiget**
+
+**Esimees:** Veronika Portsmuth
+
+**Liikmed:** Jaanus Väljaots, Inta Roost, Mihkel-Mikelis Putrinš, Jana Perens, Urve Uusberg, Eve Paap.
+
+*Märkus: 2023. aastal lahkusid juhatusest Küllike Joosing, Lauri Breede, Mai Simson ja Riho Leppoja.*
 
 ---
 
