@@ -251,11 +251,21 @@ liikmeskooride_syndmused:
         #    pealkiri: Võru segakoori Tervis kontsert "Elu on laul"
         #    aeg: 18. mai kell 16.00
         #    asukoht: Võru kultuurimajas Kannel (Liiva 13, Võru)
+        # -
+        #    path: /syndmused/2025/epk-kevadkontsert
+        #    pealkiri: Eesti Panga kultuuriklubi kevadkontsert
+        #    aeg: 24. mai kell 18.00
+        #    asukoht: Uuemõisa mõisa valges saalis (Haapsalu, Lossi tn 4, Uuemõisa)
         -
-           path: /syndmused/2025/epk-kevadkontsert
-           pealkiri: Eesti Panga kultuuriklubi kevadkontsert
-           aeg: 24. mai kell 18.00
-           asukoht: Uuemõisa mõisa valges saalis (Haapsalu, Lossi tn 4, Uuemõisa)
+           path: /syndmused/2025/portsmuthi-kooriakadeemia-aastal6pp-Tallinn
+           pealkiri: Veronika Portsmuthi Kooriakadeemia Suur aastalõpukontsert 2025, Arvo Pärt 90 - “Te Deum”
+           aeg: 6. detsember kell 19.00
+           asukoht: Tallinna Kaarli kirikus
+        -
+           path: /syndmused/2025/portsmuthi-kooriakadeemia-aastal6pp-Tartu
+           pealkiri: Veronika Portsmuthi Kooriakadeemia Suur aastalõpukontsert 2025, Arvo Pärt 90 - “Te Deum”
+           aeg: 13. detsember kell 17.00
+           asukoht: Tartu Pauluse kirikus
     #2022:
     #    -
     #        path: /syndmused/2022/Las-vihistab
