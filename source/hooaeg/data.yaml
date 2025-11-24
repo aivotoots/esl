@@ -266,6 +266,11 @@ liikmeskooride_syndmused:
            pealkiri: Veronika Portsmuthi Kooriakadeemia Suur aastalõpukontsert 2025, Arvo Pärt 90 - “Te Deum”
            aeg: 13. detsember kell 17.00
            asukoht: Tartu Pauluse kirikus
+        -
+           path: /syndmused/2025/raudam-j6ulud
+           pealkiri: Segakoori Raudam jõulukontsert
+           aeg: 16. detsember kell 19.00
+           asukoht: Tallinna Rootsi-Mihkli kirikus (Rüütli 9)
     #2022:
     #    -
     #        path: /syndmused/2022/Las-vihistab
