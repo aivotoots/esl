@@ -538,12 +538,6 @@ syndmused:
                 -
                     20-04-2025
         -
-            path: /syndmused/2025/epk-kevadkontsert
-            pealkiri: Eesti Panga kultuuriklubi kevadkontsert
-            kuup2evad:
-                -
-                    24-05-2025
-        -
             path: /syndmused/2025/tervis-elu-on-laul
             pealkiri: Võru segakoori Tervis kontsert \"Elu on laul\"
             kuup2evad:
@@ -562,17 +556,12 @@ syndmused:
                 -
                     06-12-2025
         -
-            path: /syndmused/2025/portsmuthi-kooriakadeemia-aastal6pp-Tallinn
-            pealkiri: Veronika Portsmuthi Kooriakadeemia Suur aastalõpukontsert 2025 - Arvo Pärt 90 \“Te Deum\”
+            path: /syndmused/2025/epk-kevadkontsert
+            pealkiri: Eesti Panga kultuuriklubi kevadkontsert
             kuup2evad:
                 -
-                    06-12-2025
-        -
-            path: /syndmused/2025/portsmuthi-kooriakadeemia-aastal6pp-Tartu
-            pealkiri: Veronika Portsmuthi Kooriakadeemia Suur aastalõpukontsert 2025 - Arvo Pärt 90 \“Te Deum\”
-            kuup2evad:
-                -
-                    13-12-2025
+                    24-05-2025
+
     2026:       
         -
             path: /hooaeg
