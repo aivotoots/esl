@@ -5,6 +5,9 @@ kontakt:
     aadress:
         label: Address
         sisu: Roosikrantsi 13 10119 Tallinn
+    reg_kood:
+        label: Reg. code
+        sisu: 80078281
     # telefon:
     #     label: Telephone
     #     sisu: 59 035 331 (Mariell Aren)
@@ -18,4 +21,5 @@ kontakt:
         label: This site is administered by
         nimi: Aivo Toots
         email: aivotoots@gmail.com
+    
 

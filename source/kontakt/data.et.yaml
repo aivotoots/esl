@@ -4,6 +4,9 @@ kontakt:
     aadress:
         label: Aadress
         sisu: Roosikrantsi 13 10119 Tallinn
+    reg_kood:
+        label: Reg. kood
+        sisu: 80078281
     # telefon:
     #     label: Telefon
     #     sisu: 59 035 331 (Mariell Aren)
