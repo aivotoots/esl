@@ -579,6 +579,12 @@ syndmused:
             kuup2evad:
                 -
                     16-12-2025
+        -
+            path: /syndmused/2025/VHK-kogukonnakoori-advent
+            pealkiri: VHK Kogukonnakoori advendikontsert \"Taeva valgust kõigile"\
+            kuup2evad:
+                -
+                    03-12-2025
 
     2026:       
         -

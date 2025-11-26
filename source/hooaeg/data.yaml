@@ -257,6 +257,11 @@ liikmeskooride_syndmused:
         #    aeg: 24. mai kell 18.00
         #    asukoht: Uuemõisa mõisa valges saalis (Haapsalu, Lossi tn 4, Uuemõisa)
         -
+           path: /syndmused/2025/VHK-kogukonnakoori-advent
+           pealkiri: VHK Kogukonnakoori advendikontsert "Taeva valgust kõigile"
+           aeg: 3. detsember kell 18.00
+           asukoht: Pirita kloostris
+        -
            path: /syndmused/2025/portsmuthi-kooriakadeemia-aastal6pp-Tallinn
            pealkiri: Veronika Portsmuthi Kooriakadeemia Suur aastalõpukontsert 2025, Arvo Pärt 90 - “Te Deum”
            aeg: 6. detsember kell 19.00
