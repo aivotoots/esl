@@ -69,6 +69,8 @@
     pealkiri: Eesti Segakooride Liidu advendikontsert
     asukoht: 29. novembril 2025 kell 18.00 Kambja kirikus
     kontserdi_kava: &advent_kava |
+        <a href="/assets/event_imgs/2025/ESL_Advent_Kambja_kava.png" data-lightbox="ESL_Advent_Kambja_kava.png"><img src="/assets/event_imgs/2025/ESL_Advent_Kambja_kava.png" style="width:480px"></a>
+
         <b>KAVA</b>
 
         <table style="width:100%; max-width:750px; margin-top:20px; line-height:2;">
