@@ -187,11 +187,11 @@ ESL_syndmused:
         #     pealkiri: Eesti Segakooride Liidu erakorraline volikogu koosolek
         #     aeg: 28. september 2025 kell 18.00
         #     asukoht: Zoomis
-        -
-            path: /syndmused/2025/advent-Kambja
-            pealkiri: Eesti Segakooride Liidu advendikontsert
-            aeg: 29. november 2025 kell 18.00
-            asukoht: Kambja kirikus
+        # -
+        #     path: /syndmused/2025/advent-Kambja
+        #     pealkiri: Eesti Segakooride Liidu advendikontsert
+        #     aeg: 29. november 2025 kell 18.00
+        #     asukoht: Kambja kirikus
         -
             path: /syndmused/2025/advent-Rapla
             pealkiri: Eesti Segakooride Liidu advendikontsert
