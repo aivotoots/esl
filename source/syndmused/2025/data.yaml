@@ -127,6 +127,8 @@
     kontserdi_kava: *advent_kava
     registreerimisinfo: *advent_reg
     ajakava: |
+        <a href="/assets/event_imgs/2025/ESL_Advent_Rapla_kava.png" data-lightbox="ESL_Advent_Rapla_kava.png"><img src="/assets/event_imgs/2025/ESL_Advent_Rapla_kava.png" style="width:600px"></a>
+        
         <b>AJAKAVA</b>
 
         6. detsember / RAPLA
