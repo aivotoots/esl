@@ -585,6 +585,12 @@ syndmused:
             kuup2evad:
                 -
                     03-12-2025
+        -
+            path: /syndmused/2025/jouluaeg-puhalik-aeg
+            pealkiri: Jõuluaeg, pühalik aeg. Tabasalu Kammerkoori ja Tabasalu Muusika-ja Kunstikooli jõulukontsert
+            kuup2evad:
+                -
+                    20-12-2025
 
     2026:       
         -
