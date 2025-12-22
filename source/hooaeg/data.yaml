@@ -165,7 +165,7 @@ ESL_syndmused:
         #     pealkiri: Eesti Segakooride Liidu advendikontsert
         #     aeg: 7. detsember kell 18
         #     asukoht: Viljandi Pauluse kirikus
-    2025:
+    # 2025:
         # -
         #    path: ""
         #    pealkiri: Eesti Segakooride Liidu volikogu
@@ -192,11 +192,11 @@ ESL_syndmused:
         #     pealkiri: Eesti Segakooride Liidu advendikontsert
         #     aeg: 29. november 2025 kell 18.00
         #     asukoht: Kambja kirikus
-        -
-            path: /syndmused/2025/advent-Rapla
-            pealkiri: Eesti Segakooride Liidu advendikontsert
-            aeg: 6. detsember 2025 kell 18.00
-            asukoht: Rapla kirikus
+        # -
+        #     path: /syndmused/2025/advent-Rapla
+        #     pealkiri: Eesti Segakooride Liidu advendikontsert
+        #     aeg: 6. detsember 2025 kell 18.00
+        #     asukoht: Rapla kirikus
     2026:
         -
             path: /tuljak/
@@ -239,8 +239,8 @@ ESL_syndmused:
             aeg: 5. detsember
             asukoht: ""
 
-liikmeskooride_syndmused:
-    2025:
+# liikmeskooride_syndmused:
+#     2025:
         # -
         #    path: /syndmused/2025/valguse-k6lad
         #    pealkiri: Tartu Üliõpilassegakoori ja E STuudio kammerkoori ning tütarlastekoori kontsert "Valguse kõlad"
@@ -256,26 +256,26 @@ liikmeskooride_syndmused:
         #    pealkiri: Eesti Panga kultuuriklubi kevadkontsert
         #    aeg: 24. mai kell 18.00
         #    asukoht: Uuemõisa mõisa valges saalis (Haapsalu, Lossi tn 4, Uuemõisa)
-        -
-           path: /syndmused/2025/VHK-kogukonnakoori-advent
-           pealkiri: VHK Kogukonnakoori advendikontsert "Taeva valgust kõigile"
-           aeg: 3. detsember kell 18.00
-           asukoht: Pirita kloostris
-        -
-           path: /syndmused/2025/portsmuthi-kooriakadeemia-aastal6pp-Tallinn
-           pealkiri: Veronika Portsmuthi Kooriakadeemia Suur aastalõpukontsert 2025, Arvo Pärt 90 - “Te Deum”
-           aeg: 6. detsember kell 19.00
-           asukoht: Tallinna Kaarli kirikus
-        -
-           path: /syndmused/2025/portsmuthi-kooriakadeemia-aastal6pp-Tartu
-           pealkiri: Veronika Portsmuthi Kooriakadeemia Suur aastalõpukontsert 2025, Arvo Pärt 90 - “Te Deum”
-           aeg: 13. detsember kell 17.00
-           asukoht: Tartu Pauluse kirikus
-        -
-           path: /syndmused/2025/raudam-j6ulud
-           pealkiri: Segakoori Raudam jõulukontsert
-           aeg: 16. detsember kell 19.00
-           asukoht: Tallinna Rootsi-Mihkli kirikus (Rüütli 9)
+        # -
+        #    path: /syndmused/2025/VHK-kogukonnakoori-advent
+        #    pealkiri: VHK Kogukonnakoori advendikontsert "Taeva valgust kõigile"
+        #    aeg: 3. detsember kell 18.00
+        #    asukoht: Pirita kloostris
+        # -
+        #    path: /syndmused/2025/portsmuthi-kooriakadeemia-aastal6pp-Tallinn
+        #    pealkiri: Veronika Portsmuthi Kooriakadeemia Suur aastalõpukontsert 2025, Arvo Pärt 90 - “Te Deum”
+        #    aeg: 6. detsember kell 19.00
+        #    asukoht: Tallinna Kaarli kirikus
+        # -
+        #    path: /syndmused/2025/portsmuthi-kooriakadeemia-aastal6pp-Tartu
+        #    pealkiri: Veronika Portsmuthi Kooriakadeemia Suur aastalõpukontsert 2025, Arvo Pärt 90 - “Te Deum”
+        #    aeg: 13. detsember kell 17.00
+        #    asukoht: Tartu Pauluse kirikus
+        # -
+        #    path: /syndmused/2025/raudam-j6ulud
+        #    pealkiri: Segakoori Raudam jõulukontsert
+        #    aeg: 16. detsember kell 19.00
+        #    asukoht: Tallinna Rootsi-Mihkli kirikus (Rüütli 9)
     #2022:
     #    -
     #        path: /syndmused/2022/Las-vihistab
