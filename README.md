@@ -21,7 +21,7 @@ npm run build      # Generate static site → build/
 
 ## Project Structure
 
-```
+```text
 source/
 ├── _templates/           # Reusable Pug layouts
 │   ├── layout.pug        # Base template
@@ -49,18 +49,18 @@ build/                    # Generated output (gitignored)
 
 1. Edit `source/syndmused/YYYY/data.yaml`:
 
-```yaml
--
-    path: /syndmused/2025/my-event
-    pealkiri: Event Title
-    asukoht: Date and Location
-    sisu: |
-        <a href="/assets/event_imgs/2025/poster.jpg" data-lightbox="poster">
-            <img src="/assets/event_imgs/2025/poster.jpg" style="width:480px">
-        </a>
-        
-        Event description in markdown format.
-```
+    ```yaml
+    -
+        path: /syndmused/2025/my-event
+        pealkiri: Event Title
+        asukoht: Date and Location
+        sisu: |
+            <a href="/assets/event_imgs/2025/poster.jpg" data-lightbox="poster">
+                <img src="/assets/event_imgs/2025/poster.jpg" style="width:480px">
+            </a>
+            
+            Event description in markdown format.
+    ```
 
 2. Add poster to `assets/event_imgs/YYYY/`
 3. Run `npm run build`

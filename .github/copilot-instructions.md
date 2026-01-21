@@ -45,16 +45,15 @@ npm run dev     # Dev server on localhost:4000
 2. Add object to array:
 
 ```yaml
--
-    path: /syndmused/2025/event-slug
-    pealkiri: Event Title
-    asukoht: Location and datetime
-    sisu: |
-        <a href="/assets/event_imgs/2025/poster.png" data-lightbox="poster.png">
-            <img src="/assets/event_imgs/2025/poster.png" style="width:480px">
-        </a>
-        
-        Event description in Estonian markdown.
+- path: /syndmused/2025/event-slug
+  pealkiri: Event Title
+  asukoht: Location and datetime
+  sisu: |
+    <a href="/assets/event_imgs/2025/poster.png" data-lightbox="poster.png">
+        <img src="/assets/event_imgs/2025/poster.png" style="width:480px">
+    </a>
+
+    Event description in Estonian markdown.
 ```
 
 3. Upload images to `assets/event_imgs/YYYY/`
@@ -75,10 +74,9 @@ Edit `source/global.et.yaml` → `menyy.lingid` array:
 
 ```yaml
 menyy:
-    lingid:
-        -
-            tekst: Link Text
-            url: /path/to/page/
+  lingid:
+    - tekst: Link Text
+      url: /path/to/page/
 ```
 
 ## File Naming Conventions
@@ -104,19 +102,23 @@ if self.sisu
 ## Common Tasks
 
 **Board member photo** (juhatus):
+
 - Add 200x200px image to `assets/img/juhatus/juhatus_name.jpg`
 - Update `source/juhatus/data.et.yaml` with member info and photo path
 
 **Document upload**:
+
 - Add to `assets/doc/YYYY/filename.pdf`
-- Link in relevant YAML: `[Link text](../assets/doc/YYYY/filename.pdf)`
+- Link in relevant YAML: `[Link text]​(../assets/doc/YYYY/filename.pdf)`
 
 **Calendar update** (hooaeg):
+
 - Edit `source/hooaeg/data.et.yaml` for season calendar events
 
 ## Build Output
 
 Generated files in `build/`:
+
 - `index.html`, `script.js`, `style.css` (compiled from Stylus)
 - `assets/` (copied from source)
 - Subdirectories mirror `source/` structure
@@ -132,6 +134,7 @@ Generated files in `build/`:
 ## Integration with Parent Repo
 
 Parent repo `mitselek/ESL` includes:
+
 - **Lihula laulupäev/** - Event planning docs (KAVA-JA-NOODID.md, kirjavahetus/, noodivihik/)
 - **Haapsalu 2026/** - Summer school planning
 
