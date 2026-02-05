@@ -1,5 +1,21 @@
 # Changelog
 
+## 21. jaanuar 2026
+
+**Dokumentatsioon** - Lisatud AI juhised ja laiendatud README
+
+- Lisatud `.github/copilot-instructions.md` AI koodimisabiliste jaoks
+- Laiendatud README projekti struktuuri, käskude ja töövoogudega
+- Dokumenteeritud sisu haldamise mustrid (sündmused, kakskeelsus, navigatsioon)
+
+**Turvanõrkused** - Tuvastatud 2 turvanõrkust entu-ssg sõltuvustes:
+
+- `html-minifier` 4.0.0 (kõrge) - ReDoS haavatavus
+- `js-yaml` 4.1.0 (keskmine) - prototüübi reostus merge (`<<`) funktsioonis
+- Mõlemad on entu-ssg sisemised sõltuvused, parandus vajab upstream uuendust
+- Avatud issue: https://github.com/entu/ssg/issues/19
+- **Risk**: madal - need on ainult build-aja sõltuvused, töötlevad usaldusväärset sisendit
+
 ## 11. oktoober 2025
 
 **2025. aasta advendikontsertid** - struktuur ja noodid
