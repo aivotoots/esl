@@ -14,10 +14,17 @@ juhatus:
         pilt:
             url: /assets/img/juhatus/juhatus_jaanus_valjaots.jpg
             landscape: true
-        amet: ESLi juhatuse aseesimees
+        amet: ESLi juhatuse esimees
         telefon: 53 268 070
         email:
             1: jaanus.valjaots@mail.ee
+    -
+        nimi: Eve Paap
+        pilt:
+            url: /assets/img/juhatus/juhatus_eve_paap.jpg
+        amet: ESLi juhatuse aseesimees
+        email:
+            1: paap.eve@gmail.com
     -
         nimi: Kaire Siiner
         pilt:
@@ -38,12 +45,6 @@ juhatus:
             landscape: true
         email:
             1: urve.uusberg@gmail.com
-    -
-        nimi: Eve Paap
-        pilt:
-            url: /assets/img/juhatus/juhatus_eve_paap.jpg
-        email:
-            1: paap.eve@gmail.com
     -
         nimi: Liisa Rahusoo
         pilt:
