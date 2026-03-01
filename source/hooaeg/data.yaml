@@ -204,9 +204,9 @@ ESL_syndmused:
         #     aeg: 14. veebruar 
         #     asukoht: Tartu Karlova Kooli Salme majas
         -
-            path: ""
-            pealkiri: Emakeelepäeva kontsert
-            aeg: 14. märts
+            path: /syndmused/2026/emakeelepaev
+            pealkiri: Eesti Segakooride Liidu emakeelepäeva kontsert "SÕNAST HÄÄLENI KASVADES"
+            aeg: 14. märts 2026 kell 17.00
             asukoht: Estonia kontserdisaalis
         -
             path: ""
@@ -219,7 +219,7 @@ ESL_syndmused:
             aeg: aprill
             asukoht: ""
         -
-            path: ""
+            path: /syndmused/2026/laulupaev
             pealkiri: 3. Eesti Segakooride Liidu laulupäev
             aeg: 23. mai
             asukoht: Lihula laululava
