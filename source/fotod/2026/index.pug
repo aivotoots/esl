@@ -2,8 +2,6 @@ extends ../../_templates/layout.pug
 
 block peasisu
 
-    if self.subtitle
-        h4= self.subtitle
     if self.download 
         a(href=self.download)
             span Lae alla .zip
@@ -11,8 +9,26 @@ block peasisu
         br
         br
         span Fotode autor: #{self.autor}
-    ul.fotod-grid
+        br
+    if self.subtitle
+        h4= self.subtitle
+        ul.fotod-grid
         each foto, id in self.fotod
             li.fotod-foto
                 a(href= self.pref_domain + self.directory + "/" + foto.file, data-lightbox=self.directory)
                     img(src= self.pref_domain + self.directory + "/thumbs/thumbs_" + foto.file)
+
+    if self.subtitle2
+        h4= self.subtitle2
+        ul.fotod-grid
+            each foto, id in self.fotod2
+                li.fotod-foto
+                    a(href= self.pref_domain + self.directory2 + "/" + foto.file, data-lightbox=self.directory2)
+                        img(src= self.pref_domain + self.directory2 + "/" + foto.file)
+    if self.subtitle3
+        h4= self.subtitle3
+        ul.fotod-grid
+            each foto, id in self.fotod3
+                li.fotod-foto
+                     a(href= self.pref_domain + self.directory3 + "/" + foto.file, data-lightbox=self.directory3)
+                        img(src= self.pref_domain + self.directory3 + "/" + foto.file)
