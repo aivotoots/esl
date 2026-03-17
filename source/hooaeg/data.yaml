@@ -203,11 +203,11 @@ ESL_syndmused:
         #     pealkiri: XXV segakooride võistulaulmine Tuljak
         #     aeg: 14. veebruar 
         #     asukoht: Tartu Karlova Kooli Salme majas
-        -
-            path: /syndmused/2026/emakeelepaev
-            pealkiri: Eesti Segakooride Liidu emakeelepäeva kontsert "SÕNAST HÄÄLENI KASVADES"
-            aeg: 14. märts 2026 kell 17.00
-            asukoht: Estonia kontserdisaalis
+        # -
+        #     path: /syndmused/2026/emakeelepaev
+        #     pealkiri: Eesti Segakooride Liidu emakeelepäeva kontsert "SÕNAST HÄÄLENI KASVADES"
+        #     aeg: 14. märts 2026 kell 17.00
+        #     asukoht: Estonia kontserdisaalis
         -
             path: ""
             pealkiri: Eesti Segakooride Liidu volikogu
