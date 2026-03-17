@@ -1,6 +1,15 @@
 path: /fotod
 title: Fotod
 fotod:
+    "a_2026":
+        aasta: 2026
+        yritused:
+            -
+                pealkiri: Eesti Segakooride Liidu emakeelepäeva kontsert "SÕNAST HÄÄLENI KASVADES" Estonia Kontserdisaalis 14. märtsil 2026.a (Vahur Lõhmus)
+                path: /fotod/2026/emakeelepaev
+            -
+                pealkiri: XXV segakooride võistulaulmine Tuljak 14. veebruaril Tartu Karlova Kooli Salme majas 2026.a (Vahur Lõhmus)
+                path: /fotod/2026/tuljak
     "a_2024":
         aasta: 2024
         yritused:

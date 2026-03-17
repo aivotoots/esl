@@ -12,11 +12,11 @@ block peasisu
         br
     if self.subtitle
         h4= self.subtitle
-        ul.fotod-grid
+    ul.fotod-grid
         each foto, id in self.fotod
             li.fotod-foto
                 a(href= self.pref_domain + self.directory + "/" + foto.file, data-lightbox=self.directory)
-                    img(src= self.pref_domain + self.directory + "/thumbs/thumbs_" + foto.file)
+                    img(src= self.pref_domain + self.directory + "/" + foto.file)
 
     if self.subtitle2
         h4= self.subtitle2
