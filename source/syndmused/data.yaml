@@ -612,6 +612,12 @@ syndmused:
             kuup2evad:
                 -
                     12-04-2026
+        -
+            path: /syndmused/2026/raudam-kevadkontsert
+            pealkiri: Kevadkontsert (SK Raudam)
+            kuup2evad:
+                -
+                    24-04-2026
 
         -
             path: /syndmused/2026/laulupaev

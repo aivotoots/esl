@@ -239,7 +239,13 @@ ESL_syndmused:
             aeg: 5. detsember
             asukoht: ""
 
-# liikmeskooride_syndmused:
+liikmeskooride_syndmused:
+    2026:
+        -
+            path: /syndmused/2026/raudam-kevadkontsert
+            pealkiri: Kevadkontsert (SK Raudam)
+            aeg: 24. aprill kell 19.00
+            asukoht: Hopneri majas (Raekoja plats 18, Tallinn)
 #     2025:
         # -
         #    path: /syndmused/2025/valguse-k6lad
