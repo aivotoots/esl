@@ -246,6 +246,17 @@ liikmeskooride_syndmused:
             pealkiri: Kevadkontsert (SK Raudam)
             aeg: 24. aprill kell 19.00
             asukoht: Hopneri majas (Raekoja plats 18, Tallinn)
+        -
+            path: /syndmused/2026/chrous-menticum-juubel-Tallinn
+            pealkiri: Politseikoori Chorus Menticum juubelikontsert "Nõnda palju elu"
+            aeg: 24. mail 2026 kell 18.00
+            asukoht: Von Krahli Teatris (Telliskivi tn 60a/9, 10412 Tallinn)
+        -
+            path: /syndmused/2026/chrous-menticum-juubel-Tartu
+            pealkiri: Politseikoori Chorus Menticum juubelikontsert "Nõnda palju elu"
+            aeg: 4. juunil 2026 kell 19.00
+            asukoht: Tartu Sadamateatris (Soola tn 5, 51004 Tartu)
+            
 #     2025:
         # -
         #    path: /syndmused/2025/valguse-k6lad
