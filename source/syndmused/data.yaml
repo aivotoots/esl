@@ -646,6 +646,13 @@ syndmused:
                     04-06-2026
 
         -
+            path: /syndmused/2026/VHK-Helide-Teekond
+            pealkiri: VHK Kogukonnakoori kontsert \"Helide teekond\"
+            kuup2evad:
+                -
+                    06-06-2026
+
+        -
             path: /hooaeg
             pealkiri: Eesti Segakooride Liidu XII lauljate suvekool
             kuup2evad:
