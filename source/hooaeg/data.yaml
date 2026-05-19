@@ -213,11 +213,11 @@ ESL_syndmused:
         #     pealkiri: Eesti Segakooride Liidu volikogu
         #     aeg: 12. aprill
         #     asukoht: ""
-        -
-            path: ""
-            pealkiri: Eesti Segakooride Liidu õppereis Londonisse
-            aeg: aprill
-            asukoht: ""
+        # -
+        #     path: ""
+        #     pealkiri: Eesti Segakooride Liidu õppereis Londonisse
+        #     aeg: aprill
+        #     asukoht: ""
         -
             path: /syndmused/2026/laulupaev
             pealkiri: 3. Eesti Segakooride Liidu laulupäev
@@ -241,16 +241,16 @@ ESL_syndmused:
 
 liikmeskooride_syndmused:
     2026:
-        -
-            path: /syndmused/2026/raudam-kevadkontsert
-            pealkiri: Kevadkontsert (SK Raudam)
-            aeg: 24. aprillil kell 19.00
-            asukoht: Hopneri majas (Raekoja plats 18, Tallinn)
-        -
-            path: /syndmused/2026/EP-KK-kevadkontsert
-            pealkiri: Kevadkontsert (Eesti Panga kammerkoor)
-            aeg: 25. aprillil kell 17.00
-            asukoht: Kuusalu Rahvamajas
+        # -
+        #     path: /syndmused/2026/raudam-kevadkontsert
+        #     pealkiri: Kevadkontsert (SK Raudam)
+        #     aeg: 24. aprillil kell 19.00
+        #     asukoht: Hopneri majas (Raekoja plats 18, Tallinn)
+        # -
+        #     path: /syndmused/2026/EP-KK-kevadkontsert
+        #     pealkiri: Kevadkontsert (Eesti Panga kammerkoor)
+        #     aeg: 25. aprillil kell 17.00
+        #     asukoht: Kuusalu Rahvamajas
         -
             path: /syndmused/2026/chrous-menticum-juubel-Tallinn
             pealkiri: Politseikoori Chorus Menticum juubelikontsert "Nõnda palju elu"
@@ -261,6 +261,11 @@ liikmeskooride_syndmused:
             pealkiri: Politseikoori Chorus Menticum juubelikontsert "Nõnda palju elu"
             aeg: 4. juunil 2026 kell 19.00
             asukoht: Tartu Sadamateatris (Soola tn 5, 51004 Tartu)
+        -
+            path: /syndmused/2026/VHK-Helide-Teekond
+            pealkiri: VHK Kogukonnakoori kontsert "Helide teekond"
+            aeg: 6.juunil 2026 kell 16.00
+            asukoht: Sakala 3 teatrimajas (Tallinn)
             
 #     2025:
         # -
