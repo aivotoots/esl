@@ -25,13 +25,13 @@ juhatus:
         amet: Vice-Chairman
         email:
             1: paap.eve@gmail.com
-    -
-        nimi: Kaire Siiner
-        pilt:
-            url: /assets/img/juhatus/juhatus_kaire_siiner.jpg
-        amet: Executive manager
-        email:
-            1: eestisegakoorideliit@gmail.com
+    # -
+    #     nimi: Kaire Siiner
+    #     pilt:
+    #         url: /assets/img/juhatus/juhatus_kaire_siiner.jpg
+    #     amet: Executive manager
+    #     email:
+    #         1: eestisegakoorideliit@gmail.com
     -
         nimi: Mihkel Putrinš
         pilt:
