@@ -218,11 +218,11 @@ ESL_syndmused:
         #     pealkiri: Eesti Segakooride Liidu õppereis Londonisse
         #     aeg: aprill
         #     asukoht: ""
-        -
-            path: /syndmused/2026/laulupaev
-            pealkiri: 3. Eesti Segakooride Liidu laulupäev
-            aeg: 23. mai
-            asukoht: Lihula laululaval
+        # -
+        #     path: /syndmused/2026/laulupaev
+        #     pealkiri: 3. Eesti Segakooride Liidu laulupäev
+        #     aeg: 23. mai
+        #     asukoht: Lihula laululaval
         -
             path: ""
             pealkiri: Eesti Segakooride Liidu XII lauljate suvekool
@@ -239,8 +239,8 @@ ESL_syndmused:
             aeg: 5. detsember
             asukoht: ""
 
-liikmeskooride_syndmused:
-    2026:
+# liikmeskooride_syndmused:
+#     2026:
         # -
         #     path: /syndmused/2026/raudam-kevadkontsert
         #     pealkiri: Kevadkontsert (SK Raudam)
@@ -251,21 +251,21 @@ liikmeskooride_syndmused:
         #     pealkiri: Kevadkontsert (Eesti Panga kammerkoor)
         #     aeg: 25. aprillil kell 17.00
         #     asukoht: Kuusalu Rahvamajas
-        -
-            path: /syndmused/2026/chrous-menticum-juubel-Tallinn
-            pealkiri: Politseikoori Chorus Menticum juubelikontsert "Nõnda palju elu"
-            aeg: 24. mail 2026 kell 18.00
-            asukoht: Von Krahli Teatris (Telliskivi tn 60a/9, 10412 Tallinn)
-        -
-            path: /syndmused/2026/chrous-menticum-juubel-Tartu
-            pealkiri: Politseikoori Chorus Menticum juubelikontsert "Nõnda palju elu"
-            aeg: 4. juunil 2026 kell 19.00
-            asukoht: Tartu Sadamateatris (Soola tn 5, 51004 Tartu)
-        -
-            path: /syndmused/2026/VHK-Helide-Teekond
-            pealkiri: VHK Kogukonnakoori kontsert "Helide teekond"
-            aeg: 6.juunil 2026 kell 16.00
-            asukoht: Sakala 3 teatrimajas (Tallinn)
+        # -
+        #     path: /syndmused/2026/chrous-menticum-juubel-Tallinn
+        #     pealkiri: Politseikoori Chorus Menticum juubelikontsert "Nõnda palju elu"
+        #     aeg: 24. mail 2026 kell 18.00
+        #     asukoht: Von Krahli Teatris (Telliskivi tn 60a/9, 10412 Tallinn)
+        # -
+        #     path: /syndmused/2026/chrous-menticum-juubel-Tartu
+        #     pealkiri: Politseikoori Chorus Menticum juubelikontsert "Nõnda palju elu"
+        #     aeg: 4. juunil 2026 kell 19.00
+        #     asukoht: Tartu Sadamateatris (Soola tn 5, 51004 Tartu)
+        # -
+        #     path: /syndmused/2026/VHK-Helide-Teekond
+        #     pealkiri: VHK Kogukonnakoori kontsert "Helide teekond"
+        #     aeg: 6.juunil 2026 kell 16.00
+        #     asukoht: Sakala 3 teatrimajas (Tallinn)
             
 #     2025:
         # -
